@@ -488,3 +488,6 @@ side-channels while minimizing the trusted computing base. Alongside “clean-sl
 we will also explore minimal set of changes required in available TEEs in order to minimize
 vulnerabilities. This activity will provide guidelines to manufacturers to design future revisions of
 their TEEs.
+
+# References
+[1 - A. Skarmeta, “D3.1 Common Framework Handbook 1,” CyberSec4Europe, 2019.](https://cybersec4europe.eu/wp-content/uploads/2020/06/D3.1-Handbook-v2.0-submitted-1.pdf)
