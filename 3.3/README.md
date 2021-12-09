@@ -5,7 +5,7 @@
 # Overview
 
 
-##  List of Content
+## Content
 
 ### Assessing Security and Privacy Through the Entire Software Life Cycle 
 #### Scenario 
