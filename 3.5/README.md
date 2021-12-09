@@ -87,3 +87,6 @@ Existing adaptive security approaches have used formal techniques to support dec
 ### Reducing security uncertainties
 Existing adaptive security approaches operate under the assumption that the possible set of security controls
 is pre-determined and do not evaluate effectiveness of security controls at runtime.
+
+# References
+[1 - A. Skarmeta, “D3.1 Common Framework Handbook 1,” CyberSec4Europe, 2019.](https://cybersec4europe.eu/wp-content/uploads/2020/06/D3.1-Handbook-v2.0-submitted-1.pdf)
