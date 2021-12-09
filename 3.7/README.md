@@ -1,21 +1,46 @@
-# WP3 - Blueprint Design and Common Research 
+# Abstract
 
-## Task 3.1 Common Framework Design
+#List of Content
 
-## Task 3.2 Research and Integration on Cybersecurity Enablers and underlying Technologies
+## DPIA
+A Data Protection Impact Assessment (DPIA) is a process that helps organisations identify and minimise risks that result from data processing. DPIAs are usually undertaken when introducing new data processing processes, systems or technologies. Regular DPIAs supports the GDPR’s accountability principle, helping organisations demonstrate compliance. Conducting a DPIA can also help increase awareness of privacy and data protection issues within an organisation.An impact assessment should include measures, safeguards and  mechanisms  designed  to  mitigate  risk,  ensure  the  protection  of  personal  data  and  demonstrate compliance with the GDPR. DPIAis equally required for monitoring publicly accessible areas on a large scale, especially when using optic-electronic devices or for any other operations where the competent supervisory authority considers that the processing is likely to result in a high risk to the rights and freedoms of data subjects, in particular because they prevent data subjects from exercising a right or using a service or a contract, or because they are carried out systematically on a large scale.The processing of personal data should not be considered to be  on  a  large  scale  if  the  processing  concerns  personal  data  from  patients  or  clients  by  an  individual physician,  other  health  care  professional  or  lawyer.  In  such  cases,  a  data  protection  impactassessment should not be mandatory.Data Protection Impact Assessment  should include: 
+* a systematic description of the actions and purposes of the processing and, where appropriate, of the legitimate interests pursued by the controllers
+* an assessment of the necessity and proportionality of the processing operations according to their purpose
+* an assessment of the risks to the data subjects, including safeguards, security   measures   and mechanisms to ensure the protection of personal data.
+### Criteria for Carrying Out GDPR Data Protection Impact Assessments
+A  DPIA  is  a  process  designed  to  describe  the  processing,  assess  the  necessity  and  proportionality  of  a processing and to help manage the risks to the rights and freedoms of natural persons resulting from the processing of personal data (by assessing them and determining the measures to address them). DPIAs are important  tools  for  accountability,  as  they  help  controllers  not  only  to  comply  with  requirements  of  the GDPR but also to demonstrate that appropriate measures have been taken to ensure compliance with the GDPR. In other words, a DPIA is a process for building and demonstrating compliance.
+<br>
+The  more criteria  are  met  by  the  processing,  the  more  likely  it  is  to  present a  high risk  to  the  rights  and freedoms  of  data  subjects,  and  therefore  to  require  a  DPIA.  As  a  rule  of  thumb,  a  processing  operation meeting  less  than  two  criteria  may  not  require  a  DPIA  due  to  the  lower  level  of  risk,  and  processing operations which meet at least two of these criteria will require a DPIA.
 
-## Task 3.3 SDL – Software Development Lifecycle
+### Compliance with Approved Codes of Conduct and the Opinion of Individuals or Their Representatives
+GDPR codes are voluntary accountability tools which set out specific data protection rules for categories of controllers  and  processors.  They  can  be  a  useful  and  effective  accountability  tool,  providing  a  detailed description  of  what  is  the  most  appropriate,  legal  and  ethical  set  of  behaviours  of  a  sector.  From  a  data protection viewpoint, codes can, therefore,operate as a rulebook for controllers and processors who design and implement GDPR compliant data processing activities which give operational meaning to the principles of data protection set out in European and National law.Codesrepresent an opportunity to establish a set of rules which contribute to the proper application of the GDPR in a practical, transparent and potentially cost effective manner that takes on board the nuances for a particular sector and/or their processing activities. In this  regard,codes  can  be  drawn  up  for  controllers  and  processors  taking  account  of  the  specific characteristics of processing carried out in certain sectors and the specific needs of micro, small and medium enterprises. They have the potential to be an especially important and beneficial tool for both SMEs and micro  enterprise  businesses  by  providing  a  mechanism  which  allows  them  to  achieve  data  protection compliance in a more cost-effectiveway. For example, micro enterprises involved in similar health research activities could come together via their relevant associations and collectively develop a code in respect of their collection and processing of health data rather than attempting to carry out such comprehensive data protection analysison their own. Codes will also benefit supervisory authorities by allowing them to gain a better understanding and insight of the data processing activities of a specific profession, industry or other sector.Codes may also prove to be a significant and useful mechanism in the area of international transfers. New provisions in the GDPR allow third parties to agree to adhere to approved codes in order to satisfy legal requirements to provide appropriate safeguards in relation to international transfers of personal data to third countries. Additionally, approved codes of this nature may result in the promotion and cultivation of the level of protection which the GDPR provides to the wider international community while also permitting sustainable legally compliant international transfers of personal data. They may also serve as a mechanism which further develops and fosters data subject trust and confidence in the processing of data outside of the European Economic Area.
+### Protection of Personal Data
+GDPR radically changed the regulation of personal data protection; it conferred more rights to individuals and  imposed  more  obligations  on  companies  collecting  and  processing  personal  data.  The  regulation  is applicable not only to information service providers established in the EU but also to those who have their place of business outside the EU and process information about individuals located in the EU. Personal data has to be processed lawfully and in a fair and transparent way. Collecting personal data can be done only for  a  particular,  explicit  and  lawful  purpose.  The  data  has  to  be  appropriate,  relevant  and  limited  to  the purposes for which it is being processed. Furthermore, it has to coincide with the facts and has to be up-to-date. Moreover, it can be stored no longer than the purpose allows it. Finally, the data must be protected with  appropriate  measures  against  unauthorised  and  unlawful  processing  as  well  as  accidental  loss, destruction and damage.
+###  Privacy Principles in GDPR
+ISACA  Privacy  Principlesare  an  established set  of privacy provisions  that are  already  more  commonly known and used. These are:  Choice and consent, Determination of lawful purpose and limitation of use, The life cycle of personal and sensitive information, Punctuality and quality, Openness, transparency and information, Participation of individuals, Responsibility, Security measures, Monitoring, measuring and reporting, Prevention of damage, Supplier / third party management, Management of incidents, Built-in security and privacy, Free movement of information and legal restriction
+## Risk Assessment Methodology
+### The Basis for Identifying Potential Sources and Consequences of Risks
+Privacy principles provide the basis for identifying potential sources and consequences of risks but are not sufficient to fully address and conduct a risk assessment. <br>
+Risk represents the effect of uncertainty on the goals set and the risk management of a concerted activity aimed at directing and controlling the organization in the area of risk. Probability isthe likelihood of an event. Control is a measure that maintains or alters the risk and may include processes, policies, devices, processes and other conditions and/or activities that maintain and/or alter the risk. When designing a risk management framework, an organization should consider and understand the external and internal contexts, so it is essential to understand and summarize at least the essential elements and nature of the processing of personal data in order to conduct a structured risk assessment.
+### Risk Identification
+In order to identify the risk, the following should be considered: tangible and intangible sources of risk, the nature and value of the resources, traps and opportunities, vulnerabilities and capabilities, the consequences and their impact on the set goals, the nature and value of the resources. According  to  the  GDPR,  risk  analysis  can  be  carried  out  with  different  levels  of  detail  and  complexity, depending on the purpose of the analysis, the availability and reliability of the information, and the resources available.
+### Risk Criteria
+For the purpose of establishing quantitative risk criteria, the following possibilitylevels for an individual event are determined: 
+* 0 -Not possible because we do not carry out this type of processing of personal data or this type of activity. 
+* 1 -Lowwhen the likelihood of an event is less than once a year, rapid elimination of consequences (same day), proven compliance with regulations. 
+* 2 -Mediumin the event that the probabilityof an event of up to two times a year is acceptable elimination of consequences (not later than the next day), it is not reliable,or all the requirements of the regulations are met. 
+* 3 -Highwhen the probabilityof an event is up to once in half a year, acceptable elimination of consequences (not later than the next day), the requirements are not reliably fulfilled.<br>
+For  the  purpose  of  quantitative  risk  criteria,  risk  or  severity  levels  are  determined  for  the  purpose  of assessing individual risk: 
+* 1 -Lowwhen the consequences of an event will have no effect on the rights and freedoms of the individual or the consequences for the rights and freedoms of the individual will be negligible. 
+* 2 -Medium, when the consequences of an event could have an effect on the rights and freedoms of the individual, which can be mitigated in an acceptable time and with reasonable effort. 
+* 3 -Highwhen  the  consequences  of  the  event  will  have  a  significant  impact  on  the  rights  and freedoms of the individual, which cannot be mitigated or can only be mitigated after a long time and with great effort.
+## The Opinion of the Data Protection Officer
+The controllercan ask the Data Protection Officer for the opinion on:
+* whether or not to carry out a data protection impact assessment
+* what methodology to use when conducting the data protection impact assessment
+* whether to carry out the data protection impact assessment internally or outsource it
+* what safeguards (including technical and organizational measures) to use to reduce potential risks to the data subjects' rights and interests
+* whether the data protection impact assessment was properly carried out and whether its findings (whether  processing  should  continue  or  not  and  what  safeguards  should  be  applied)  are  in accordance with the GDPR.
+## Self-assessment
+Self-assessment of the  produced  impact  assessment  is  carried  out  according  to  the  DPIA  adequacy  assessment  criteria  in accordance with the guidelines on the Data Protection Working Party's data protection workgroup.
 
-## Task 3.4 Security Intelligence 
-
-## Task 3.5 Adaptive Security
-
-## Task 3.6 Usable Security (Human-centred Cybersecurity)
-
-## Task 3.7 Regulatory Sources for citizen-friendly Goals
-
-## Task 3.8 Conformity, Validation and Certification
-
-## Task 3.9 Continuous Scouting
-
-## Task 3.10 Impact on Society
