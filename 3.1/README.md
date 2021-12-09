@@ -6,7 +6,7 @@ We proposes and explain the CyberSec4Europe global functional architecture that 
 
 In addition, the handbook defines the common template, the common framework, in an interoperable way. It describes the different cyber-security and privacy assets of WP3 using common and standard taxonomies from NIST and JRC. Several assets have been identified and categorized. In addition,we describes the analysis done to map the WP3 assets with the requirements of WP5 pilots and included the additional assets intended as part of WP5.
 
-## List of resources
+## Content
 
 ### Template
 The template defines a set of attributes, optional and mandatory, that any proposed asset has, such as a name,
