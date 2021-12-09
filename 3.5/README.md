@@ -1,6 +1,8 @@
 
 
 # Abstract
+This task will explore the development of flexible security solutions that can quickly adapt security controls in response to security changes such as new attacks or changes in security requirements. To improve the modelling and  analysis  of  dynamic systems,  we will  provide  tools  and  techniques  to support  elicitation  and  representation  of assets, security requirements and threats, focusing on interconnected systems in various domains (e.g., cloud systems and Internet of Things). This task will also provide scalable architectures supporting security situation computation and risk assessment, and also selection and deployment of security controls that could satisfy security requirements and  policies,  also  enabling  awareness  of  the  current  system  status.  Finally,  the  acceptance  of  adaptive  systems  by stakeholders will be addressed developing techniques to provide explanations (assurances) about why certain security controls should be adapted.
+
 
 # Introduction
 In the last years we have seen an increasing amount of large-scale, severe breaches, such as the Equifax
