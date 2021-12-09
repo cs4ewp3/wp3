@@ -75,3 +75,6 @@ D3.5 recommended that usability research methods should be used throughout the d
 D3.5 recommended the use of authenticated encryption to protect the integrity of the communications as well as the privacy of the content. It is recommended to capture usability requirements for designing such  solutions  by  involving  a  wider  audience.  Subsequently,  their  nature  and  habits  to  be  studied  to prepare a usability validation checklist.
 5. Validation of usability requirements for user authentication.
 D3.5 recommended providing user authentication methods  that are  both secure  and privacy-friendly, suggesting  the  use  of  biometrics.  Generally,  a  user  generally  uses  a  number  of  smart  devices  and security-sensitive  applications  on  a  daily  basis.  Usability  validation  methods  must  ensure  that  user authentication schemes do not add cognitive load, easeof use, do not require any technical knowledge, and do not frustrate users.  
+
+# References
+[1 - A. Skarmeta, “D3.1 Common Framework Handbook 1,” CyberSec4Europe, 2019.](https://cybersec4europe.eu/wp-content/uploads/2020/06/D3.1-Handbook-v2.0-submitted-1.pdf)
