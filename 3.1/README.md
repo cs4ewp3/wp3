@@ -46,7 +46,7 @@ privacy configurations and decisions. Additionally, it incorporates secure ident
 authentication and authorization, all of these techniques with a usable security approach.
 #### Planes 
 * The Control and Management Plane administers the resources and run-time operations of the security
-enablers deployed in the Managed Domain. 
+enablers deployed in the Managed Domain. D3.1[1]contained seven building blocks, eachof which applied a functional activity: Security Enforcement, Reaction, Monitoring, Cybersecurity Awareness, Trust-Privacy Management, Supply Chain Analysis, Certification of Security products.
 * The Intelligence Plane provides autonomic and cognitive capabilities to perform real-time assessments
 related to cyber-security on the CyberSec4Europe framework, including risk, legal, privacy and impact. It
 permits to automatically react and adapt the security controls in response to new threats or security
@@ -63,3 +63,7 @@ framework and the system.
 * Task 3.7 Regulatory Management: 2 assets
 * Task 3.8 Confomity, Validation, Certification: 1 asset
 * Task 3.10 Impact on Society: 1 asset
+
+
+# References
+[1 - A. Skarmeta, “D3.1 Common Framework Handbook 1,” CyberSec4Europe, 2019.](https://cybersec4europe.eu/wp-content/uploads/2020/06/D3.1-Handbook-v2.0-submitted-1.pdf)
