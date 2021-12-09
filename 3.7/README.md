@@ -45,3 +45,5 @@ The controllercan ask the Data Protection Officer for the opinion on:
 ## Self-assessment
 Self-assessment of the  produced  impact  assessment  is  carried  out  according  to  the  DPIA  adequacy  assessment  criteria  in accordance with the guidelines on the Data Protection Working Party's data protection workgroup.
 
+# References
+[1 - A. Skarmeta, “D3.1 Common Framework Handbook 1,” CyberSec4Europe, 2019.](https://cybersec4europe.eu/wp-content/uploads/2020/06/D3.1-Handbook-v2.0-submitted-1.pdf)
