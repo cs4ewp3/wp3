@@ -83,7 +83,7 @@ objectives (detect, prevent and mitigate).
 Existing adaptive security systems should be designed assuming that their stakeholders can be involved in
 the execution of some of the activities of the MAPE loop.
 ### Perpetual security assurances
-Existing adaptive security approaches have used formal techniques to support decision making. H
+Existing adaptive security approaches have used formal techniques to support decision making.
 ### Reducing security uncertainties
 Existing adaptive security approaches operate under the assumption that the possible set of security controls
 is pre-determined and do not evaluate effectiveness of security controls at runtime.
