@@ -58,3 +58,5 @@ The  TPM  is  a  promising  technology,  but,  as  we  discussed,  it  has  seve
 
 ## 5G applications
 5G is the new promised land where every device is connected. The adoption of this family of technologies, however, will also bring new problems. An attack on a 5G-enabled appliance may have severe repercussions on its connected devices, thus exacerbating  the attack's effects. The wide use of both hardware and software protections will most likely be a decisive factor to make 5G networks more secure, especially with the growth of the SDN paradigm. Furthermore, user authentication will play a pivotal role. Different stakeholders and the vast heterogeneity of devices supporting 5G will be a challenge in the near future.
+# References
+[1 - A. Skarmeta, “D3.1 Common Framework Handbook 1,” CyberSec4Europe, 2019.](https://cybersec4europe.eu/wp-content/uploads/2020/06/D3.1-Handbook-v2.0-submitted-1.pdf)
