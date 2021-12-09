@@ -19,3 +19,5 @@ As is the case with most general frameworks, the ARMOUR methodology can be very 
 We  have  modifiedan  existing  asset  from  CYBER(the  CSA  tool)  to  serve  as  a  prototype  for  this methodology.The CSA tool is originally intended for incident management, but has been altered so that a user  can  enter  and  interlink  information  concerning  a  target  of  evaluation.  At  the  current  stage,  the demonstrator is a prototype of the planned system, and as suchdoes not offer further automation of processes (e.g. risk score estimation, automatic scheduling of tests for recertification). This will be part of our future efforts.
 </br>
 The demonstrator is divided into three main categories concerning assets, risks and tests.The user can add information about all of these categories and interlink them based on their connections. For an object in any category it is possible to define a level of importance, whichwill help with prioritising. 
+# References
+[1 - A. Skarmeta, “D3.1 Common Framework Handbook 1,” CyberSec4Europe, 2019.](https://cybersec4europe.eu/wp-content/uploads/2020/06/D3.1-Handbook-v2.0-submitted-1.pdf)
