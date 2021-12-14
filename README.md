@@ -1,11 +1,5 @@
 # WP3 - Blueprint Design and Common Research 
 WP3 is responsible for definition of common research, development and innovation in next generation cybersecurity technologies (including dual-use), applications and services; focus should be on horizontal cybersecurity technologies and cybersecurity in critical sectors (e.g. energy, transport, health, finance). WP3 will provide the common research support for the different WPs especially coordinated with WP4 and WP5 to connect the research and innovation with the demonstration and industrial sector to be covered. The WP will create synergies between experts from various cybersecurity domains, providing a mass of researchers and results strengthening its scientific and technological bases by achieving a European research area of cybersecurity. WP3 will run aligned with the two cycles design of CyberSec4Europe providing a first result to be used on the first deployment of WP5 and feedback providing an enhancement on its outcomes. 
-</br>
-
-[Reference README](3.4/README.md) -> 
-[Original repository](https://github.com/cs4ewp3t4/cs4ewp3t4)
-
-
 ## Task 3.1 Common Framework Design
 [Link to 3.1 folder](3.1/)
 </br>
@@ -48,3 +42,5 @@ This task will monitor the trends in the cybersecurity field to identify innovat
 [Link to 3.10 folder](3.10/)
 </br>
 The objective of this task is to advance the state of the art by developing a novel security awareness conceptual model, monitoring and enhancement methods with international applicability. This task will be devoted to analyse and identify efficient measures and methods for the continuous enhancement of societal security awareness, which should be held regularly to ensure that the staff is knowledgeable regarding the up-to-date security solutions, referring to private usage of digital technologies, human aspects of information security, professional practice and competence-development, governance, management and achievement of results and use of serious games for privacy and security awareness rising. 
+## Reference README
+[README from 3.4](3.4/README.md)
