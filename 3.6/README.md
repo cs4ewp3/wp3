@@ -89,25 +89,27 @@ From the research conducted on and with these assets we can also identify three 
 
 In the following table the assets and other research are listed and mapped to the three user layers (denoted with User, Guidance and Analysis) and research themes (denoted with Privacy, Requirements and Human).
 
-|     Asset                             |     Non-asset   research           |     Asset   layer          |     Research Theme        | 
-|---------------------------------------|------------------------------------|----------------------------|---------------------------|
-|     Privacy-preserving   IdM          |                                    |     User                   |     Privacy               |
-|     DPIA   template                   |                                    |     Guidance   and User    |     Privacy               |
-|                                       |     Privacy settings prediction    |     Guidance   and User    |     Privacy               |
-|     HATCH                             |                                    |     Analysis               |     Human                 |
-|     CyberSecurity   Awareness Quiz    |                                    |     Guidance   and User    |     Human                 |
-|     LiSRA                             |                                    |     Guidance   and User    |     Human                 |
-|                                       |     Privacy notifications          |     User   and Guidance    |     Requirements          |
-|     Adaptive   Authentication         |                                    |     User                   |     Requirements          |
-|     HAMSTERS                          |                                    |     Analysis               |     Human                 |
-|     EEVEHAC                           |                                    |     User                   |     Human                 |
-|     SYSVER                            |                                    |     Analysis               |     Human                 |
-|     AuthGuide                         |                                    |     Guidance   and User    |     Human                 |
-|                                       |     Privacy concerns               |     Analysis               |     Human and Privacy     |
-|     LEECH                             |                                    |     Guidance   and User    |     Human and Privacy     |
+|     Asset                             |     Non-asset   research           |     Asset   layer          |     Research Theme        | Reference |
+|---------------------------------------|------------------------------------|----------------------------|---------------------------|---|
+|     Privacy-preserving   IdM          |                                    |     User                   |     Privacy               ||
+|     DPIA   template                   |                                    |     Guidance   and User    |     Privacy               ||
+|                                       |     Privacy settings prediction    |     Guidance   and User    |     Privacy               ||
+|     HATCH                             |                                    |     Analysis               |     Human                 ||
+|     CyberSecurity   Awareness Quiz    |                                    |     Guidance   and User    |     Human                 ||
+|     LiSRA                             |                                    |     Guidance   and User    |     Human                 ||
+|                                       |     Privacy notifications          |     User   and Guidance    |     Requirements          ||
+|     Adaptive   Authentication         |                                    |     User                   |     Requirements          ||
+|     HAMSTERS                          |                                    |     Analysis               |     Human                 ||
+|     EEVEHAC                           |                                    |     User                   |     Human                 |[Hekkala et al.](https://www.scitepress.org/Papers/2021/105178/105178.pdf)|
+|     SYSVER                            |                                    |     Analysis               |     Human                 ||
+|     AuthGuide                         |                                    |     Guidance   and User    |     Human                 ||
+|                                       |     Privacy concerns               |     Analysis               |     Human and Privacy     ||
+|     LEECH                             |                                    |     Guidance   and User    |     Human and Privacy     ||
 ## Publications
 
-Hekkala, J., Nikula, S., Latvala, O. M., & Halunen, K. (2021). Involving Humans in the Cryptographic Loop: Introduction and Threat Analysis of EEVEHAC. In 18th International Conference on Security and Cryptography, SECRYPT 2021 (pp. 659-664). SciTePress. [EEVEHAC](https://www.scitepress.org/Papers/2021/105178/105178.pdf)
+[Halunen, K., & Latvala, O. M. (2021). Review of the use of human senses and capabilities in cryptography. Computer Science Review, 39, 100340.](https://doi.org/10.1016/j.cosrev.2020.100340)
+
+[Hekkala, J., Nikula, S., Latvala, O. M., & Halunen, K. (2021). Involving Humans in the Cryptographic Loop: Introduction and Threat Analysis of EEVEHAC. In 18th International Conference on Security and Cryptography, SECRYPT 2021 (pp. 659-664). SciTePress.](https://www.scitepress.org/Papers/2021/105178/105178.pdf)
 
 
 # References
