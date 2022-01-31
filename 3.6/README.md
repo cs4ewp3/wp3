@@ -80,5 +80,35 @@ D3.5 recommended the use of authenticated encryption to protect the integrity of
 5. Validation of usability requirements for user authentication.
 D3.5 recommended providing user authentication methods  that are  both secure  and privacy-friendly, suggesting  the  use  of  biometrics.  Generally,  a  user  generally  uses  a  number  of  smart  devices  and security-sensitive  applications  on  a  daily  basis.  Usability  validation  methods  must  ensure  that  user authentication schemes do not add cognitive load, easeof use, do not require any technical knowledge, and do not frustrate users.  
 
+# Assets and Other Research
+In this task the focus of research and development of assets is on the users and usability. Several assets are developed in neighbouring tasks as well. Besides the usability research on our assets, we also present other research conducted in this task that relates to usability of security solutions.
+
+The assets can be divided into three groups according to their relationship with the user: the user layer,  the guidance layer and  the analysis layer. In the user layer the assets are directly used by either a layperson or a professional to achieve a goal, like authenticating themselves to access a service. In the guidance layer the user is still choosing to interact with the asset, but the purpose of the user is to learn something; these assets try to advise or influence the user, so that they can perform other tasks more securely. For example, when the user is trying to perform a data protection impact assessment (DPIA), they can consult the prepared DPIA template. The analysis layer is slightly different compared to the other two. It contains assets that analyze or model the actions of the user or the usability of other security solutions. Visualizations are used to make security information more understandable. 
+
+From the research conducted on and with these assets we can also identify three main themes: data privacy and protection; solutions for fulfilling security requirements; and analysing and illuminating security for the benefit of users. Firstly, processing of personal data is a necessary step in many modern services. From the point of view of businesses, it is important to be in compliance with regulations, e.g., the General Data Protection Regulation (GDPR). Moreover, from the point of view of the citizen it is important to have knowledge and options on the ways their personal data can be used. This requires tools that enable the decision (i.e., privacy-enhancing tools so that there is a real possibility for managing personal information during interactions), but also that those tools are adapted to user preferences, or they will be dismissed by users in favour of more convenient (but privacy-harming) solutions. The second theme covers the research on security requirements. Validation of security requirements has been discussed in D3.7, and in D3.16 we present tools for eliciting and fulfilling them. And finally, the third theme is about enhancing the human understanding of security solutions. We have studied how to make security solutions more user friendly, and how to present security information to a user in a clear and understandable manner. The tools to achieve these goals include modelling, visualizations and development of suitable frameworks.
+
+In the following table the assets and other research are listed and mapped to the three user layers (denoted with User, Guidance and Analysis) and research themes (denoted with Privacy, Requirements and Human).
+
+|     Asset                             |     Non-asset   research           |     Asset   layer          |     Research Theme        | 
+|---------------------------------------|------------------------------------|----------------------------|---------------------------|
+|     Privacy-preserving   IdM          |                                    |     User                   |     Privacy               |
+|     DPIA   template                   |                                    |     Guidance   and User    |     Privacy               |
+|                                       |     Privacy settings prediction    |     Guidance   and User    |     Privacy               |
+|     HATCH                             |                                    |     Analysis               |     Human                 |
+|     CyberSecurity   Awareness Quiz    |                                    |     Guidance   and User    |     Human                 |
+|     LiSRA                             |                                    |     Guidance   and User    |     Human                 |
+|                                       |     Privacy notifications          |     User   and Guidance    |     Requirements          |
+|     Adaptive   Authentication         |                                    |     User                   |     Requirements          |
+|     HAMSTERS                          |                                    |     Analysis               |     Human                 |
+|     EEVEHAC                           |                                    |     User                   |     Human                 |
+|     SYSVER                            |                                    |     Analysis               |     Human                 |
+|     AuthGuide                         |                                    |     Guidance   and User    |     Human                 |
+|                                       |     Privacy concerns               |     Analysis               |     Human and Privacy     |
+|     LEECH                             |                                    |     Guidance   and User    |     Human and Privacy     |
+## Publications
+
+Hekkala, J., Nikula, S., Latvala, O. M., & Halunen, K. (2021). Involving Humans in the Cryptographic Loop: Introduction and Threat Analysis of EEVEHAC. In 18th International Conference on Security and Cryptography, SECRYPT 2021 (pp. 659-664). SciTePress. [EEVEHAC](https://www.scitepress.org/Papers/2021/105178/105178.pdf)
+
+
 # References
 [1 - A. Skarmeta, “D3.1 Common Framework Handbook 1,” CyberSec4Europe, 2019.](https://cybersec4europe.eu/wp-content/uploads/2020/06/D3.1-Handbook-v2.0-submitted-1.pdf)
