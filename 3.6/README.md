@@ -99,18 +99,22 @@ In the following table the assets and other research are listed and mapped to th
 |     LiSRA                             |                                    |     Guidance   and User    |     Human                 ||
 |                                       |     Privacy notifications          |     User   and Guidance    |     Requirements          ||
 |     Adaptive   Authentication         |                                    |     User                   |     Requirements          ||
-|     HAMSTERS                          |                                    |     Analysis               |     Human                 ||
+|     HAMSTERS                          |                                    |     Analysis               |     Human                 |[Broders et al.](https://link.springer.com/chapter/10.1007/978-3-030-64266-2_4)|
 |     EEVEHAC                           |                                    |     User                   |     Human                 |[Hekkala et al.](https://www.scitepress.org/Papers/2021/105178/105178.pdf)|
 |     SYSVER                            |                                    |     Analysis               |     Human                 ||
-|     AuthGuide                         |                                    |     Guidance   and User    |     Human                 ||
+|     AuthGuide                         |                                    |     Guidance   and User    |     Human                 |[Preuveneers et al.](https://www.springerprofessional.de/en/authguide-analyzing-security-privacy-and-usability-trade-offs-in/19616856)|
 |                                       |     Privacy concerns               |     Analysis               |     Human and Privacy     ||
 |     LEECH                             |                                    |     Guidance   and User    |     Human and Privacy     ||
 ## Publications
+[Broders, N., Martinie, C., Palanque, P., Winckler, M., Halunen, K. (2020). A Generic Multimodels-Based Approach for the Analysis of Usability and Security of Authentication Mechanisms. In Proc. of Human-Centered Software Engineering - 8th IFIP WG 13.2 International Working Conference, HCSE 2020, Eindhoven, The Netherlands, November 30 - December 2, 2020, HCSE 2020. Lecture Notes in Computer Science 12481, pp. 61-83. Springer 2020.](https://link.springer.com/chapter/10.1007/978-3-030-64266-2_4)
+
+Martinie, C., Grigoriadis, C., Kalogeraki, E.-M., Kotzanikolaou, P. (2021). Modelling Human Tasks to Enhance Threat Identification in Critical Maritime Systems. In 25th Pan-Hellenic Conference on Informatics, PCI 2021, November 26–28, 2021, Volos, Greece. ACM, New York, NY, USA, 6 pages.
 
 [Halunen, K., & Latvala, O. M. (2021). Review of the use of human senses and capabilities in cryptography. Computer Science Review, 39, 100340.](https://doi.org/10.1016/j.cosrev.2020.100340)
 
 [Hekkala, J., Nikula, S., Latvala, O. M., & Halunen, K. (2021). Involving Humans in the Cryptographic Loop: Introduction and Threat Analysis of EEVEHAC. In 18th International Conference on Security and Cryptography, SECRYPT 2021 (pp. 659-664). SciTePress.](https://www.scitepress.org/Papers/2021/105178/105178.pdf)
 
+[Preuveneers, D., Joos, S., & Joosen, W. (2021, September). AuthGuide: Analyzing Security, Privacy and Usability Trade-Offs in Multi-factor Authentication. In International Conference on Trust and Privacy in Digital Business (pp. 155-170). Springer, Cham.](https://www.springerprofessional.de/en/authguide-analyzing-security-privacy-and-usability-trade-offs-in/19616856)
 
 # References
 [1 - A. Skarmeta, “D3.1 Common Framework Handbook 1,” CyberSec4Europe, 2019.](https://cybersec4europe.eu/wp-content/uploads/2020/06/D3.1-Handbook-v2.0-submitted-1.pdf)
