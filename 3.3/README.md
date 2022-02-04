@@ -22,6 +22,8 @@ The challenges are described in detail in the document [D3.9 Research challenges
 
 The analysis of the research challenges lead to the identification of promising tool-supported approaches to be developed in order to address the challenges. A total of 13 tools to support different activities in the lifecycle of software was developed and demonstrated on a common smart-cities scenario as illustrated in the figure below.
 
+![Tools for Secure Software Lifecycle](T3.3.-assests-demonstrator.png)
+
 Summary:
 
 **Sobek**
