@@ -108,5 +108,6 @@ Sousa, Patricia. "Privacy Preserving Middleware Platform for IoT" (2021). Univer
 
 # References
 [1 - A. Skarmeta, “D3.1 Common Framework Handbook 1,” CyberSec4Europe, 2019.](https://cybersec4europe.eu/wp-content/uploads/2020/06/D3.1-Handbook-v2.0-submitted-1.pdf)
+
 [2 - J. Resende, "D3.13 Updated version of enablers and components"  CyberSec4Europe, 2021.](https://cybersec4europe.eu/wp-content/uploads/2022/02/D3.13-Updated-version-of-enablers-and-components-v3.0-submitted.pdf)
 
