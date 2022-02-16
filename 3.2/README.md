@@ -85,30 +85,37 @@ Sousa, Patricia. "Privacy Preserving Middleware Platform for IoT" (2021). Univer
 * Main publication:
 
 **Backdoor-resistant TEEs**
+* Summary: SR-EPID is a subversion resilient version of Enhanced Privacy ID, the protocol used by Intel SGX for remote attestation. In the context of Trusted Execution Environments, remote attestation enables a party to establish trust in a TEE running on a remote platform. In the context of the demonstrator described earlier in this document, SR-EPID may be used in the geolocation scenario so that the integrity of the devices where geolocation data is going to be processed, is verified before such data is uploaded. All the popular remote attestation protocols balance authenticity and privacy by using group signature schemes. The latter is a digital signature scheme that allows a verifier to verify a signature as issued by a member of a trusted set while keeping the signer itself anonymous (within that set). In the context of Intel SGX, remote attestation uses a special system enclave, named Quoting Enclave, that certifies the application enclaves running on the same platform. Certification
 * Video: https://drive.google.com/file/d/1eAIAyy88FqoFjCeyIX4VeRAplNV8_m2u/view?usp=sharing
 * Main publication:
 
 **Elastic Deployment of TEE-based**
+* Summary: Processing a large amount of sensitive data requires secure and scalable solutions. For example, location data – as the one processed in the geolocation scenario - is considered as a privacy-sensitive data type so that the platform processing the data should be secured to minimize data leakage. At the same time, the platform should allow for dynamic resource allocations so to cope with different amounts of data to be processed. ReplicaTEE is a solution that enables dynamic enclave replication and de-commissioning for TEE-based applications in the cloud. In particular, ReplicaTEE is designed to enable replication of applications that use Intel SGX – arguably the most popular TEE for workstations – as the undelaying TEE. Given the current deployment model of Intel SGX enclaves, replication of an enclave across machines requires the application owner to either be always online so to provision secret material to newly deployed enclaves, or to trust the cloud provider with managing the enclave secrets. An always- online application owner reduces the benefit of outsourcing to the cloud; trusting the cloud provider with managing enclave secrets voids the advantages of using a TEE.
 * Video: https://drive.google.com/file/d/1CudeUP_lcfLRifNSpxDm9InXmOlG8zJl/view?usp=sharing
 * Main publication:
 
 **Cryptovault**
+* Summary: CryptoVault is a system intended for users of different blockchain technologies. It comprises a hardware wallet that securely stores and manages the sensitive user keys, and a reliable method for backing up these keys as independent shares stored in multiple locations. The aim is to combine the best features of different wallet types while minimizing the risks related to these wallets. CryptoVault generates keys with high entropy, offers end-to-end protected key backup, signs transactions inside a trusted execution environment and can run key recovery without a single point of failure.
 * Video: https://drive.google.com/file/d/1dPYFWjUg3EMeatZ9LUB18RKb7r7qVCPE/view?usp=sharing
 * Main publication:
 
 **DANS**
+* Summary: The main aim of the Data Anonymization Service (DANS) tool is data protection, namely preserving personal data privacy. Considering regulatory aspects anonymized data are excluded from GDPR regulation because anonymized data is no longer “personal data”. In this way, the DANS asset is an anonymization tool that avoids user tracking and user re-identification by the use of privacy and risk models which prevents privacy threats when data are managed. As perfect anonymization is not possible it is necessary to balance between privacy and data accuracy for analytics.
 * Video: https://drive.google.com/file/d/1VmyEBShh260Qa48ONsp9c38i_bxmC4T4/view?usp=sharing                                                   
 * Main publication:
 
 **Privacy-Aware Aggregate Programming**
+* Summary: Privacy-aware aggregate programming is a programming model centered around privacy protection and aggregate programming. The key concern is the trade-off between data utility and privacy protection. To illustrate this paradigm, consider one of the classical use-cases of aggregate programming for computing a so-called proximity field. The problem in this use-case is a 2D map where several agents, obstacles and locations of interest are spread. The agents want to collaborate in helping each other to find the locations of interest but they do not want to share their actual position with each other or with any central system. The aggregate programming solution to this problem is to build a proximity field: each agent in the map will indicate to closely located agents a notion of proximity. To calculate this field the agents, execute a simple aggregation-based program: iteratively aggregate the neighbors’ proximity with the “min” operation, adding an estimate of the neighbor’s distance.
 * Video: https://drive.google.com/file/d/15_JW3VZW2OGxxQzXBfsJ1qxoOG18kCRk/view?usp=sharing                                                   
 * Main publication:
 
 **Edge-Privacy**
+* Summary: The Privacy Manager is devised as a virtualized service that can be deployed in edge-ready devices. It allows data owners to decide under what circumstances the data collected from IoT devices are released to third parties and the level of detail at which these data are shared. The privacy preferences of the data owner are encoded as a set of rules defined in privacy policy files. In essence, the Edge Privacy Manager operates as a privacy proxy between IoT devices and data consumers willing to access their data.
 * Video: https://drive.google.com/file/d/1-HPavIH_7CXQluPhBqQGmpldVcI1xrph/view?usp=sharing                                              
 * Main publication:
 
 **Password-less authentication**
+* Summary: The password-less authentication asset is based on the FIDO standards8 . It provides a device-centric authentication that implements a) a challenge-response scheme in which the user is authenticated locally (i.e., on the device that it is deployed to access the service) using alternative authentication methods, such as PIN, USB keys, and biometrics and b) public key cryptography to authenticate the device in the service. During the FIDO authentication, when a user (in our case a student) is authenticated in its device (for instance, using a USB key), it unlocks its private key, which subsequently is deployed to sign the challenge and the service deploys the user’s public key, to decode the challenge.
 * Video: https://drive.google.com/file/d/1GpjutgdyqpWmXQ_AfIPByX7pOOIiqCC-/view?usp=sharing
 * Main publication:
 
