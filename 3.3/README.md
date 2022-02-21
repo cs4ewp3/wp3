@@ -67,7 +67,7 @@ Hess, Andreas V., et al. "Performing Security Proofs of Stateful Protocols." 34t
 Meland, Per Håkon, et al. "A Systematic Mapping Study on Cyber Security Indicator Data." Electronics 10.9 (2021): 1092.
 
 **HoneyGen**
-* Tool: https://bitbucket.org/srecgrp/honeygen-generating-honeywords-using- representation-learning/
+* Tool: https://bitbucket.org/srecgrp/honeygen-generating-honeywords-using-representation-learning/
 * Main publications: 
 Dionysiou, Antreas, Vassilis Vassiliades, and Elias Athanasopoulos. "HoneyGen: Generating Honeywords Using Representation Learning." Proceedings of the 2021 ACM Asia Conference on Computer and Communications Security. 2021.
 
