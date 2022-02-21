@@ -112,7 +112,7 @@ Sousa, Patricia. "Privacy Preserving Middleware Platform for IoT" (2021). Univer
 **Edge-Privacy**
 * Summary: The Privacy Manager is devised as a virtualized service that can be deployed in edge-ready devices. It allows data owners to decide under what circumstances the data collected from IoT devices are released to third parties and the level of detail at which these data are shared. The privacy preferences of the data owner are encoded as a set of rules defined in privacy policy files. In essence, the Edge Privacy Manager operates as a privacy proxy between IoT devices and data consumers willing to access their data.
 * Video: https://drive.google.com/file/d/1-HPavIH_7CXQluPhBqQGmpldVcI1xrph/view?usp=sharing                                              
-* Main publication:
+* Main publication: R. Rios et al. "Personal IoT Privacy Control at the Edge” IEEE Security and Privacy, vol 20. Issue 1, Jan-Feb 2022. Page(s): 23 - 32. DOI: 10.1109/MSEC.2021.3101865
 
 **Password-less authentication**
 * Summary: The password-less authentication asset is based on the FIDO standards8 . It provides a device-centric authentication that implements a) a challenge-response scheme in which the user is authenticated locally (i.e., on the device that it is deployed to access the service) using alternative authentication methods, such as PIN, USB keys, and biometrics and b) public key cryptography to authenticate the device in the service. During the FIDO authentication, when a user (in our case a student) is authenticated in its device (for instance, using a USB key), it unlocks its private key, which subsequently is deployed to sign the challenge and the service deploys the user’s public key, to decode the challenge.
