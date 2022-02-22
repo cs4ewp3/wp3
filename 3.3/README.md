@@ -75,11 +75,15 @@ Dionysiou, Antreas, Vassilis Vassiliades, and Elias Athanasopoulos. "HoneyGen: G
 * Tool: https://github.com/uberspot/VTPin
 * Main publications: Sarbinowski, Pawel, et al. "VTPin: practical VTable hijacking protection for binaries." Proceedings of the 32nd Annual Conference on Computer Security Applications. 2016.
 
-
 **Modssl-hmac**
 * Tool: https://bitbucket.org/srecgrp/modssl-hmac-public/
 * Main publications: 
 --Diomedous, Constantinos, and Elias Athanasopoulos. "Practical password hardening based on TLS." International Conference on Detection of Intrusions and Malware, and Vulnerability Assessment. Springer, Cham, 2019.
+
+**EvilText**
+* Tool: https://bitbucket.org/srecgrp/eviltext/
+* Main publications: 
+--Dionysiou, Antreas, and Elias Athanasopoulos. "Unicode Evil: Evading NLP Systems Using Visual Similarities of Text Characters." Proceedings of the 14th ACM Workshop on Artificial Intelligence and Security (AISEC), 2021.
 
 **SEMCO**
 * Tool: https://doi.org/10.1109/ICECCS.2019.00033
