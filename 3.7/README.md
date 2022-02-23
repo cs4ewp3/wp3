@@ -11,6 +11,34 @@ Regulation (EU) 2016/679 of the European Parliament and of the Council or more c
 The DPIA template is like a to-do list with guidelines on performing specific tasks and some pre-prepared structures to support the user. DPIA template is a combination of a guide and pre-prepared content in the form of table templates that personal data controllers can use to perform the DPIA. This solution aims to be primarily of use to the smaller organisations having problems performing or having questions about the assessment's specific steps by giving them a starting point on which they can build.
 ####	Challenges addressed 
 The Guidelines for GDPR compliant user experience combine and summarise known guidelines and opinions in the form of an actionable to-do list, supported by integrated checklists and concrete guidelines with explanations. It presents a baseline to perform data protection impact analysis when needed or required by the regulation. However, there are alternative GDPR guides and tools to perform a DPIA. This asset specifically addresses the needs of smaller organisations with limited resources. The DPIA template is purposefully made in a simple way that does not have any additional requirements to use and encourages users to change, expand, and upgrade the given template to suit their own organisation requirements and circumstances better. This, together with the pre-prepared list of potential risks that have to be addressed in the assessment and the self-assessment form for the users to check and evaluate their work, are the main elements that distinguish it from other similar tools and the main challenges in the process of ensuring GDPR compliance that were addressed.
+
+The addressed challanges and work done fall under the Holistic Data Protection and Personalized Privacy Protection priority focus areas in the Cybersecurity Research Focus Areas Priorities prepared by the 4 Pilots & ECSO.
+
+###	Resources and Outcomes
+
+**Main deliverable:**
+*	D3.6 Guidelines for GDPR compliant user experience
+
+**Auxiliary deliverable:**
+*	D3.16 Security requirements and risks conceptualisation
+
+**Demonstrators:**
+<ul>
+<li>D3.13 Updated version of enablers and components
+<ul>
+<li><a href="https://cybersec4europe.um.si/Addendum%20to%20D3.13%20-%20Student%20Enrolment%20Data%20Protection%20Impact%20Assessment.pdf">DPIA example from D3.13</a>
+</li></ul></li></ul>
+
+<ul>
+<li>D3.17 Integration to demonstration cases
+<ul>
+<li><a href="https://cybersec4europe.um.si/Addendum%20to%20D3.17%20%E2%80%93%20Survey%20Data%20Protection%20Impact%20Assessment.pdf">DPIA example from D3.17</a>
+</li></ul></li></ul>
+
+**Videos:**
+*	<a href="https://www.youtube.com/watch?v=BZe3nDe8a_k">Video from D3.13</a>
+*	<a href="https://www.youtube.com/">Video from D3.17</a>
+
 ###	Analysis of interoperability and cross-border compliance issues
 This research builds on the work already completed at the European Commission and ENISA as a basis for monitoring the current eIDAS network and proposing eIDAS 2.   Additionally, it is an extension to the research described in the previous section, where, in the process of creating the guidelines for GDPR, we have noticed differences between the EU Member States that could potentially cause problems in situations involving more than one Member States. At the same time, this caused us to wonder if similar situations are possible in eIDAS, where interoperability between countries is even more important. The results are therefore split between the two regulations.
 
@@ -19,6 +47,26 @@ In the first section, we focused on a specific sample of selected eIDAS network 
 The second part is dedicated to GDPR, where we first identified some potential areas of differences between the EU Member States and then used a survey to query supervisory authorities about those areas in their respective countries. The results of the survey show GDPR related heterogeneity in the EU.
 ####	Challenges addressed 
 Although there is an eIDAS side and a GDPR side to the interoperability and cross-border issues research we have done in this task, the underlying purpose and, as an extension, the challenges we are addressing in both sections are very similar. In both cases, we are identifying areas of both regulations and how they are implemented in different countries that could cause issues in the long run. Given the nature of the problem, the detected issues that we have not found discussed elsewhere are mostly centred around how trust services and data protection could be abused or cause difficulties for the services or data protection providers. In some cases, we do also offer some recommendations on how to possibly alleviate a specific issue.
+
+The addressed challanges and work done fall under the Collaborative Networks priority focus area in the Cybersecurity Research Focus Areas Priorities prepared by the 4 Pilots & ECSO.
+
+###	Resources and Outcomes
+
+**Main deliverable:**  
+*	D3.18 Analysis of interoperability and cross-border compliance issues  
+
+**Demonstrator:**  
+*	D3.13 Updated version of enablers and components  
+
+**Video:**  
+*	<a href="https://www.youtube.com/watch?v=_FNBl-2Y4Po">Video from D3.13</a>
+
+**Dynamic map:**  
+*	https://cybersec4europe.eu/heterogeneity-of-data-protection-legislation-in-the-eu/  
+
+**Scientific publications:**  
+*	M. Hölbl, B. Kežmah, and M. Kompara, "Data Protection Heterogeneity in the European Union," Applied Sciences 2021, Vol. 11, Page 10912, vol. 11, no. 22, p. 10912, Nov. 2021, doi: 10.3390/APP112210912
+
 #	Content
 ##	Guidelines for GDPR compliant user experience
 Considering all the requirements set forth by the GDPR, it challenges businesses to fulfil the requirements to ensure compliance. The requirements are sometimes vague or too open and consequently subject to interpretation. This is where businesses struggle with their compliance endeavours. Achieving compliance can also be more demanding on smaller organisations that typically do not employ staff with all the necessary knowledge, and hiring out presents a high cost.
@@ -71,21 +119,6 @@ GDPR requests that the Data Protection Officer (DPO) provides an opinion on the 
 
 The final part of the template provides a form for self-assessment. This step of the DPIA is optional and not required by the GDPR. The prepared self-assessment can help organisations track the work they have done and learn from it. Based on their performance, they can improve future work on DPIAs for other processes/services.
 
-###	Resources and Outcomes
-
-**Main deliverable:**
-*	D3.6 Guidelines for GDPR compliant user experience
-
-**Auxiliary deliverable:**
-*	D3.16 Security requirements and risks conceptualisation
-
-**Demonstrators:**
-*	D3.13 Updated version of enablers and components
-*	D3.17 Integration to demonstration cases
-
-**Videos:**
-*	Not on YouTube yet (D3.13)
-*	Not on YouTube yet (D3.17)
 ##	eDIAS Interoperability and Cross-Border Compliance
 The eIDAS regulation provides a common foundation for secure electronic interaction between citizens, businesses and public authorities. The eIDAS regulation aims at increasing the effectiveness of public and private online services, electronic business and electronic commerce in the Union. To this end, it includes provisions for electronic identification and trust services. However, after more than five years, only 14 Member States (representing 59% of the EU's population) have notified at least one eID scheme . This and other issues have caused the EU to review the eIDAS (electronic IDentification and Trust Services) regulation and change it to reduce the issues and improve the adoption of eIDs and trust services across the Member States. On June 3rd 2021, the European Parliament and European Commission published a Proposal for amending Regulation (EU) No 910/2014 to establish a framework for a European Digital Identity, which will someday become the so-called eIDAS 2. In our analysis of interoperability and cross-border compliance issues, we considered some problems with the current situation, namely how eIDAS compliant implementations across the EU Member States are different and how that could be a problem for interoperability and cross-border cooperation of service providers and users.
 
@@ -122,10 +155,7 @@ Given the findings, here are the final eIDAS related recommendations:
 *	We should build a strategy for using "Bring Your Own Authentication Device" solutions as this approach is getting traction. At the same time, it represents a "grey area," at least when combined with biometrics. We propose further research in current state-of-the-art use cases with the intent to identify best practices and definitions of the feasible legal framework for such use of biometric devices.
 *	An increase in the speed of security standards development is justified. Current standards are falling behind the latest cybersecurity developments and even in referencing the latest sibling security standards.
 *	The definition of the capabilities of the qualified electronic signature should be changed to reflect actual state-of-the-art technologies used to create electronic signatures to avoid different interpretations.
-###	Resources and Outcomes
 
-**Main deliverable:**
-*	D3.18 Analysis of interoperability and cross-border compliance issues
 ##	GDPR Interoperability and Cross-Border Compliance
 This work is on the topic of GDPR differences between the Member States. GDPR allows for the Member States to define or change some parts of the regulation in the way they wish. The prime example of this is the consent age (GDPR, Article 8, paragraph 1) set at 16 (persons aged 16 years and older do not require parental consent) in the GDPR. However, the regulation allows individual countries to change this and go as low as 13 years old. Member States can also have additional legislation that builds on top of the GDPR. To get a better picture of the current situation in the EU, we have gathered information from Supervisory Authorities (SA; a.k.a. Data Protection Authority - DPA). Each Member State's own SA is the best equipped to give information on their national legislation and policies on data protection. The results of this work provide users with an easy tool to compare the rules on some data protection topics in an individual Member States.
 
@@ -147,20 +177,4 @@ Based on the feedback from the SAs, the most additional legislation relevant to 
 
 The results of the survey have also been integrated into a dynamic map, enabling the users to quickly navigate through the different topics of information and compare the EU Member States at a glance. The map has been published at https://cybersec4europe.eu/heterogeneity-of-data-protection-legislation-in-the-eu/.
 
-###	Resources and Outcomes
-
-**Main deliverable:**  
-*	D3.18 Analysis of interoperability and cross-border compliance issues  
-
-**Demonstrator:**  
-*	D3.13 Updated version of enablers and components  
-
-**Video:**  
-*	Not on YouTube yet (D3.13)  
-
-**Dynamic map:**  
-*	https://cybersec4europe.eu/heterogeneity-of-data-protection-legislation-in-the-eu/  
-
-**Scientific publications:**  
-*	M. Hölbl, B. Kežmah, and M. Kompara, "Data Protection Heterogeneity in the European Union," Applied Sciences 2021, Vol. 11, Page 10912, vol. 11, no. 22, p. 10912, Nov. 2021, doi: 10.3390/APP112210912
 
