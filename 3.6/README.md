@@ -110,7 +110,7 @@ In the following table the assets and other research are listed and mapped to th
 
 [Broders, N., Martinie, C., Palanque, P., Winckler, M., Halunen, K. (2020). A Generic Multimodels-Based Approach for the Analysis of Usability and Security of Authentication Mechanisms. In Proc. of Human-Centered Software Engineering - 8th IFIP WG 13.2 International Working Conference, HCSE 2020, Eindhoven, The Netherlands, November 30 - December 2, 2020, HCSE 2020. Lecture Notes in Computer Science 12481, pp. 61-83. Springer 2020.](https://link.springer.com/chapter/10.1007/978-3-030-64266-2_4)
 
-Martinie, C., Grigoriadis, C., Kalogeraki, E.-M., Kotzanikolaou, P. (2021). Modelling Human Tasks to Enhance Threat Identification in Critical Maritime Systems. In 25th Pan-Hellenic Conference on Informatics, PCI 2021, November 26–28, 2021, Volos, Greece. ACM, New York, NY, USA, 6 pages.
+[Martinie, C., Grigoriadis, C., Kalogeraki, E.-M., Kotzanikolaou, P. (2021). Modelling Human Tasks to Enhance Threat Identification in Critical Maritime Systems. In 25th Pan-Hellenic Conference on Informatics, PCI 2021, November 26–28, 2021, Volos, Greece. ACM, New York, NY, USA, 6 pages.](https://dl.acm.org/doi/10.1145/3503823.3503892)
 
 [Halunen, K., & Latvala, O. M. (2021). Review of the use of human senses and capabilities in cryptography. Computer Science Review, 39, 100340.](https://doi.org/10.1016/j.cosrev.2020.100340)
 
@@ -127,4 +127,4 @@ Martinie, C., Grigoriadis, C., Kalogeraki, E.-M., Kotzanikolaou, P. (2021). Mode
 
 [4 - O.-M. Latvala, "D3.16 Security Requirements and Risks Conceptualization", CyberSec4Europe, 2021](https://cybersec4europe.eu/wp-content/uploads/2022/01/D3.16-Security-requirements-and-risks-conceptualization-v1.0_submitted.pdf)
 
-5 - C. Martinie, "D3.17 Integration to demonstration cases", CyberSec4Europe, 2022
+[5 - C. Martinie, "D3.17 Integration to demonstration cases", CyberSec4Europe, 2022](https://cybersec4europe.eu/wp-content/uploads/2022/02/D3.17-Integration-to-demonstration-cases_v1.0_submitted.pdf)
