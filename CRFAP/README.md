@@ -5,14 +5,14 @@
 
 # Cybersecurity Research and Areas Priority
 
---- | Governance and Capacity Building | Trustworthy Ecosystems of Systems | Disruptive Emerging Develpment
---- | --- | --- | --- 
-Asset 1 | :heavy_check_mark: | - | :heavy_check_mark: 
-Asset 2 | :heavy_check_mark: | - | :heavy_check_mark: 
-Asset 3 | :heavy_check_mark: | - | :heavy_check_mark: 
-Asset 4 | :heavy_check_mark: | - | :heavy_check_mark: 
-Asset 5 | :heavy_check_mark: | - | :heavy_check_mark: 
-Asset 6 | :heavy_check_mark: | - | :heavy_check_mark:
+--- | Governance and Capacity Building | Trustworthy Ecosystems of Systems | Trust-Building Blocks | Disruptive Emerging Develpment
+--- | --- | --- | --- | ---
+Asset 1 | :heavy_check_mark: | - |  - | :heavy_check_mark: 
+Asset 2 | :heavy_check_mark: | - |  - | :heavy_check_mark: 
+Asset 3 | :heavy_check_mark: | - |  - | :heavy_check_mark: 
+Asset 4 | :heavy_check_mark: | - |  - | :heavy_check_mark: 
+Asset 5 | :heavy_check_mark: | - |  - | :heavy_check_mark: 
+Asset 6 | :heavy_check_mark: | - |  - | :heavy_check_mark:
 
 
 <p></p>
