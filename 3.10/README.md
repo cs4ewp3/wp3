@@ -4,10 +4,10 @@ This task proposes a conceptual framework for the monitoring and evaluation of a
 Cybersecurity awareness has existed for a long time, probably as long as cybersecurity itself. However, it still fails to yield the expected outcomes. This could be possible because most cybersecurity awareness programs are limited to a mere delivery of security information (what to do and what not to do) or compliance with standards, policies, and procedures. Indeed, access to security information is an important step, however, this does not guarantee that the information will be absorbed by the audience and more importantly will translate into actions. In order to improve the information absorption and its probability of translating into actions, this study proposes a conceptual framework as well as provides guidelines and practical advice leveraging the knowledge from various disciplines. 
 
 # Content
-## Framework
+## Conceptual Framework
 <img width="907" alt="Framework" src="https://user-images.githubusercontent.com/95473353/159502160-ca70295a-f405-45b6-8261-4ee48f11a9e7.png">
 
-## Synopsis of the main guidelines and practical advice for a cybersecurity awareness program.
+## Synopsis of the main guidelines and practical advice 
 *	The team should be inclusive with clearly defined roles, responsibilities, and accountabilities for each member. Moreover, it is advisable to have two full-time staff members, but one full-time staff member is a must for CSA. The individual(s) should be equipped with both technical and soft skills, and also be aware of the context. 
 *	The goals should be clear and simple, and its objectives should be SMART (Specific, Measurable, Attainable, Relevant, Time-bound).
 *	The audience should be grouped preferably based on their beliefs and cybersecurity expertise.
