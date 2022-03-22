@@ -5,7 +5,7 @@ Cybersecurity awareness has existed for a long time, probably as long as cyberse
 
 # Content
 ## Conceptual Framework
-<img width="930" alt="Framework" src="https://user-images.githubusercontent.com/95473353/159512280-8f8bbeab-edb3-4542-a0ec-c3548938bf65.png">
+<img width="907" alt="Framework" src="https://user-images.githubusercontent.com/95473353/159512883-4dac109a-e7bb-4451-89ad-f14194525374.png">
 
 ## Synopsis of the main guidelines and practical advice 
 *	The team should be inclusive with clearly defined roles, responsibilities, and accountabilities for each member. Moreover, it is advisable to have two full-time staff members, but one full-time staff member is a must for CSA. The individual(s) should be equipped with both technical and soft skills, and also be aware of the context. 
