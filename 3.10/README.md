@@ -8,35 +8,35 @@ Cybersecurity awareness has existed for a long time, probably as long as cyberse
 <img width="907" alt="Framework" src="https://user-images.githubusercontent.com/95473353/159502160-ca70295a-f405-45b6-8261-4ee48f11a9e7.png">
 
 ## Synopsis of the main guidelines and practical advice for a cybersecurity awareness program.
-•	The team should be inclusive with clearly defined roles, responsibilities, and accountabilities for each member. Moreover, it is advisable to have two full-time staff members, but one full-time staff member is a must for CSA. The individual(s) should be equipped with both technical and soft skills, and also be aware of the context. 
-•	The goals should be clear and simple, and its objectives should be SMART (Specific, Measurable, Attainable, Relevant, Time-bound).
-•	The audience should be grouped preferably based on their beliefs and cybersecurity expertise.
-•	The program should receive appropriately high priority in terms of support and participation from the leaders, and budget allocation. 
-•	The selected topics should cover threats prevalent to the audience roles and responsibilities, that include both common and new emerging threats. 
-•	The topics relevant to critical security roles and controls, specific to the organization role and risk profile, relevant to critical projects, neglected by the audience, and with resources readily available should get the high priority. 
-•	The message intensiveness or complexities should be adjusted from general to in-depth depending on the audience. 
-•	The message framing should consider human psychological (cognitive, affective, and different biases) and other factors (usability and user experience) that influence the message reception and interpretation by the audience. 
-•	The message delivery methods should be cost-effective; have a broad outreach; support diversity and inclusiveness; be easy and simple to develop, operate, manage, and update; include standardized assessment and feedback features; support information richness; require minimal additional requirements; and interest and motivate the audience. 
-•	The message communication should consider the psychological and other influencing factors that increase the audience’s participation and drive them to practice (or translate into actions) the security knowledge they have learned from the program. 
-•	The enforcement approach used to non-compliance should be a soft approach (mainly using intrinsic incentives) unless a specific need arises for a tough approach.  
-•	The program should be organized periodically, at least once every six months except for responding to new events and situations.
-•	The lessons learned during the different phases of the program should be properly captured, debriefed, and documented for the effective transfer and use of information.
-•	The evaluation should measure all four indicators (impact, sustainability, accessibility, and monitoring) to determine the overall effectiveness of the program. Moreover, the measurable parameters selected for each indicator should be economical to gather, consistent to measure, expressible in cardinal number and unit, and contextually specific. 
-•	The program should be adjusted in accordance with the changes in the cybersecurity scenarios. It should also take into consideration the lessons learned and weaknesses identified from monitoring and evaluation.
+*	The team should be inclusive with clearly defined roles, responsibilities, and accountabilities for each member. Moreover, it is advisable to have two full-time staff members, but one full-time staff member is a must for CSA. The individual(s) should be equipped with both technical and soft skills, and also be aware of the context. 
+*	The goals should be clear and simple, and its objectives should be SMART (Specific, Measurable, Attainable, Relevant, Time-bound).
+*	The audience should be grouped preferably based on their beliefs and cybersecurity expertise.
+*	The program should receive appropriately high priority in terms of support and participation from the leaders, and budget allocation. 
+*	The selected topics should cover threats prevalent to the audience roles and responsibilities, that include both common and new emerging threats. 
+*	The topics relevant to critical security roles and controls, specific to the organization role and risk profile, relevant to critical projects, neglected by the audience, and with resources readily available should get the high priority. 
+*	The message intensiveness or complexities should be adjusted from general to in-depth depending on the audience. 
+*	The message framing should consider human psychological (cognitive, affective, and different biases) and other factors (usability and user experience) that influence the message reception and interpretation by the audience. 
+*	The message delivery methods should be cost-effective; have a broad outreach; support diversity and inclusiveness; be easy and simple to develop, operate, manage, and update; include standardized assessment and feedback features; support information richness; require minimal additional requirements; and interest and motivate the audience. 
+*	The message communication should consider the psychological and other influencing factors that increase the audience’s participation and drive them to practice (or translate into actions) the security knowledge they have learned from the program. 
+*	The enforcement approach used to non-compliance should be a soft approach (mainly using intrinsic incentives) unless a specific need arises for a tough approach.  
+*	The program should be organized periodically, at least once every six months except for responding to new events and situations.
+*	The lessons learned during the different phases of the program should be properly captured, debriefed, and documented for the effective transfer and use of information.
+*	The evaluation should measure all four indicators (impact, sustainability, accessibility, and monitoring) to determine the overall effectiveness of the program. Moreover, the measurable parameters selected for each indicator should be economical to gather, consistent to measure, expressible in cardinal number and unit, and contextually specific. 
+*	The program should be adjusted in accordance with the changes in the cybersecurity scenarios. It should also take into consideration the lessons learned and weaknesses identified from monitoring and evaluation.
 
 ## Evaluation criteria for posters
-•	Topic (specific)
-•	Overall information (credible and consistent, complete, up to date)
-•	Message framing (positive, direct, descriptive)
-•	Suggestion quality (doable, convenience)
-•	Content presentation (clarity, conciseness, well-structured, use multiple representations, understandability of the main message)
-•	Localization
-•	Style and formatting (visibility of overall message, placement of the main message, color used, typography used, Image used)
+*	Topic (specific)
+*	Overall information (credible and consistent, complete, up to date)
+*	Message framing (positive, direct, descriptive)
+*	Suggestion quality (doable, convenience)
+*	Content presentation (clarity, conciseness, well-structured, use multiple representations, understandability of the main message)
+*	Localization
+*	Style and formatting (visibility of overall message, placement of the main message, color used, typography used, Image used)
 
 ## Evaluation criteria for serious games
-•	Effectiveness
-•	Entertainment
-•	Legal and ethical assessment
+*	Effectiveness
+*	Entertainment
+*	Legal and ethical assessment
 
 # References
 [1 - S. Chaudhary, “D3.19 Guidelines for Enhancement of Societal Security Awareness,” CyberSec4Europe, 2022.]
