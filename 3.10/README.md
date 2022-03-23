@@ -53,12 +53,13 @@ Asset 1 | :heavy_check_mark: | - |  - | -
 
 --- | Collaborative Networks| Education & Training | Certification | Secure Platforms of Platforms | infrastructure Protection | Holistic Data Protection | AI-based Security | Systems Security & Security Lifetime Management | Secure Architectures for Next Generation Communication | Secure Quantum Technologies | Secure AI Systems | Personalized Privacy Protection
 --- | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
-NTNU | --- | :heavy_check_mark: | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
-GUF | --- | :heavy_check_mark: | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
-UM | --- | :heavy_check_mark: | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+Cnceptual Framework | --- | :heavy_check_mark: | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+Criteria for Poster Evaluation | --- | :heavy_check_mark: | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+Criteria for Serious Game Evaluation | --- | :heavy_check_mark: | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
 
 
 
 # References
 [1 - A. Skarmeta, “D3.1 Common Framework Handbook 1”, CyberSec4Europe, 2019.](https://cybersec4europe.eu/wp-content/uploads/2020/06/D3.1-Handbook-v2.0-submitted-1.pdf)
+
 [2 - S. Chaudhary, “D3.19 Guidelines for Enhancement of Societal Security Awareness,” CyberSec4Europe, 2022.]
