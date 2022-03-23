@@ -38,5 +38,27 @@ Cybersecurity awareness has existed for a long time, probably as long as cyberse
 *	Entertainment
 *	Legal and ethical assessment
 
+## Resources
+* Videos
+[INSERT LINK]
+* Scientific dissemination
+[INSERT LINK]
+ 
+# Cybersecurity Research and Areas Priority
+--- | Governance and Capacity Building | Trustworthy Ecosystems of Systems | Trust-Building Blocks | Disruptive Emerging Develpment
+--- | --- | --- | --- | ---
+Asset 1 | :heavy_check_mark: | - |  - | - 
+
+<p></p>
+
+--- | Collaborative Networks| Education & Training | Certification | Secure Platforms of Platforms | infrastructure Protection | Holistic Data Protection | AI-based Security | Systems Security & Security Lifetime Management | Secure Architectures for Next Generation Communication | Secure Quantum Technologies | Secure AI Systems | Personalized Privacy Protection
+--- | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+NTNU | --- | :heavy_check_mark: | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+GUF | --- | :heavy_check_mark: | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+UM | --- | :heavy_check_mark: | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+
+
+
 # References
-[1 - S. Chaudhary, “D3.19 Guidelines for Enhancement of Societal Security Awareness,” CyberSec4Europe, 2022.]
+[1 - A. Skarmeta, “D3.1 Common Framework Handbook 1”, CyberSec4Europe, 2019.]{https://cybersec4europe.eu/wp-content/uploads/2020/06/D3.1-Handbook-v2.0-submitted-1.pdf}
+[2 - S. Chaudhary, “D3.19 Guidelines for Enhancement of Societal Security Awareness,” CyberSec4Europe, 2022.]
