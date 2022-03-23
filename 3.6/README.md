@@ -94,9 +94,9 @@ In the following table the assets and other research are listed and mapped to th
 |     Privacy-preserving   IdM          |                                    |     User                   |     Privacy               |[Moreno et al.](https://ieeexplore.ieee.org/document/9495805)|
 |     DPIA   template                   |                                    |     Guidance   and User    |     Privacy               ||
 |                                       |     Privacy settings prediction    |     Guidance   and User    |     Privacy               ||
-|     HATCH                             |                                    |     Analysis               |     Human                 ||
-|     CyberSecurity   Awareness Quiz    |                                    |     Guidance   and User    |     Human                 ||
-|     LiSRA                             |                                    |     Guidance   and User    |     Human                 ||
+|     HATCH                             |                                    |     Analysis               |     Human                 |[Beckers and Pape](https://ieeexplore.ieee.org/document/7765507)|
+|     CyberSecurity   Awareness Quiz    |                                    |     Guidance   and User    |     Human                 |[Pape et al.](https://link.springer.com/chapter/10.1007%2F978-3-030-62433-0_4)|
+|     LiSRA                             |                                    |     Guidance   and User    |     Human                 |[Schmitz and Pape](https://www.sciencedirect.com/science/article/pii/S0167404819301993)|
 |                                       |     Privacy notifications          |     User   and Guidance    |     Requirements          ||
 |     Adaptive   Authentication         |                                    |     User                   |     Requirements          ||
 |     HAMSTERS                          |                                    |     Analysis               |     Human                 |[Broders et al.](https://link.springer.com/chapter/10.1007/978-3-030-64266-2_4)|
@@ -104,9 +104,12 @@ In the following table the assets and other research are listed and mapped to th
 |     SYSVER                            |                                    |     Analysis               |     Human                 ||
 |     AuthGuide                         |                                    |     Guidance   and User    |     Human                 |[Preuveneers et al.](https://www.springerprofessional.de/en/authguide-analyzing-security-privacy-and-usability-trade-offs-in/19616856)|
 |                                       |     Privacy concerns               |     Analysis               |     Human and Privacy     ||
-|     LEECH                             |                                    |     Guidance   and User    |     Human and Privacy     ||
+|     LEECH                             |                                    |     Guidance   and User    |     Human and Privacy     |[Pape et al.](https://www.usenix.org/conference/soups2021/presentation/pape)|
 ## Publications
 [Moreno, R. T., García-Rodríguez, J., Bernabé, J. B., & Skarmeta, A. (2021). A Trusted Approach for Decentralised and Privacy-Preserving Identity Management. IEEE Access, 9, 105788-105804.](https://ieeexplore.ieee.org/document/9495805) [repository](https://github.com/rafaeltm/OLChainEnabled)
+[Beckers, K. and Pape, S.: A Serious Game for Eliciting Social Engineering Security Requirements. In Proceedings of the 24th IEEE International Conference on Requirements Engineering, IEEE Computer Society, RE '16 , 2016](https://ieeexplore.ieee.org/document/7765507) [preprint](https://pape.science/paper/BP16re/)
+[Pape, S.; Goeke, L.; Quintanar, A. and Beckers, K.: Conceptualization of a CyberSecurity Awareness Quiz. In Computer Security - ESORICS 2020 International Workshops MSTEC, pages 61-76, Springer International Publishing, Cham, LNCS 12512, 2020.](https://link.springer.com/chapter/10.1007%2F978-3-030-62433-0_4) [preprint](https://pape.science/paper/PGQB20mstec/)
+[Schmitz, C. and Pape, S.: LiSRA: Lightweight Security Risk Assessment for Decision Support in Information Security. In Computers & Security, 90, 2020.](https://www.sciencedirect.com/science/article/pii/S0167404819301993) [preprint](https://pape.science/paper/SP20cose/)
 
 [Broders, N., Martinie, C., Palanque, P., Winckler, M., Halunen, K. (2020). A Generic Multimodels-Based Approach for the Analysis of Usability and Security of Authentication Mechanisms. In Proc. of Human-Centered Software Engineering - 8th IFIP WG 13.2 International Working Conference, HCSE 2020, Eindhoven, The Netherlands, November 30 - December 2, 2020, HCSE 2020. Lecture Notes in Computer Science 12481, pp. 61-83. Springer 2020.](https://link.springer.com/chapter/10.1007/978-3-030-64266-2_4)
 
@@ -118,9 +121,11 @@ In the following table the assets and other research are listed and mapped to th
 
 [Preuveneers, D., Joos, S., & Joosen, W. (2021, September). AuthGuide: Analyzing Security, Privacy and Usability Trade-Offs in Multi-factor Authentication. In International Conference on Trust and Privacy in Digital Business (pp. 155-170). Springer, Cham.](https://www.springerprofessional.de/en/authguide-analyzing-security-privacy-and-usability-trade-offs-in/19616856)
 
+[Pape, S.; Klauer, A. and Rebler, M.: Leech: Let's Expose Evidently bad data Collecting Habits - Towards a Serious Game on Understanding Privacy Policies (Poster). In 17th Symposium on Usable Privacy and Security (SOUPS 2021), 2021.](https://www.usenix.org/conference/soups2021/presentation/pape) [preprint](https://pape.science/paper/PKR21soupsposter/)
+
 # Cybersecurity Research and Areas Priority
 
---- | Governance and Capacity Building | Trustworthy Ecosystems of Systems | Trust-Building Blocks | Disruptive Emerging Develpment
+--- | Governance and Capacity Building | Trustworthy Ecosystems of Systems | Trust-Building Blocks | Disruptive Emerging Development
 --- | --- | --- | --- | ---
 Example Asset  | :heavy_check_mark: | - |  - | :heavy_check_mark: 
 Privacy-preserving   IdM  | - | - |  - | - 
@@ -143,15 +148,15 @@ Example Asset 1 | :heavy_check_mark:  | --- | --- | --- | --- | --- | --- | --- 
 Example Asset 2 | --- | --- | --- | --- | --- | :heavy_check_mark:  | --- | --- | --- | --- | --- | :heavy_check_mark:  
 Privacy-preserving   IdM  | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
 DPIA   template | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
-HATCH | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
-CyberSecurity   Awareness Quiz | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+HATCH | --- | :heavy_check_mark: | ---  | --- | --- | :heavy_check_mark: | --- | :heavy_check_mark: | --- | --- | --- | --- 
+CyberSecurity   Awareness Quiz | --- | :heavy_check_mark: | ---  | --- | --- | :heavy_check_mark: | --- | --- | --- | --- | --- | --- 
 LiSRA | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
 Adaptive   Authentication | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
 HAMSTERS | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
 EEVEHAC | --- | --- | ---  | --- | --- | ✔️ | --- | --- | ✔️ | --- | --- | --- 
 SYSVER | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
 AuthGuide | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
-LEECH | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+LEECH | --- | :heavy_check_mark: | ---  | --- | --- | --- | --- | --- | --- | --- | --- | :heavy_check_mark: 
 
 # References
 [1 - A. Skarmeta, “D3.1 Common Framework Handbook 1,” CyberSec4Europe, 2019.](https://cybersec4europe.eu/wp-content/uploads/2020/06/D3.1-Handbook-v2.0-submitted-1.pdf)
