@@ -79,7 +79,7 @@ Although there is an eIDAS side and a GDPR side to the interoperability and cros
 **Scientific publications:**  
 *	M. Hölbl, B. Kežmah, and M. Kompara, "Data Protection Heterogeneity in the European Union," Applied Sciences 2021, Vol. 11, Page 10912, vol. 11, no. 22, p. 10912, Nov. 2021, doi: 10.3390/APP112210912
 
-#	Content
+#	Asset Content and Results
 ##	Guidelines for GDPR compliant user experience
 Considering all the requirements set forth by the GDPR, it challenges businesses to fulfil the requirements to ensure compliance. The requirements are sometimes vague or too open and consequently subject to interpretation. This is where businesses struggle with their compliance endeavours. Achieving compliance can also be more demanding on smaller organisations that typically do not employ staff with all the necessary knowledge, and hiring out presents a high cost.
 
