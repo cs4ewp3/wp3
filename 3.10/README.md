@@ -53,7 +53,7 @@ Asset 1 | :heavy_check_mark: | - |  - | -
 
 --- | Collaborative Networks| Education & Training | Certification | Secure Platforms of Platforms | infrastructure Protection | Holistic Data Protection | AI-based Security | Systems Security & Security Lifetime Management | Secure Architectures for Next Generation Communication | Secure Quantum Technologies | Secure AI Systems | Personalized Privacy Protection
 --- | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
-Cnceptual Framework | --- | :heavy_check_mark: | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+Conceptual Framework & Guidelines | --- | :heavy_check_mark: | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
 Criteria for Poster Evaluation | --- | :heavy_check_mark: | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
 Criteria for Serious Game Evaluation | --- | :heavy_check_mark: | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
 
