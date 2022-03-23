@@ -70,5 +70,6 @@ Two assets collaborate to achieve this aim: (i) Briareos, a HIDS capable of laun
 
 
 # References
+[1 - A. Skarmeta, “D3.1 Common Framework Handbook 1,” CyberSec4Europe, 2019.](https://cybersec4europe.eu/wp-content/uploads/2020/06/D3.1-Handbook-v2.0-submitted-1.pdf)
 [Original repository](https://github.com/cs4ewp3t4/cs4ewp3t4)
 </br>
