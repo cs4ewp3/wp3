@@ -118,6 +118,41 @@ In the following table the assets and other research are listed and mapped to th
 
 [Preuveneers, D., Joos, S., & Joosen, W. (2021, September). AuthGuide: Analyzing Security, Privacy and Usability Trade-Offs in Multi-factor Authentication. In International Conference on Trust and Privacy in Digital Business (pp. 155-170). Springer, Cham.](https://www.springerprofessional.de/en/authguide-analyzing-security-privacy-and-usability-trade-offs-in/19616856)
 
+# Cybersecurity Research and Areas Priority
+
+--- | Governance and Capacity Building | Trustworthy Ecosystems of Systems | Trust-Building Blocks | Disruptive Emerging Develpment
+--- | --- | --- | --- | ---
+Example Asset  | :heavy_check_mark: | - |  - | :heavy_check_mark: 
+Privacy-preserving   IdM  | - | - |  - | - 
+DPIA   template | - | - |  - | -
+HATCH | - | - |  - | -
+CyberSecurity   Awareness Quiz | - | - |  - | -
+LiSRA | - | - |  - | -
+Adaptive   Authentication | - | - |  - | -
+HAMSTERS | - | - |  - | -
+EEVEHAC | - | - |   :heavy_check_mark:  | -
+SYSVER | - | - |  - | -
+AuthGuide | - | - |  - | -
+LEECH | - | - |  - | -
+
+<p></p>
+
+--- | Collaborative Networks| Education & Training | Certification | Secure Platforms of Platforms | infrastructure Protection | Holistic Data Protection | AI-based Security | Systems Security & Security Lifetime Management | Secure Architectures for Next Generation Communication | Secure Quantum Technologies | Secure AI Systems | Personalized Privacy Protection
+--- | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+Example Asset 1 | :heavy_check_mark:  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+Example Asset 2 | --- | --- | --- | --- | --- | :heavy_check_mark:  | --- | --- | --- | --- | --- | :heavy_check_mark:  
+Privacy-preserving   IdM  | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+DPIA   template | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+HATCH | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+CyberSecurity   Awareness Quiz | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+LiSRA | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+Adaptive   Authentication | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+HAMSTERS | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+EEVEHAC | --- | --- | ---  | --- | --- | ✔️ | --- | --- | ✔️ | --- | --- | --- 
+SYSVER | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+AuthGuide | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+LEECH | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+
 # References
 [1 - A. Skarmeta, “D3.1 Common Framework Handbook 1,” CyberSec4Europe, 2019.](https://cybersec4europe.eu/wp-content/uploads/2020/06/D3.1-Handbook-v2.0-submitted-1.pdf)
 
