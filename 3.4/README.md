@@ -70,6 +70,11 @@ Two assets collaborate to achieve this aim: (i) Briareos, a HIDS capable of laun
 
 
 # References
-[1 - A. Skarmeta, “D3.1 Common Framework Handbook 1,” CyberSec4Europe, 2019.](https://cybersec4europe.eu/wp-content/uploads/2020/06/D3.1-Handbook-v2.0-submitted-1.pdf)
-[Original repository](https://github.com/cs4ewp3t4/cs4ewp3t4)
+[1 - A. Skarmeta, “D3.1 Common Framework Handbook 1”, CyberSec4Europe, 2019.](https://cybersec4europe.eu/wp-content/uploads/2020/06/D3.1-Handbook-v2.0-submitted-1.pdf)
+
+[2 - D. Preuveneers et al., “D3.3: Research Challenges and Requirements to Manage Digital Evidence”, CyberSec4Europe, 2020.](https://cybersec4europe.eu/wp-content/uploads/2020/02/D3.3-Research-challenges-and-requirements-to-manage-digital-evidence-Submitted.pdf)
+
+[3 - M. Guarascio et al., “Deliverable D3.14: Cooperation With Threat Intelligence Services For Deploying Adaptive Honeypots”, CyberSec4Europe, 2021.](https://cybersec4europe.eu/wp-content/uploads/2021/10/D3.14-Cooperation-with-Threat-Intelligence-Services-for-deploying-adaptive-honeypots_2.05_submitted.pdf)
+
+[4 - Original repository](https://github.com/cs4ewp3t4/cs4ewp3t4)
 </br>
