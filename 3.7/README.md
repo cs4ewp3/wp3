@@ -2,7 +2,23 @@
 #	Abstract
 Task 3.7 focused on the design of best practices for innovative and GDPR compliant user experience and the investigation of the interoperability issues in identity technologies (eIDAS and GDPR). We have also investigated the legitimacy of technologies used and the processing of trust services in cross-border dimensions. 
 #	Overview
-The result of task 3.7 were two deliverables. Each is shortly introduced in a subsection. The content and the results of the research will be discussed in more detail in the remainder of this document, where we chose to slit the second deliverable on interoperability and cross-border compliance issues into two sections because each part represents independent research (although they have a similar goal).
+The result of task 3.7 were two deliverables. Each is shortly introduced in a subsection. The content and the results of the research will be discussed in more detail in the remainder of this document, where we chose to split the second deliverable on interoperability and cross-border compliance issues into two sections because each part represents independent research (although they have a similar goal).
+
+####	Cybersecurity Research Focus Areas
+The 4 Pilots and ECSO designed priority Cybersecurity Research Focus Areas. The challanges addressed and work done in assets developed in this task fall into the folowing categories and specific areas.
+
+--- | Governance and Capacity Building | Trustworthy Ecosystems of Systems | Trust-Building Blocks | Disruptive Emerging Develpment
+--- | --- | --- | --- | ---
+Guidelines for GDPR compliant user experience | - | - |  :heavy_check_mark: | :heavy_check_mark: 
+Analysis of interoperability and cross-border compliance issues | :heavy_check_mark: | - |  - | - 
+
+<p></p>
+
+--- | Collaborative Networks| Education & Training | Certification | Secure Platforms of Platforms | infrastructure Protection | Holistic Data Protection | AI-based Security | Systems Security & Security Lifetime Management | Secure Architectures for Next Generation Communication | Secure Quantum Technologies | Secure AI Systems | Personalized Privacy Protection
+--- | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+Guidelines for GDPR compliant user experience | --- | --- | --- | --- | --- | :heavy_check_mark: | --- | --- | --- | --- | --- | :heavy_check_mark: 
+Analysis of interoperability and cross-border compliance issues | :heavy_check_mark: | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+
 ###	Guidelines for GDPR compliant user experience
 Guidelines for GDPR Compliant User Experience is an asset/deliverable that was produced as D3.6 in the CyberSec4Europe project. As its name implies, it is a collection of guidelines, best practices and recommendations for achieving GDPR compliance. It is combined from two parts. The first is the Guidelines for General Data Protection Regulation (GDPR) which present the regulation's requirements through the GDPR principles. The second part of the enabler is the Data Protection Impact Assessment (DPIA) template. As the name suggests, this part of the enabler can be used to help guide the user through the process of doing a DPIA and serve as documentation for the performed analysis.
 
@@ -11,8 +27,6 @@ Regulation (EU) 2016/679 of the European Parliament and of the Council or more c
 The DPIA template is like a to-do list with guidelines on performing specific tasks and some pre-prepared structures to support the user. DPIA template is a combination of a guide and pre-prepared content in the form of table templates that personal data controllers can use to perform the DPIA. This solution aims to be primarily of use to the smaller organisations having problems performing or having questions about the assessment's specific steps by giving them a starting point on which they can build.
 ####	Challenges addressed 
 The Guidelines for GDPR compliant user experience combine and summarise known guidelines and opinions in the form of an actionable to-do list, supported by integrated checklists and concrete guidelines with explanations. It presents a baseline to perform data protection impact analysis when needed or required by the regulation. However, there are alternative GDPR guides and tools to perform a DPIA. This asset specifically addresses the needs of smaller organisations with limited resources. The DPIA template is purposefully made in a simple way that does not have any additional requirements to use and encourages users to change, expand, and upgrade the given template to suit their own organisation requirements and circumstances better. This, together with the pre-prepared list of potential risks that have to be addressed in the assessment and the self-assessment form for the users to check and evaluate their work, are the main elements that distinguish it from other similar tools and the main challenges in the process of ensuring GDPR compliance that were addressed.
-
-The addressed challanges and work done fall under the Holistic Data Protection and Personalized Privacy Protection priority focus areas in the Cybersecurity Research Focus Areas Priorities prepared by the 4 Pilots & ECSO.
 
 ###	Resources and Outcomes
 
@@ -47,8 +61,6 @@ In the first section, we focused on a specific sample of selected eIDAS network 
 The second part is dedicated to GDPR, where we first identified some potential areas of differences between the EU Member States and then used a survey to query supervisory authorities about those areas in their respective countries. The results of the survey show GDPR related heterogeneity in the EU.
 ####	Challenges addressed 
 Although there is an eIDAS side and a GDPR side to the interoperability and cross-border issues research we have done in this task, the underlying purpose and, as an extension, the challenges we are addressing in both sections are very similar. In both cases, we are identifying areas of both regulations and how they are implemented in different countries that could cause issues in the long run. Given the nature of the problem, the detected issues that we have not found discussed elsewhere are mostly centred around how trust services and data protection could be abused or cause difficulties for the services or data protection providers. In some cases, we do also offer some recommendations on how to possibly alleviate a specific issue.
-
-The addressed challanges and work done fall under the Collaborative Networks priority focus area in the Cybersecurity Research Focus Areas Priorities prepared by the 4 Pilots & ECSO.
 
 ###	Resources and Outcomes
 
