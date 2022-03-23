@@ -61,10 +61,11 @@ Two assets collaborate to achieve this aim: (i) Briareos, a HIDS capable of laun
 #### Resources 
 
 * Online proof-of-concept demonstrators and repositories:
-     * [INSERT LINK]
+     * https://github.com/InesMartins31/iot-cves
 * Videos:
      * https://www.dcc.fc.up.pt/~jresende/videos/briareos.mp4
 * Scientific dissemination: 
+     * Martins, Inês, et al. "Host-based IDS: A review and open issues of an anomaly detection system in IoT." Future Generation Computer Systems (2022). 
      * Pinto Bastos Martins, Maria Inês. 2020. Anomaly Detection in Cybersecurity. Mater Thesis, https://sigarra.up.pt/fcup/pt/pub_geral.show_file?pi_doc_id=275358. 
      * Dinis da Silva e Barbosa, Mário. 2020. JBriareos: A Secure and Scalable Distributed Intrusion Detection System. Master Thesis, https://sigarra.up.pt/fcup/pt/pub_geral.show_file?pi_doc_id=274710. 
 
@@ -72,7 +73,7 @@ Two assets collaborate to achieve this aim: (i) Briareos, a HIDS capable of laun
 
 --- | Collaborative Networks| Education & Training | Certification | Secure Platforms of Platforms | Infrastructure Protection | Holistic Data Protection | AI-based Security | Systems Security & Security Lifetime Management | Secure Architectures for Next Generation Communication | Secure Quantum Technologies | Secure AI Systems | Personalized Privacy Protection
 --- | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
-Briareos (C3P)       | --- | --- | --- | --- | ---                | ---                | ---                 | --- | --- | --- | ---                | ---
+Briareos (C3P)       | --- | --- | --- | --- | :heavy_check_mark:                | ---                | ---                 | --- | --- | --- | ---                | ---
 EBIDS (CNR)          | --- | --- | --- | --- | ---                | ---                | ---                 | --- | --- | --- | ---                | ---
 ENIDS (FBK)          | --- | --- | --- | --- | :heavy_check_mark: | ---                | :heavy_check_mark:  | --- | --- | --- | ---                | ---
 HADES (UMA)          | --- | --- | --- | --- | ---                | ---                | ---                 | --- | --- | --- | ---                | ---
