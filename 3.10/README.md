@@ -62,7 +62,9 @@ Criteria for Serious Game Evaluation | --- | :heavy_check_mark: | --- | --- | --
 # References
 [1 - A. Skarmeta, “D3.1 Common Framework Handbook 1”, CyberSec4Europe, 2019.](https://cybersec4europe.eu/wp-content/uploads/2020/06/D3.1-Handbook-v2.0-submitted-1.pdf)
 
-[2 - S. Chaudhary, “D3.19 Guidelines for Enhancement of Societal Security Awareness,” CyberSec4Europe, 2022.] (https://cybersec4europe.eu/wp-content/uploads/2021/02/D9.13-Awareness-effectiveness-study-v1.0-submitted.pdf)
+[2 - S. Chaudhary, “D3.19 Guidelines for Enhancement of Societal Security Awareness,"CyberSec4Europe, 2022.]()
+
+
 
 
 
