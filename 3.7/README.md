@@ -4,21 +4,6 @@ Task 3.7 focused on the design of best practices for innovative and GDPR complia
 #	Overview
 The result of task 3.7 were two deliverables. Each is shortly introduced in a subsection. The content and the results of the research will be discussed in more detail in the remainder of this document, where we chose to split the second deliverable on interoperability and cross-border compliance issues into two sections because each part represents independent research (although they have a similar goal).
 
-####	Cybersecurity Research Focus Areas
-The 4 Pilots and ECSO designed priority Cybersecurity Research Focus Areas. The challanges addressed and work done in assets developed in this task fall into the folowing categories and specific areas.
-
---- | Governance and Capacity Building | Trustworthy Ecosystems of Systems | Trust-Building Blocks | Disruptive Emerging Develpment
---- | --- | --- | --- | ---
-Guidelines for GDPR compliant user experience | - | - |  :heavy_check_mark: | :heavy_check_mark: 
-Analysis of interoperability and cross-border compliance issues | :heavy_check_mark: | - |  - | - 
-
-<p></p>
-
---- | Collaborative Networks| Education & Training | Certification | Secure Platforms of Platforms | infrastructure Protection | Holistic Data Protection | AI-based Security | Systems Security & Security Lifetime Management | Secure Architectures for Next Generation Communication | Secure Quantum Technologies | Secure AI Systems | Personalized Privacy Protection
---- | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
-Guidelines for GDPR compliant user experience | --- | --- | --- | --- | --- | :heavy_check_mark: | --- | --- | --- | --- | --- | :heavy_check_mark: 
-Analysis of interoperability and cross-border compliance issues | :heavy_check_mark: | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
-
 ###	Guidelines for GDPR compliant user experience
 Guidelines for GDPR Compliant User Experience is an asset/deliverable that was produced as D3.6 in the CyberSec4Europe project. As its name implies, it is a collection of guidelines, best practices and recommendations for achieving GDPR compliance. It is combined from two parts. The first is the Guidelines for General Data Protection Regulation (GDPR) which present the regulation's requirements through the GDPR principles. The second part of the enabler is the Data Protection Impact Assessment (DPIA) template. As the name suggests, this part of the enabler can be used to help guide the user through the process of doing a DPIA and serve as documentation for the performed analysis.
 
@@ -78,6 +63,21 @@ Although there is an eIDAS side and a GDPR side to the interoperability and cros
 
 **Scientific publications:**  
 *	M. Hölbl, B. Kežmah, and M. Kompara, "Data Protection Heterogeneity in the European Union," Applied Sciences 2021, Vol. 11, Page 10912, vol. 11, no. 22, p. 10912, Nov. 2021, doi: 10.3390/APP112210912
+
+#	Cybersecurity Research Focus Areas
+The 4 Pilots and ECSO designed priority Cybersecurity Research Focus Areas. The challanges addressed and work done in assets developed in this task fall into the folowing categories and specific areas.
+
+--- | Governance and Capacity Building | Trustworthy Ecosystems of Systems | Trust-Building Blocks | Disruptive Emerging Develpment
+--- | --- | --- | --- | ---
+Guidelines for GDPR compliant user experience | - | - |  :heavy_check_mark: | :heavy_check_mark: 
+Analysis of interoperability and cross-border compliance issues | :heavy_check_mark: | - |  - | - 
+
+<p></p>
+
+--- | Collaborative Networks| Education & Training | Certification | Secure Platforms of Platforms | infrastructure Protection | Holistic Data Protection | AI-based Security | Systems Security & Security Lifetime Management | Secure Architectures for Next Generation Communication | Secure Quantum Technologies | Secure AI Systems | Personalized Privacy Protection
+--- | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+Guidelines for GDPR compliant user experience | --- | --- | --- | --- | --- | :heavy_check_mark: | --- | --- | --- | --- | --- | :heavy_check_mark: 
+Analysis of interoperability and cross-border compliance issues | :heavy_check_mark: | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
 
 #	Asset Content and Results
 ##	Guidelines for GDPR compliant user experience
