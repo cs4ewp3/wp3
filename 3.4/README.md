@@ -73,19 +73,19 @@ Two assets collaborate to achieve this aim: (i) Briareos, a HIDS capable of laun
 
 --- | Collaborative Networks| Education & Training | Certification | Secure Platforms of Platforms | Infrastructure Protection | Holistic Data Protection | AI-based Security | Systems Security & Security Lifetime Management | Secure Architectures for Next Generation Communication | Secure Quantum Technologies | Secure AI Systems | Personalized Privacy Protection
 --- | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
-Briareos (C3P)       | --- | --- | --- | --- | :heavy_check_mark: | ---                | ---                 | ---                 | --- | --- | ---                | ---
-EBIDS (CNR)          | --- | --- | --- | --- | ---                | ---                | ---                 | ---                 | --- | --- | ---                | ---
-ENIDS (FBK)          | --- | --- | --- | --- | :heavy_check_mark: | ---                | :heavy_check_mark:  | ---                 | --- | --- | ---                | ---
-HADES (UMA)          | --- | --- | --- | --- | ---                | ---                | ---                 | ---                 | --- | --- | ---                | ---
-IntelFrame (DTU)     | --- | --- | --- | --- | ---                | ---                | ---                 | ---                 | --- | --- | ---                | ---
-JUDAS (UMA)          | --- | --- | --- | --- | ---                | ---                | ---                 | ---                 | --- | --- | ---                | ---
-NetGen (Polito)      | --- | --- | --- | --- | :heavy_check_mark: | ---                | :heavy_check_mark:  | :heavy_check_mark:  | --- | --- | :heavy_check_mark: | ---
-PP-CTI (UMU)         | --- | --- | --- | --- | ---                | ---                | ---                 | ---                 | --- | --- | ---                | ---
-Reliable-CTI (UMU)   | --- | --- | --- | --- | ---                | ---                | ---                 | ---                 | --- | --- | ---                | ---
-RoCe (UNITN)         | --- | --- | --- | --- | ---                | ---                | ---                 | ---                 | --- | --- | ---                | ---
-TATIS (KUL)          | --- | --- | --- | --- | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:  | ---                 | --- | --- | :heavy_check_mark: | ---
-TIE (ATOS)           | --- | --- | --- | --- | ---                | ---                | ---                 | ---                 | --- | --- | ---                | ---
-UASD (CNR)           | --- | --- | --- | --- | ---                | ---                | ---                 | ---                 | --- | --- | ---                | ---
+Briareos (C3P)       | ---                | --- | --- | --- | :heavy_check_mark: | ---                | ---                 | ---                 | --- | --- | ---                | ---
+EBIDS (CNR)          | ---                | --- | --- | --- | ---                | ---                | ---                 | ---                 | --- | --- | ---                | ---
+ENIDS (FBK)          | ---                | --- | --- | --- | :heavy_check_mark: | ---                | :heavy_check_mark:  | ---                 | --- | --- | ---                | ---
+HADES (UMA)          | ---                | --- | --- | --- | ---                | ---                | ---                 | ---                 | --- | --- | ---                | ---
+IntelFrame (DTU)     | ---                | --- | --- | --- | ---                | ---                | ---                 | ---                 | --- | --- | ---                | ---
+JUDAS (UMA)          | ---                | --- | --- | --- | ---                | ---                | ---                 | ---                 | --- | --- | ---                | ---
+NetGen (Polito)      | ---                | --- | --- | --- | :heavy_check_mark: | ---                | :heavy_check_mark:  | :heavy_check_mark:  | --- | --- | :heavy_check_mark: | ---
+PP-CTI (UMU)         | ---                | --- | --- | --- | ---                | ---                | ---                 | ---                 | --- | --- | ---                | ---
+Reliable-CTI (UMU)   | ---                | --- | --- | --- | ---                | ---                | ---                 | ---                 | --- | --- | ---                | ---
+RoCe (UNITN)         | ---                | --- | --- | --- | ---                | ---                | ---                 | ---                 | --- | --- | ---                | ---
+TATIS (KUL)          | ---                | --- | --- | --- | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:  | ---                 | --- | --- | :heavy_check_mark: | ---
+TIE (ATOS)           | :heavy_check_mark: | --- | --- | --- | ---                | :heavy_check_mark: | :heavy_check_mark:  | ---                 | --- | --- | ---                | :heavy_check_mark:
+UASD (CNR)           | ---                | --- | --- | --- | ---                | ---                | ---                 | ---                 | --- | --- | ---                | ---
 
 # References
 [1 - A. Skarmeta, “D3.1 Common Framework Handbook 1”, CyberSec4Europe, 2019.](https://cybersec4europe.eu/wp-content/uploads/2020/06/D3.1-Handbook-v2.0-submitted-1.pdf)
