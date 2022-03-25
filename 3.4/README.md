@@ -84,7 +84,7 @@ PP-CTI (UMU)         | ---                | --- | --- | --- | ---               
 Reliable-CTI (UMU)   | ---                | --- | --- | --- | ---                | ---                | ---                 | ---                 | --- | --- | ---                | ---
 RoCe (UNITN)         | ---                | --- | --- | --- | ---                | ---                | ---                 | ---                 | --- | --- | ---                | ---
 TATIS (KUL)          | ---                | --- | --- | --- | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:  | ---                 | --- | --- | :heavy_check_mark: | ---
-TIE (ATOS)           | :heavy_check_mark: | --- | --- | --- | ---                | :heavy_check_mark: | :heavy_check_mark:  | ---                 | --- | --- | ---                | :heavy_check_mark:
+TIE (ATOS)           | :heavy_check_mark: | --- | --- | --- | :heavy_check_mark: | :heavy_check_mark: | ---                 | ---                 | --- | --- | ---                | :heavy_check_mark:
 UASD (CNR)           | ---                | --- | --- | --- | ---                | ---                | ---                 | ---                 | --- | --- | ---                | ---
 
 # References
