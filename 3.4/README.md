@@ -76,9 +76,9 @@ Two assets collaborate to achieve this aim: (i) Briareos, a HIDS capable of laun
 Briareos (C3P)       | ---                | --- | --- | --- | :heavy_check_mark: | ---                | ---                 | ---                 | --- | --- | ---                | ---
 EBIDS (CNR)          | ---                | --- | --- | --- | ---                | ---                | ---                 | ---                 | --- | --- | ---                | ---
 ENIDS (FBK)          | ---                | --- | --- | --- | :heavy_check_mark: | ---                | :heavy_check_mark:  | ---                 | --- | --- | ---                | ---
-HADES (UMA)          | ---                | --- | --- | --- | ---                | ---                | ---                 | ---                 | --- | --- | ---                | ---
+HADES (UMA)          | ---                | --- | --- | --- | :heavy_check_mark: | ---                | ---                 | ---                 | --- | --- | ---                | ---
 IntelFrame (DTU)     | ---                | --- | --- | --- | ---                | ---                | ---                 | ---                 | --- | --- | ---                | ---
-JUDAS (UMA)          | ---                | --- | --- | --- | ---                | ---                | ---                 | ---                 | --- | --- | ---                | ---
+JUDAS (UMA)          | ---                | --- | --- | --- | :heavy_check_mark: | ---                | ---                 | ---                 | --- | --- | ---                | ---
 NetGen (Polito)      | ---                | --- | --- | --- | :heavy_check_mark: | ---                | :heavy_check_mark:  | :heavy_check_mark:  | --- | --- | :heavy_check_mark: | ---
 PP-CTI (UMU)         | ---                | --- | --- | --- | ---                | ---                | ---                 | ---                 | --- | --- | ---                | ---
 Reliable-CTI (UMU)   | ---                | --- | --- | --- | ---                | ---                | ---                 | ---                 | --- | --- | ---                | ---
