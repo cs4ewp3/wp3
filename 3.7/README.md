@@ -36,7 +36,7 @@ The Guidelines for GDPR compliant user experience combine and summarise known gu
 
 **Videos:**
 *	<a href="https://www.youtube.com/watch?v=BZe3nDe8a_k">Video from D3.13</a>
-*	<a href="https://www.youtube.com/">Video from D3.17</a>
+*	<a href="https://www.youtube.com/watch?v=UaQVWJEGiRI">Video from D3.17</a>
 
 ###	Analysis of interoperability and cross-border compliance issues
 This research builds on the work already completed at the European Commission and ENISA as a basis for monitoring the current eIDAS network and proposing eIDAS 2.   Additionally, it is an extension to the research described in the previous section, where, in the process of creating the guidelines for GDPR, we have noticed differences between the EU Member States that could potentially cause problems in situations involving more than one Member States. At the same time, this caused us to wonder if similar situations are possible in eIDAS, where interoperability between countries is even more important. The results are therefore split between the two regulations.
@@ -56,7 +56,8 @@ Although there is an eIDAS side and a GDPR side to the interoperability and cros
 *	D3.13 Updated version of enablers and components  
 
 **Video:**  
-*	<a href="https://www.youtube.com/watch?v=_FNBl-2Y4Po">Video from D3.13</a>
+*	<a href="https://www.youtube.com/watch?v=_FNBl-2Y4Po">Video from D3.13 on GDPR Interoperability</a>
+*	<a href="https://www.youtube.com/watch?v=k8ZPbeXkTM4">Video from D3.20 on eIDAS Interoperability</a>
 
 **Dynamic map:**  
 *	https://cybersec4europe.eu/heterogeneity-of-data-protection-legislation-in-the-eu/  
