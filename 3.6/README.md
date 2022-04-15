@@ -129,7 +129,7 @@ In the following table the assets and other research are listed and mapped to th
 --- | --- | --- | --- | ---
 Example Asset  | :heavy_check_mark: | - |  - | :heavy_check_mark: 
 Privacy-preserving   IdM  | - | - |  - | - 
-DPIA   template | - | - |  - | -
+DPIA   template | - | - |  :heavy_check_mark: | :heavy_check_mark:
 HATCH | - | - |  - | -
 CyberSecurity   Awareness Quiz | - | - |  - | -
 LiSRA | - | - |  - | -
@@ -147,7 +147,7 @@ LEECH | - | - |  - | -
 Example Asset 1 | :heavy_check_mark:  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
 Example Asset 2 | --- | --- | --- | --- | --- | :heavy_check_mark:  | --- | --- | --- | --- | --- | :heavy_check_mark:  
 Privacy-preserving   IdM  | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
-DPIA   template | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+DPIA   template | --- | --- | ---  | --- | --- | :heavy_check_mark: | --- | --- | --- | --- | --- | :heavy_check_mark: 
 HATCH | --- | :heavy_check_mark: | ---  | --- | --- | :heavy_check_mark: | --- | :heavy_check_mark: | --- | --- | --- | --- 
 CyberSecurity   Awareness Quiz | --- | :heavy_check_mark: | ---  | --- | --- | :heavy_check_mark: | --- | --- | --- | --- | --- | --- 
 LiSRA | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
