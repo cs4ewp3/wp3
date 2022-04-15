@@ -53,7 +53,8 @@ Although there is an eIDAS side and a GDPR side to the interoperability and cros
 *	D3.18 Analysis of interoperability and cross-border compliance issues  
 
 **Demonstrator:**  
-*	D3.13 Updated version of enablers and components  
+*	D3.13 Updated version of enablers and components
+*	D3.20 Final cybersecurity enablers and underlying technologies components 
 
 **Video:**  
 *	<a href="https://www.youtube.com/watch?v=_FNBl-2Y4Po">Video from D3.13 on GDPR Interoperability</a>
