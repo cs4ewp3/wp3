@@ -80,11 +80,6 @@ Dionysiou, Antreas, Vassilis Vassiliades, and Elias Athanasopoulos. "HoneyGen: G
 * Main publications: 
 --Diomedous, Constantinos, and Elias Athanasopoulos. "Practical password hardening based on TLS." International Conference on Detection of Intrusions and Malware, and Vulnerability Assessment. Springer, Cham, 2019.
 
-**EvilText**
-* Tool: https://bitbucket.org/srecgrp/eviltext/
-* Main publications: 
---Dionysiou, Antreas, and Elias Athanasopoulos. "Unicode Evil: Evading NLP Systems Using Visual Similarities of Text Characters." Proceedings of the 14th ACM Workshop on Artificial Intelligence and Security (AISEC), 2021.
-
 **SEMCO**
 * Tool: https://doi.org/10.1109/ICECCS.2019.00033
 * Main publications: 
@@ -107,3 +102,19 @@ The research carried out within the task lead to the identification of long-term
 * Automated verified configuration for large-scale networks Autonomic elicitation of security policies
 * Industry-ready scalable, privacy-preserving blockchains
 * Adaptable by-design TEEs
+
+# Cybersecurity Research and Areas Priority
+
+--- | Collaborative Networks| Education & Training | Certification | Secure Platforms of Platforms | Infrastructure Protection | Holistic Data Protection | AI-based Security | Systems Security & Security Lifetime Management | Secure Architectures for Next Generation Communication | Secure Quantum Technologies | Secure AI Systems | Personalized Privacy Protection
+--- | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+SOBEK  |  :heavy_check_mark:  | --- | --- | --- |---| --- | --- | --- | --- | --- | --- | ---
+HERMES | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+RisQFlan | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Pleak | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Verefoo | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+CORAS | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+BowTiePlus | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+HoneyGen | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+VTPin | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Modssl-hmac | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+SEMCO | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
