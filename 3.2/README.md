@@ -123,6 +123,11 @@ Sousa, Patricia. "Privacy Preserving Middleware Platform for IoT" (2021). Univer
 * Summary: SS-PP-IdM uses OLYMPUS virtual identity provider, which is comprised of multiple individual IdPs, to manage user identities and authentication. It relies on distributed p-ABCs to offer privacy- preserving (minimal disclosure and unlinkability) and authentication (presentation of attributes) linked to eIDAS. Moreover, the asset proposes a trust framework based on Blockchain to complement the usage of credentials.
 * Video: https://drive.google.com/file/d/1gxqsa_pjZ1bFIbiojzUFOCzrdrzz3pNa/view?usp=sharing
 * Main publication:
+
+**pp-FL**
+* Summary: Federated Learning (FL) has attracted significant interest given its prominent advantages and applicability in many scenarios. However, it has been demonstrated that sharing updated gradients/weights during the training process can lead to privacy concerns. In the context of the Internet of Things (IoT), this can be exacerbated due to Intrusion Detection Systems (IDS), which are intended to detect security attacks by analyzing the devices’ network traffic. This proposal provides a comprehensive evaluation of Differential Privacy (DP) techniques, which are applied during the training of an FL-enabled IDS for Industrial IoT (IIoT). Unlike previous approaches, we deal with non-iid data over the recent ToN_IoT dataset and compare the accuracy obtained considering different privacy requirements and aggregation functions, namely FedAvg and the recently proposed Fed+. According to our evaluation, the use of Fed+ in our setting provides similar results even when noise is included in the federated training process.
+* Video: //TODO: INSERT-LINK//
+* Main publication:
 # Cybersecurity Research and Areas Priority
 
 --- | Governance and Capacity Building | Trustworthy Ecosystems of Systems | Trust-Building Blocks | Disruptive Emerging Develpment
