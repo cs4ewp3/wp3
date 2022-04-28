@@ -61,15 +61,38 @@ Two assets collaborate to achieve this aim: (i) Briareos, a HIDS capable of laun
 #### Resources 
 
 * Online proof-of-concept demonstrators and repositories:
-     * [INSERT LINK]
+     * https://github.com/InesMartins31/iot-cves
 * Videos:
      * https://www.dcc.fc.up.pt/~jresende/videos/briareos.mp4
 * Scientific dissemination: 
+     * Martins, Inês, et al. "Host-based IDS: A review and open issues of an anomaly detection system in IoT." Future Generation Computer Systems (2022). 
      * Pinto Bastos Martins, Maria Inês. 2020. Anomaly Detection in Cybersecurity. Mater Thesis, https://sigarra.up.pt/fcup/pt/pub_geral.show_file?pi_doc_id=275358. 
      * Dinis da Silva e Barbosa, Mário. 2020. JBriareos: A Secure and Scalable Distributed Intrusion Detection System. Master Thesis, https://sigarra.up.pt/fcup/pt/pub_geral.show_file?pi_doc_id=274710. 
 
+# Cybersecurity Research and Areas Priority
+
+--- | Collaborative Networks| Education & Training | Certification | Secure Platforms of Platforms | Infrastructure Protection | Holistic Data Protection | AI-based Security | Systems Security & Security Lifetime Management | Secure Architectures for Next Generation Communication | Secure Quantum Technologies | Secure AI Systems | Personalized Privacy Protection
+--- | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+Briareos (C3P)       | ---                | --- | --- | --- | :heavy_check_mark: | ---                | ---                 | ---                 | --- | --- | ---                | ---
+EBIDS (CNR)          | ---                | --- | --- | --- | ---                | ---                | ---                 | ---                 | --- | --- | ---                | ---
+ENIDS (FBK)          | ---                | --- | --- | --- | :heavy_check_mark: | ---                | :heavy_check_mark:  | ---                 | --- | --- | ---                | ---
+HADES (UMA)          | ---                | --- | --- | --- | :heavy_check_mark: | ---                | ---                 | ---                 | --- | --- | ---                | ---
+IntelFrame (DTU)     | ---                | --- | --- | --- | ---                | ---                | ---                 | ---                 | --- | --- | ---                | ---
+JUDAS (UMA)          | ---                | --- | --- | --- | :heavy_check_mark: | ---                | ---                 | ---                 | --- | --- | ---                | ---
+NetGen (Polito)      | ---                | --- | --- | --- | :heavy_check_mark: | ---                | :heavy_check_mark:  | :heavy_check_mark:  | --- | --- | :heavy_check_mark: | ---
+PP-CTI (UMU)         | ---                | --- | --- | --- | ---                | ---                | ---                 | ---                 | --- | --- | ---                | ---
+Reliable-CTI (UMU)   | ---                | --- | --- | --- | ---                | ---                | ---                 | ---                 | --- | --- | ---                | ---
+RoCe (UNITN)         | ---                | --- | --- | --- | :heavy_check_mark: | ---                | ---                 | ---                 | --- | --- | ---                | ---
+TATIS (KUL)          | ---                | --- | --- | --- | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:  | ---                 | --- | --- | :heavy_check_mark: | ---
+TIE (ATOS)           | :heavy_check_mark: | --- | --- | --- | :heavy_check_mark: | :heavy_check_mark: | ---                 | ---                 | --- | --- | ---                | :heavy_check_mark:
+UASD (CNR)           | ---                | --- | --- | --- | ---                | ---                | ---                 | ---                 | --- | --- | ---                | ---
 
 # References
-[Original repository](https://github.com/cs4ewp3t4/cs4ewp3t4)
+[1 - A. Skarmeta, “D3.1 Common Framework Handbook 1”, CyberSec4Europe, 2019.](https://cybersec4europe.eu/wp-content/uploads/2020/06/D3.1-Handbook-v2.0-submitted-1.pdf)
+
+[2 - D. Preuveneers et al., “D3.3: Research Challenges and Requirements to Manage Digital Evidence”, CyberSec4Europe, 2020.](https://cybersec4europe.eu/wp-content/uploads/2020/02/D3.3-Research-challenges-and-requirements-to-manage-digital-evidence-Submitted.pdf)
+
+[3 - M. Guarascio et al., “D3.14: Cooperation With Threat Intelligence Services For Deploying Adaptive Honeypots”, CyberSec4Europe, 2021.](https://cybersec4europe.eu/wp-content/uploads/2021/10/D3.14-Cooperation-with-Threat-Intelligence-Services-for-deploying-adaptive-honeypots_2.05_submitted.pdf)
+
+[4 - Original T3.4 repository](https://github.com/cs4ewp3t4/cs4ewp3t4)
 </br>
-[1 - A. Skarmeta, “D3.1 Common Framework Handbook 1,” CyberSec4Europe, 2019.](https://cybersec4europe.eu/wp-content/uploads/2020/06/D3.1-Handbook-v2.0-submitted-1.pdf)
