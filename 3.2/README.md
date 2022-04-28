@@ -123,8 +123,20 @@ Sousa, Patricia. "Privacy Preserving Middleware Platform for IoT" (2021). Univer
 * Summary: SS-PP-IdM uses OLYMPUS virtual identity provider, which is comprised of multiple individual IdPs, to manage user identities and authentication. It relies on distributed p-ABCs to offer privacy- preserving (minimal disclosure and unlinkability) and authentication (presentation of attributes) linked to eIDAS. Moreover, the asset proposes a trust framework based on Blockchain to complement the usage of credentials.
 * Video: https://drive.google.com/file/d/1gxqsa_pjZ1bFIbiojzUFOCzrdrzz3pNa/view?usp=sharing
 * Main publication:
+# Cybersecurity Research and Areas Priority
 
-
+--- | Governance and Capacity Building | Trustworthy Ecosystems of Systems | Trust-Building Blocks | Disruptive Emerging Develpment
+--- | --- | --- | --- | ---
+PTASC | - | :heavy_check_mark: |  - | -
+ARGUS | - | - |  :heavy_check_mark: | -
+GDPR compliant user experience | - | - |  :heavy_check_mark: | :heavy_check_mark: 
+Interoperability and cross-border compliance | :heavy_check_mark: | - |  - | -
+Edge Privacy (UMA) |- | ¿:heavy_check_mark:?|  - | -
+Asset 6 | :heavy_check_mark: | - |  - | :heavy_check_mark:
+Password-less AuthN | - | :heavy_check_mark: |  :heavy_check_mark: | -
+SS-PP-IdM | - | - |  :heavy_check_mark: | :heavy_check_mark:
+CryptoVault | - | - |  :heavy_check_mark: | - 
+GENERAL_D | - | :heavy_check_mark: |  :heavy_check_mark: | :heavy_check_mark:
 # References
 [1 - A. Skarmeta, “D3.1 Common Framework Handbook 1,” CyberSec4Europe, 2019.](https://cybersec4europe.eu/wp-content/uploads/2020/06/D3.1-Handbook-v2.0-submitted-1.pdf)
 
