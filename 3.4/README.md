@@ -85,7 +85,7 @@ Reliable-CTI (UMU)   | ---                | --- | --- | --- | ---               
 RoCe (UNITN)         | ---                | --- | --- | --- | :heavy_check_mark: | ---                | ---                 | ---                 | --- | --- | ---                | ---
 TATIS (KUL)          | ---                | --- | --- | --- | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:  | ---                 | --- | --- | :heavy_check_mark: | ---
 TIE (ATOS)           | :heavy_check_mark: | --- | --- | --- | :heavy_check_mark: | :heavy_check_mark: | ---                 | ---                 | --- | --- | ---                | :heavy_check_mark:
-UASD (CNR)           | ---                | --- | --- | --- | ---                | ---                | ---                 | ---                 | --- | --- | ---                | ---
+UASD (CNR)           | ---                | --- | --- | --- | ---                | ---                | :heavy_check_mark:  | ---                 | --- | --- | ---                | ---
 
 # References
 [1 - A. Skarmeta, “D3.1 Common Framework Handbook 1”, CyberSec4Europe, 2019.](https://cybersec4europe.eu/wp-content/uploads/2020/06/D3.1-Handbook-v2.0-submitted-1.pdf)
