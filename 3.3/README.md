@@ -105,6 +105,23 @@ The research carried out within the task lead to the identification of long-term
 
 # Cybersecurity Research and Areas Priority
 
+
+--- | Governance and Capacity Building | Trustworthy Ecosystems of Systems | Trust-Building Blocks | Disruptive Emerging Development
+--- | --- | --- | --- | ---
+Example Asset  | :heavy_check_mark: | - |  - | :heavy_check_mark: 
+SOBEK  |  ---  | --- | :heavy_check_mark: | --- 
+HERMES |  ---  | --- | :heavy_check_mark: | --- 
+RisQFlan |  ---  | :heavy_check_mark: | :heavy_check_mark: | --- 
+Pleak |  ---  | --- | :heavy_check_mark: | --- 
+Verefoo |  ---  | --- | :heavy_check_mark: | --- 
+CORAS |  ---  | :heavy_check_mark: | :heavy_check_mark: | --- 
+PVS |  ---  | --- | :heavy_check_mark: | --- 
+BowTiePlus |  ---  | :heavy_check_mark: | :heavy_check_mark: | --- 
+HoneyGen |  ---  | --- | :heavy_check_mark: | --- 
+VTPin |  ---  | --- | :heavy_check_mark: | --- 
+Modssl-hmac |  ---  | --- | :heavy_check_mark:| --- 
+SEMCO |  ---  | --- | :heavy_check_mark: | --- 
+
 --- | Collaborative Networks| Education & Training | Certification | Secure Platforms of Platforms | Infrastructure Protection | Holistic Data Protection | AI-based Security | Systems Security & Security Lifetime Management | Secure Architectures for Next Generation Communication | Secure Quantum Technologies | Secure AI Systems | Personalized Privacy Protection
 --- | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
 SOBEK  |  ---  | --- | --- | --- | :heavy_check_mark: | --- | --- | :heavy_check_mark: | --- | --- | --- | :heavy_check_mark:
