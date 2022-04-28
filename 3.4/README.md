@@ -74,7 +74,7 @@ Two assets collaborate to achieve this aim: (i) Briareos, a HIDS capable of laun
 --- | Collaborative Networks| Education & Training | Certification | Secure Platforms of Platforms | Infrastructure Protection | Holistic Data Protection | AI-based Security | Systems Security & Security Lifetime Management | Secure Architectures for Next Generation Communication | Secure Quantum Technologies | Secure AI Systems | Personalized Privacy Protection
 --- | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
 Briareos (C3P)       | ---                | --- | --- | --- | :heavy_check_mark: | ---                | ---                 | ---                 | --- | --- | ---                | ---
-EBIDS (CNR)          | ---                | --- | --- | --- | ---                | ---                | ---                 | ---                 | --- | --- | ---                | ---
+EBIDS (CNR)          | ---                | --- | --- | --- | :heavy_check_mark: | ---                | :heavy_check_mark:  | :heavy_check_mark:  | --- | --- | :heavy_check_mark: | ---
 ENIDS (FBK)          | ---                | --- | --- | --- | :heavy_check_mark: | ---                | :heavy_check_mark:  | ---                 | --- | --- | ---                | ---
 HADES (UMA)          | ---                | --- | --- | --- | :heavy_check_mark: | ---                | ---                 | ---                 | --- | --- | ---                | ---
 IntelFrame (DTU)     | ---                | --- | --- | --- | :heavy_check_mark: | ---                | :heavy_check_mark:  | ---                 | --- | --- | :heavy_check_mark: | ---
