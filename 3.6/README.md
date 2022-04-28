@@ -128,7 +128,7 @@ In the following table the assets and other research are listed and mapped to th
 --- | Governance and Capacity Building | Trustworthy Ecosystems of Systems | Trust-Building Blocks | Disruptive Emerging Development
 --- | --- | --- | --- | ---
 Example Asset  | :heavy_check_mark: | - |  - | :heavy_check_mark: 
-Privacy-preserving   IdM  | - | - |  - | - 
+Privacy-preserving   IdM  | - | - |  :heavy_check_mark:  | :heavy_check_mark: 
 DPIA   template | - | - |  :heavy_check_mark: | :heavy_check_mark:
 HATCH | - | - |  - | -
 CyberSecurity   Awareness Quiz | - | - |  - | -
@@ -146,7 +146,7 @@ LEECH | - | - |  - | -
 --- | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
 Example Asset 1 | :heavy_check_mark:  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
 Example Asset 2 | --- | --- | --- | --- | --- | :heavy_check_mark:  | --- | --- | --- | --- | --- | :heavy_check_mark:  
-Privacy-preserving   IdM  | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+Privacy-preserving   IdM  | --- | --- | ---  | --- | --- | :heavy_check_mark:  | --- | --- | --- | --- | --- | :heavy_check_mark:  
 DPIA   template | --- | --- | ---  | --- | --- | :heavy_check_mark: | --- | --- | --- | --- | --- | :heavy_check_mark: 
 HATCH | --- | :heavy_check_mark: | ---  | --- | --- | :heavy_check_mark: | --- | :heavy_check_mark: | --- | --- | --- | --- 
 CyberSecurity   Awareness Quiz | --- | :heavy_check_mark: | ---  | --- | --- | :heavy_check_mark: | --- | --- | --- | --- | --- | --- 
