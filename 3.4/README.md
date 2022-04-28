@@ -77,7 +77,7 @@ Briareos (C3P)       | ---                | --- | --- | --- | :heavy_check_mark:
 EBIDS (CNR)          | ---                | --- | --- | --- | ---                | ---                | ---                 | ---                 | --- | --- | ---                | ---
 ENIDS (FBK)          | ---                | --- | --- | --- | :heavy_check_mark: | ---                | :heavy_check_mark:  | ---                 | --- | --- | ---                | ---
 HADES (UMA)          | ---                | --- | --- | --- | :heavy_check_mark: | ---                | ---                 | ---                 | --- | --- | ---                | ---
-IntelFrame (DTU)     | ---                | --- | --- | --- | ---                | ---                | ---                 | ---                 | --- | --- | ---                | ---
+IntelFrame (DTU)     | ---                | --- | --- | --- | :heavy_check_mark: | ---                | :heavy_check_mark:  | ---                 | --- | --- | :heavy_check_mark: | ---
 JUDAS (UMA)          | ---                | --- | --- | --- | :heavy_check_mark: | ---                | ---                 | ---                 | --- | --- | ---                | ---
 NetGen (Polito)      | ---                | --- | --- | --- | :heavy_check_mark: | ---                | :heavy_check_mark:  | :heavy_check_mark:  | --- | --- | :heavy_check_mark: | ---
 PP-CTI (UMU)         | ---                | --- | --- | --- | ---                | :heavy_check_mark: | ---                 | ---                 | --- | --- | ---                | :heavy_check_mark:
