@@ -80,8 +80,8 @@ HADES (UMA)          | ---                | --- | --- | --- | :heavy_check_mark:
 IntelFrame (DTU)     | ---                | --- | --- | --- | ---                | ---                | ---                 | ---                 | --- | --- | ---                | ---
 JUDAS (UMA)          | ---                | --- | --- | --- | :heavy_check_mark: | ---                | ---                 | ---                 | --- | --- | ---                | ---
 NetGen (Polito)      | ---                | --- | --- | --- | :heavy_check_mark: | ---                | :heavy_check_mark:  | :heavy_check_mark:  | --- | --- | :heavy_check_mark: | ---
-PP-CTI (UMU)         | ---                | --- | --- | --- | ---                | ---                | ---                 | ---                 | --- | --- | ---                | ---
-Reliable-CTI (UMU)   | ---                | --- | --- | --- | ---                | ---                | ---                 | ---                 | --- | --- | ---                | ---
+PP-CTI (UMU)         | ---                | --- | --- | --- | ---                | :heavy_check_mark: | ---                 | ---                 | --- | --- | ---                | :heavy_check_mark:
+Reliable-CTI (UMU)   | ---                | --- | --- | --- | ---                | ---                | ---                 | :heavy_check_mark:  | --- | --- | ---                | ---
 RoCe (UNITN)         | ---                | --- | --- | --- | :heavy_check_mark: | ---                | ---                 | ---                 | --- | --- | ---                | ---
 TATIS (KUL)          | ---                | --- | --- | --- | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:  | ---                 | --- | --- | :heavy_check_mark: | ---
 TIE (ATOS)           | :heavy_check_mark: | --- | --- | --- | :heavy_check_mark: | :heavy_check_mark: | ---                 | ---                 | --- | --- | ---                | :heavy_check_mark:
