@@ -27,7 +27,8 @@ The certification and recertification process of SURFACE is described on a high 
 ![High-level overview of SURFACE](T3.8-SURFACE.png)
 
 ## Certification Assistant Tool CSA
-CSA is a web-based asset management and certification assistant tool. The certification workflow has been built based on SURFACE. The certification dimension adds another layer to asset management. It allows the manufacturer or vendor to carry out incremental certification based on sub-assets.
+* Overview: CSA is a web-based asset management and certification assistant tool. The certification workflow has been built based on SURFACE. The certification dimension adds another layer to asset management. It allows the manufacturer or vendor to carry out incremental certification based on sub-assets.
+* Video: Link will be available soon
 
 # Recources
 * [L. Kamm, "D3.22 Validation and Certification Methodology"  CyberSec4Europe, 2022.](https://cybersec4europe.eu/wp-content/uploads/2022/04/D3.22-Validation-and-Certification-Methodology-v1.0_submitted.pdf)
