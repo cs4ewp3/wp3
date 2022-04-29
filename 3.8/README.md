@@ -1,23 +1,47 @@
 # Abstract
-On this page we describes the demo application that we have set up. The application is meant for gathering and managing information about assets that require cybersecurity and IT security certification. It is possible to define the assets and the different certification needs and events that have been carried out or are  planned in the future. This allows  us  to check the  conformity of assets to certificates  and take  a  step towards continuous certification.
-# Overview
-# Content
+The main result of Task 3.8 - Conformity, Validation and Certification is SURFACE (Support Framework for Certification) – an integrated approach that can be used to support certification and recertification.
 
-### ARMOUR Methodology
-The  ARMOUR  methodology  combines  the  two  perspectives  of  the  ETSI  proposal  and  adds  additional activities inherent to the certification process.It should be pointed out that the ARMOUR methodology adapts the ETSI concepts and processes. In this sense,  the  first  process, establishing  the  context,is  related  with  understanding  the  business,  regulatory environment, and the laws and analysing which security level is required in each of them. <br/>
-At the beginning of the security assessment phase, the risk identification activity identifies the potential vulnerabilities  that  can  be  applicable  to  the  scenario  and  context  are  identified. </br>
-Test  Design  and  Implementationgenerates  the  test  cases  associated  to  the  vulnerabilities  and  threats considered. In this phase, the tests are also implemented and assembled to test procedures. </br>
-Test  Environment  Set  Up  &  Maintenanceinvolves  establishing  and  maintaining  the  environment  in which  tests  are  executed.  The  environment  can  be  local  (e.g.,  a  device)  or  remote  (e.g.,  a  large-scale infrastructure such as FIT IoT Lab), but in any case, typical actions are reserving resources and uploading the code to the devices. </br>
-Test Execution, Analysis & Summarydeals with the test execution as well as with the systematic analysis and summary of test results.
-</br>
-Risk  estimationcalculates  the  risk  level,  understanding  the  origin  of  the  risk  and  its  consequences.
-</br>
-Risk Evaluationcompares the results of risk estimation with the level of risk analysed at the beginning of the process, at the establishing the context phase
-### Demonstrator Goal and Scope
-As is the case with most general frameworks, the ARMOUR methodology can be very difficult to get started with, let alone  apply for a person acquainting themselves with it for the first time. Moreover, a complex systematic study can be simplified by technical toolseven for those who are familiar with the methodology.
-</br>
-We  have  modifiedan  existing  asset  from  CYBER(the  CSA  tool)  to  serve  as  a  prototype  for  this methodology.The CSA tool is originally intended for incident management, but has been altered so that a user  can  enter  and  interlink  information  concerning  a  target  of  evaluation.  At  the  current  stage,  the demonstrator is a prototype of the planned system, and as suchdoes not offer further automation of processes (e.g. risk score estimation, automatic scheduling of tests for recertification). This will be part of our future efforts.
-</br>
-The demonstrator is divided into three main categories concerning assets, risks and tests.The user can add information about all of these categories and interlink them based on their connections. For an object in any category it is possible to define a level of importance, whichwill help with prioritising. 
-# References
-[1 - A. Skarmeta, “D3.1 Common Framework Handbook 1,” CyberSec4Europe, 2019.](https://cybersec4europe.eu/wp-content/uploads/2020/06/D3.1-Handbook-v2.0-submitted-1.pdf)
+# SURFACE – a Support Framework for Certification
+We present SURFACE – a support framework for certification which integrates and combines steps and processes from the ARMOUR methodology, the ECSO meta-scheme, the European Cybersecurity Candidate Scheme and the continuous monitoring process from NIST 800-137. The process in SURFACE is divided into phases inspired by the ARMOUR methodology.
+
+We found that each of the solutions is missing some processes. The ECSO meta-scheme approach is more general than the ARMOUR methodology and allows the certification of different products and services (not only IoT devices). However, it lacks processes for recertification or continuous monitoring. Another drawback of the meta-scheme approach is that there is no common platform or database to share the findings and results. Combining solutions from different approaches can help in creating a solution that deals with the shortcomings.
+
+SURFACE defines the security assessments as processes that are carried out by a conformity assessment body or an accredited third-party. For risk assessment, SURFACE uses semi-quantitative risk assessment. To support risk communication, the generated risk scores (quantitative) can be mapped to the severity levels (qualitative).
+
+SURFACE represents the certification in a structured manner. This introduces a layer of transparency to the certification process and results, simplifies automatic analysis and allows for a more reliable communication of discovered vulnerabilities and affected certificates. The framework uses a cybersecurity label similar to the ARMOUR methodology. This helps to represent the certified product as well as the security level of the security properties.
+
+SURFACE also supports the recertification of subcomponents to reduce the time and cost of this process.
+
+## SURFACE workflow
+
+The certification and recertification process of SURFACE is described on a high level in the figure below. The processes are divided into phases inspired by the ARMOUR methodology:
+
+* Phase 0 (reconnaissance) where we identify the scope and select the appropriate certification schemes;
+* Phase 1 (planning), where we establish the context, develop a Generalised Protection Profile and plan the security control assessment process;
+* Phase 2 (assessment), where we carry out the security testing and risk assessment;
+* Phase 3 (generating certification elements), where we generate the certificate and the accompanying materials;
+* Phase 4 (communicating the results), where we share the certification elements with experts and clients;
+* Phase 5 (recertification), where we decide whether to recertify the whole target or components; and finally,
+* the continuous monitoring process.
+
+![High-level overview of SURFACE](T3.8-SURFACE.png)
+
+## Certification Assistant Tool CSA
+* Overview: CSA is a web-based asset management and certification assistant tool. The certification workflow has been built based on SURFACE. The certification dimension adds another layer to asset management. It allows the manufacturer or vendor to carry out incremental certification based on sub-assets.
+* Video: Link will be available soon
+
+# Recources
+* [L. Kamm, "D3.22 Validation and Certification Methodology"  CyberSec4Europe, 2022.](https://cybersec4europe.eu/wp-content/uploads/2022/04/D3.22-Validation-and-Certification-Methodology-v1.0_submitted.pdf)
+* [L. Kamm, "D3.8 Framework and Toolset for Conformity"  CyberSec4Europe, 2020.](https://cybersec4europe.eu/wp-content/uploads/2020/03/D3.8-Framework-and-Toolset-for-Conformity-v1.0-Submitted.pdf)
+* Jaskolka J., Jawad A., Samuel J., Hamid, B. (2021) A Security Property Decomposition Argument Pattern for Structured Assurance Case Models. In: 26th European Conference on Pattern Languages of Programs (EuroPLoP'21). Article 24, 1–10. Association for Computing Machinery, New York, NY, USA, https://doi.org/10.1145/3489449.3490001
+* Quentin Rouland, Brahim Hamid, and Jason Jaskolka. Specification, detection, and treatment of stride threats for software components: Modeling, formal methods, and tool support. Journal of Systems Architecture, 117:102073, 2021, https://doi.org/10.1016/j.sysarc.2021.102073
+* Quentin Rouland, Brahim Hamid, Jason Jaskolka: Formal specification and verification of reusable communication models for distributed systems architecture. Future Gener. Comput. Syst. 108: 178-197 (2020), https://doi.org/10.1016/j.future.2020.02.033
+
+# Cybersecurity Research and Areas Priority
+--- | Governance and Capacity Building | Trustworthy Ecosystems of Systems | Trust-Building Blocks | Disruptive Emerging Development
+--- | --- | --- | --- | ---
+CSA  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | - 
+
+--- | Collaborative Networks| Education & Training | Certification | Secure Platforms of Platforms | Infrastructure Protection | Holistic Data Protection | AI-based Security | Systems Security & Security Lifetime Management | Secure Architectures for Next Generation Communication | Secure Quantum Technologies | Secure AI Systems | Personalized Privacy Protection
+--- | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+CSA  |  ---  | --- | :heavy_check_mark: | --- | :heavy_check_mark: | --- | --- | :heavy_check_mark: | --- | --- | --- | ---
