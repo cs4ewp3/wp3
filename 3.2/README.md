@@ -136,7 +136,7 @@ PTASC | - | :heavy_check_mark: |  - | -
 ARGUS | - | - |  :heavy_check_mark: | -
 GDPR compliant user experience | - | - |  :heavy_check_mark: | :heavy_check_mark: 
 Interoperability and cross-border compliance | :heavy_check_mark: | - |  - | -
-Edge Privacy (UMA) |- | ¿:heavy_check_mark:?|  - | :heavy_check_mark:
+Edge Privacy (UMA) |- | :heavy_check_mark:|  - | :heavy_check_mark:
 Asset 6 | :heavy_check_mark: | - |  - | :heavy_check_mark:
 Password-less AuthN | - | :heavy_check_mark: |  :heavy_check_mark: | -
 SS-PP-IdM | - | - |  :heavy_check_mark: | :heavy_check_mark:
