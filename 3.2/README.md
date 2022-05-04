@@ -146,6 +146,23 @@ pp-FL | - | - |  :heavy_check_mark: | :heavy_check_mark:
 Sharemind | - | - |  :heavy_check_mark: | :heavy_check_mark:
 PLEAK DP analysers | - | - |  :heavy_check_mark: | -
 
+<p></p>
+
+--- | Collaborative Networks| Education & Training | Certification | Secure Platforms of Platforms | infrastructure Protection | Holistic Data Protection | AI-based Security | Systems Security & Security Lifetime Management | Secure Architectures for Next Generation Communication | Secure Quantum Technologies | Secure AI Systems | Personalized Privacy Protection
+--- | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+PTASC  | --- | --- | ---  |  :heavy_check_mark: |  :heavy_check_mark: | --- | --- | --- | --- | --- | --- | --- 
+ARGUS | --- | --- | ---  | --- | --- |  :heavy_check_mark: | --- |  :heavy_check_mark: | --- | --- | --- | --- 
+GDPR compliant user experience  | --- | --- | ---  | --- | --- |  :heavy_check_mark: | --- | --- | --- | --- | --- |  :heavy_check_mark: 
+Interoperability and cross-border compliance  |  :heavy_check_mark: | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+Edge Privacy (UMA) | --- | --- | ---  |  :heavy_check_mark: | --- | --- | --- | --- | --- | --- | --- | --- 
+Asset 6  | --- |  :heavy_check_mark: | ---  | --- | --- | --- | --- | --- | --- | --- |  :heavy_check_mark: | --- 
+Password-less AuthN  | --- | --- | ---  |  :heavy_check_mark: |  :heavy_check_mark: | --- | --- |  :heavy_check_mark: | --- | --- | --- | --- 
+SS-PP-IdM | --- | --- | ---  | --- | --- |  :heavy_check_mark: | --- | --- | --- | --- | --- |  :heavy_check_mark:
+CryptoVault  | --- | --- | ---  | --- | --- | --- | --- | --- |  :heavy_check_mark: | --- | --- | --- 
+GENERAL_D  | --- | --- | ---  |  :heavy_check_mark: |  :heavy_check_mark: |  :heavy_check_mark: | --- |  :heavy_check_mark: | --- | --- | --- |  :heavy_check_mark: 
+pp-FL | --- | --- | ---  | --- | --- |  :heavy_check_mark: |  :heavy_check_mark: | --- | --- | --- |  :heavy_check_mark: | --- 
+Sharemind | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+PLEAK DP analysers  | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
 
 # References
 [1 - A. Skarmeta, “D3.1 Common Framework Handbook 1,” CyberSec4Europe, 2019.](https://cybersec4europe.eu/wp-content/uploads/2020/06/D3.1-Handbook-v2.0-submitted-1.pdf)
