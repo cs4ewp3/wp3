@@ -130,15 +130,15 @@ In the following table the assets and other research are listed and mapped to th
 Example Asset  | :heavy_check_mark: | - |  - | :heavy_check_mark: 
 Privacy-preserving   IdM  | - | - |  :heavy_check_mark:  | :heavy_check_mark: 
 DPIA   template | - | - |  :heavy_check_mark: | :heavy_check_mark:
-HATCH | - | - |  - | -
-CyberSecurity   Awareness Quiz | - | - |  - | -
-LiSRA | - | - |  - | -
+HATCH | :heavy_check_mark: | - |  - | -
+CyberSecurity   Awareness Quiz | :heavy_check_mark: | - |  - | -
+LiSRA | :heavy_check_mark: | - |  - | -
 Adaptive   Authentication | - | - |  - | -
 HAMSTERS | - | - |  - | -
 EEVEHAC | - | - |   :heavy_check_mark:  | -
 SYSVER | - | - |  - | -
 AuthGuide | - | - |  - | -
-LEECH | - | - |  - | -
+LEECH | :heavy_check_mark: | - |  - | -
 
 <p></p>
 
