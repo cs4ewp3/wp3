@@ -1,5 +1,154 @@
 # WP3 - Blueprint Design and Common Research 
 WP3 is responsible for definition of common research, development and innovation in next generation cybersecurity technologies (including dual-use), applications and services; focus should be on horizontal cybersecurity technologies and cybersecurity in critical sectors (e.g. energy, transport, health, finance). WP3 will provide the common research support for the different WPs especially coordinated with WP4 and WP5 to connect the research and innovation with the demonstration and industrial sector to be covered. The WP will create synergies between experts from various cybersecurity domains, providing a mass of researchers and results strengthening its scientific and technological bases by achieving a European research area of cybersecurity. WP3 will run aligned with the two cycles design of CyberSec4Europe providing a first result to be used on the first deployment of WP5 and feedback providing an enhancement on its outcomes. 
+
+# Cybersecurity Research and Areas Priority
+<details>
+  <summary>table groups</summary>
+  
+--- | Governance and Capacity Building | Trustworthy Ecosystems of Systems | Trust-Building Blocks | Disruptive Emerging Develpment
+--- | --- | --- | --- | ---
+(T3.10)Asset 1 |                                  |                                   |                       | 
+PTASC | - | :heavy_check_mark: |  - | -
+ARGUS | - | - |  :heavy_check_mark: | -
+GDPR compliant user experience | - | - |  :heavy_check_mark: | :heavy_check_mark: 
+Interoperability and cross-border compliance | :heavy_check_mark: | - |  - | -
+Edge Privacy (UMA) |- | :heavy_check_mark:|  - | :heavy_check_mark:
+(T3.2)Asset 6 | :heavy_check_mark: | - |  - | :heavy_check_mark:
+Password-less AuthN | - | :heavy_check_mark: |  :heavy_check_mark: | -
+SS-PP-IdM | - | - |  :heavy_check_mark: | :heavy_check_mark:
+CryptoVault | - | - |  :heavy_check_mark: | - 
+GENERAL_D | - | :heavy_check_mark: |  :heavy_check_mark: | :heavy_check_mark:
+pp-FL | - | - |  :heavy_check_mark: | :heavy_check_mark:
+Sharemind | - | - |  :heavy_check_mark: | :heavy_check_mark:
+PLEAK DP analysers | - | - |  :heavy_check_mark: | -
+SOBEK  |  ---  | --- | :heavy_check_mark: | --- 
+HERMES |  ---  | --- | :heavy_check_mark: | --- 
+RisQFlan |  ---  | :heavy_check_mark: | :heavy_check_mark: | --- 
+Pleak |  ---  | --- | :heavy_check_mark: | --- 
+Verefoo |  ---  | --- | :heavy_check_mark: | --- 
+CORAS |  ---  | :heavy_check_mark: | :heavy_check_mark: | --- 
+PVS |  ---  | --- | :heavy_check_mark: | --- 
+BowTiePlus |  ---  | :heavy_check_mark: | :heavy_check_mark: | --- 
+HoneyGen |  ---  | --- | :heavy_check_mark: | --- 
+VTPin |  ---  | --- | :heavy_check_mark: | --- 
+Modssl-hmac |  ---  | --- | :heavy_check_mark:| --- 
+SEMCO |  ---  | --- | :heavy_check_mark: | --- 
+Briareos (C3P)        |  ---  | :heavy_check_mark:| --- | --- 
+EBIDS (CNR)           |  ---  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+ENIDS (FBK)          |  ---  | :heavy_check_mark:| :heavy_check_mark: | --- 
+HADES (UMA)          |  ---  | :heavy_check_mark: |---| --- 
+IntelFrame (DTU)      |  ---  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+JUDAS (UMA)           |  ---  |:heavy_check_mark: | --- | --- 
+NetGen (Polito)     |  ---  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+PP-CTI (UMU)          |  ---  | --- | :heavy_check_mark: | :heavy_check_mark:
+Reliable-CTI (UMU)    |  ---  | --- | :heavy_check_mark: | --- 
+RoCe (UNITN)         |  ---  | :heavy_check_mark: | :heavy_check_mark: | --- 
+TATIS (KUL)           |  ---  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+TIE (ATOS)           |  :heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+UASD (CNR)            |  ---  | --- | :heavy_check_mark: | --- 
+Privacy-preserving   IdM  | - | - |  :heavy_check_mark:  | :heavy_check_mark: 
+DPIA   template | - | - |  :heavy_check_mark: | :heavy_check_mark:
+HATCH | - | - |  - | -
+CyberSecurity   Awareness Quiz | - | - |  - | -
+LiSRA | - | - |  - | -
+Adaptive   Authentication | - | - |  - | -
+HAMSTERS | - | - |  - | -
+EEVEHAC | - | - |   :heavy_check_mark:  | -
+SYSVER | - | - |  - | -
+AuthGuide | - | - |  - | -
+LEECH | - | - |  - | -
+Guidelines for GDPR compliant user experience | - | - |  :heavy_check_mark: | :heavy_check_mark: 
+Analysis of interoperability and cross-border compliance issues | :heavy_check_mark: | - |  - | - 
+CSA  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | - 
+  
+</details>
+
+<details>
+  
+  <summary>table subgroups</summary>
+  
+--- | Collaborative Networks| Education & Training | Certification | Secure Platforms of Platforms | infrastructure Protection | Holistic Data Protection | AI-based Security | Systems Security & Security Lifetime Management | Secure Architectures for Next Generation Communication | Secure Quantum Technologies | Secure AI Systems | Personalized Privacy Protection
+--- | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+Conceptual Framework & Guidelines | --- | :heavy_check_mark: | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+Criteria for Poster Evaluation | --- | :heavy_check_mark: | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+Criteria for Serious Game Evaluation | --- | :heavy_check_mark: | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+PTASC  | --- | --- | ---  |  :heavy_check_mark: |  :heavy_check_mark: | --- | --- | --- | --- | --- | --- | --- 
+ARGUS | --- | --- | ---  | --- | --- |  :heavy_check_mark: | --- |  :heavy_check_mark: | --- | --- | --- | --- 
+GDPR compliant user experience  | --- | --- | ---  | --- | --- |  :heavy_check_mark: | --- | --- | --- | --- | --- |  :heavy_check_mark: 
+Interoperability and cross-border compliance  |  :heavy_check_mark: | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+Edge Privacy (UMA) | --- | --- | ---  |  :heavy_check_mark: | --- | --- | --- | --- | --- | --- | --- | :heavy_check_mark:
+Asset 6  | --- |  :heavy_check_mark: | ---  | --- | --- | --- | --- | --- | --- | --- |  :heavy_check_mark: | --- 
+Password-less AuthN  | --- | --- | ---  |  :heavy_check_mark: |  :heavy_check_mark: | --- | --- |  :heavy_check_mark: | --- | --- | --- | --- 
+SS-PP-IdM | --- | --- | ---  | --- | --- |  :heavy_check_mark: | --- | --- | --- | --- | --- |  :heavy_check_mark:
+CryptoVault  | --- | --- | ---  | --- | --- | --- | --- | --- |  :heavy_check_mark: | --- | --- | --- 
+GENERAL_D  | --- | --- | ---  |  :heavy_check_mark: |  :heavy_check_mark: |  :heavy_check_mark: | --- |  :heavy_check_mark: | --- | --- | --- |  :heavy_check_mark: 
+pp-FL | --- | --- | ---  | --- | --- |  :heavy_check_mark: |  :heavy_check_mark: | --- | --- | --- |  :heavy_check_mark: | --- 
+Sharemind | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+PLEAK DP analysers  | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+SOBEK  |  ---  | --- | --- | --- | :heavy_check_mark: | --- | --- | :heavy_check_mark: | --- | --- | --- | :heavy_check_mark:
+HERMES |  ---  | --- | --- | --- | :heavy_check_mark: | --- | --- | :heavy_check_mark: | --- | --- | --- | ---
+RisQFlan |  ---  | --- | --- | --- |---| --- | --- | :heavy_check_mark: | --- | --- | --- | ---
+Pleak |  ---  | --- | --- | --- |---| --- | --- | :heavy_check_mark: | --- | --- | --- | :heavy_check_mark:
+Verefoo |  ---  | --- | --- | --- |---| --- | --- | :heavy_check_mark: | --- | --- | --- | ---
+CORAS |  ---  | --- | --- | --- |---| --- | --- | :heavy_check_mark: | --- | --- | --- | ---
+PVS |  ---  | --- | :heavy_check_mark: | --- |---| --- | --- | :heavy_check_mark: | --- | --- | --- | ---
+BowTiePlus |  ---  | --- | --- | --- |---| --- | --- | :heavy_check_mark: | --- | --- | --- | ---
+HoneyGen |  ---  | --- | --- | --- |---| --- | --- | :heavy_check_mark: | --- | --- | --- | ---
+VTPin |  ---  | --- | --- | --- |---| --- | --- | :heavy_check_mark: | --- | --- | --- | ---
+Modssl-hmac |  ---  | --- | --- | --- |---| --- | --- | :heavy_check_mark: | --- | --- | --- | ---
+SEMCO |  ---  | --- | --- | --- |---| --- | --- | :heavy_check_mark: | --- | --- | --- | ---
+Briareos (C3P)       | ---                | --- | --- | --- | :heavy_check_mark: | ---                | ---                 | ---                 | --- | --- | ---                | ---
+EBIDS (CNR)          | ---                | --- | --- | --- | :heavy_check_mark: | ---                | :heavy_check_mark:  | :heavy_check_mark:  | --- | --- | :heavy_check_mark: | ---
+ENIDS (FBK)          | ---                | --- | --- | --- | :heavy_check_mark: | ---                | :heavy_check_mark:  | ---                 | --- | --- | ---                | ---
+HADES (UMA)          | ---                | --- | --- | --- | :heavy_check_mark: | ---                | ---                 | ---                 | --- | --- | ---                | ---
+IntelFrame (DTU)     | ---                | --- | --- | --- | :heavy_check_mark: | ---                | :heavy_check_mark:  | ---                 | --- | --- | :heavy_check_mark: | ---
+JUDAS (UMA)          | ---                | --- | --- | --- | :heavy_check_mark: | ---                | ---                 | ---                 | --- | --- | ---                | ---
+NetGen (Polito)      | ---                | --- | --- | --- | :heavy_check_mark: | ---                | :heavy_check_mark:  | :heavy_check_mark:  | --- | --- | :heavy_check_mark: | ---
+PP-CTI (UMU)         | ---                | --- | --- | --- | ---                | :heavy_check_mark: | ---                 | ---                 | --- | --- | ---                | :heavy_check_mark:
+Reliable-CTI (UMU)   | ---                | --- | --- | --- | ---                | ---                | ---                 | :heavy_check_mark:  | --- | --- | ---                | ---
+RoCe (UNITN)         | ---                | --- | --- | --- | :heavy_check_mark: | ---                | ---                 | ---                 | --- | --- | ---                | ---
+TATIS (KUL)          | ---                | --- | --- | --- | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:  | ---                 | --- | --- | :heavy_check_mark: | ---
+TIE (ATOS)           | :heavy_check_mark: | --- | --- | --- | :heavy_check_mark: | :heavy_check_mark: | ---                 | ---                 | --- | --- | ---                | :heavy_check_mark:
+UASD (CNR)           | ---                | --- | --- | --- | ---                | ---                | :heavy_check_mark:  | ---                 | --- | --- | ---                | ---
+Privacy-preserving   IdM  | --- | --- | ---  | --- | --- | :heavy_check_mark:  | --- | --- | --- | --- | --- | :heavy_check_mark:  
+DPIA   template | --- | --- | ---  | --- | --- | :heavy_check_mark: | --- | --- | --- | --- | --- | :heavy_check_mark: 
+HATCH | --- | :heavy_check_mark: | ---  | --- | --- | :heavy_check_mark: | --- | :heavy_check_mark: | --- | --- | --- | --- 
+CyberSecurity   Awareness Quiz | --- | :heavy_check_mark: | ---  | --- | --- | :heavy_check_mark: | --- | --- | --- | --- | --- | --- 
+LiSRA | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+Adaptive   Authentication | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+HAMSTERS | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+EEVEHAC | --- | --- | ---  | --- | --- | :heavy_check_mark:  | --- | --- | :heavy_check_mark:  | --- | --- | --- 
+SYSVER | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+AuthGuide | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+LEECH | --- | :heavy_check_mark: | ---  | --- | --- | --- | --- | --- | --- | --- | --- | :heavy_check_mark: 
+Guidelines for GDPR compliant user experience | --- | --- | --- | --- | --- | :heavy_check_mark: | --- | --- | --- | --- | --- | :heavy_check_mark: 
+Analysis of interoperability and cross-border compliance issues | :heavy_check_mark: | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+CSA  |  ---  | --- | :heavy_check_mark: | --- | :heavy_check_mark: | --- | --- | :heavy_check_mark: | --- | --- | --- | ---
+
+
+
+</details>
+
+<details>
+  
+  <summary>table combined</summary>
+  
+--- | Governance and Capacity Building | Trustworthy Ecosystems of Systems | Trust-Building Blocks | Disruptive Emerging Develpment
+--- | --- | --- | --- | ---
+Collaborative Networks | Interoperability and cross-border compliance, TIE (ATOS), Analysis of interoperability and cross-border compliance issues | - |  - | -
+Education & Training  | Conceptual Framework & Guidelines, Criteria for Poster Evaluation, Criteria for Serious Game Evaluation, (T3.2Asset 6), HATCH, CyberSecurity Awareness Quiz, LEECH | - |  - | -
+Certification  | PVS, CSA | - |  - | -
+Secure Platforms of Platforms  | - | PTASC, Edge Privacy (UMA), Password-less AuthN, GENERAL_D |  - | -
+infrastructure Protection  | - | PTASC, Password-less AuthN, GENERAL_D, SOBEK, HERMES, Briareos (C3P), EBIDS (CNR), ENIDS (FBK), HADES (UMA), IntelFrame (DTU), JUDAS (UMA), NetGen (Polito), RoCe (UNITN), TATIS (KUL), TIE (ATOS), CSA  |  - | -
+Holistic Data Protection  | - | - |  ARGUS, GDPR compliant user experience, SS-PP-IdM, GENERAL_D, pp-FL, PP-CTI (UMU), TATIS (KUL), TIE (ATOS), Privacy-preserving IdM, DPIA template, HATCH, CyberSecurity Awareness Quiz, EEVEHAC, Guidelines for GDPR compliant user experience | -
+AI-based Security  | - | - |  pp-FL,  EBIDS (CNR), ENIDS (FBK), IntelFrame (DTU), NetGen (Polito), TATIS (KUL), UASD (CNR) | -
+Systems Security & Security Lifetime Management  | - | - |  ARGUS, Password-less AuthN, GENERAL_D, SOBEK, HERMES, RisQFlan, Pleak, Verefoo, CORAS, PVS, BowTiePlus, HoneyGen, VTPin, Modssl-hmac, SEMCO, EBIDS (CNR), NetGen (Polito), Reliable-CTI (UMU), HATCH, CSA | -
+Secure Architectures for Next Generation Communication  | - | - |  EEVEHAC | -
+Secure Quantum Technologies  | - | - |  - | -
+Secure AI Systems  | - | - |  - | (T3.2Asset 6), pp-FL, EBIDS (CNR), IntelFrame (DTU), NetGen (Polito), TATIS (KUL)
+Personalized Privacy Protection | - | - |  - | GDPR compliant user experience, Edge Privacy (UMA), SS-PP-IdM, GENERAL_D, SOBEK, Pleak, Privacy-preserving IdM, DPIA template,  LEECH, PP-CTI (UMU), TIE (ATOS), Guidelines for GDPR compliant user experience
+</details>
+
 ## Task 3.1 Common Framework Design
 [Link to 3.1 folder](3.1/)
 </br>
