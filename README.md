@@ -7,123 +7,123 @@ WP3 is responsible for definition of common research, development and innovation
   
 --- | Governance and Capacity Building | Trustworthy Ecosystems of Systems | Trust-Building Blocks | Disruptive Emerging Develpment
 --- | --- | --- | --- | ---
-(T3.10)Asset 1 |                                  |                                   |                       | 
-PTASC | - | :heavy_check_mark: |  - | -
-ARGUS | - | - |  :heavy_check_mark: | -
-GDPR compliant user experience | - | - |  :heavy_check_mark: | :heavy_check_mark: 
-Interoperability and cross-border compliance | :heavy_check_mark: | - |  - | -
-Edge Privacy (UMA) |- | :heavy_check_mark:|  - | :heavy_check_mark:
-(T3.2)Asset 6 | :heavy_check_mark: | - |  - | :heavy_check_mark:
-Password-less AuthN | - | :heavy_check_mark: |  :heavy_check_mark: | -
-SS-PP-IdM | - | - |  :heavy_check_mark: | :heavy_check_mark:
-CryptoVault | - | - |  :heavy_check_mark: | - 
-GENERAL_D | - | :heavy_check_mark: |  :heavy_check_mark: | :heavy_check_mark:
-pp-FL | - | - |  :heavy_check_mark: | :heavy_check_mark:
-Sharemind | - | - |  :heavy_check_mark: | :heavy_check_mark:
-PLEAK DP analysers | - | - |  :heavy_check_mark: | -
-SOBEK  |  ---  | --- | :heavy_check_mark: | --- 
-HERMES |  ---  | --- | :heavy_check_mark: | --- 
-RisQFlan |  ---  | :heavy_check_mark: | :heavy_check_mark: | --- 
-Pleak |  ---  | --- | :heavy_check_mark: | --- 
-Verefoo |  ---  | --- | :heavy_check_mark: | --- 
-CORAS |  ---  | :heavy_check_mark: | :heavy_check_mark: | --- 
-PVS |  ---  | --- | :heavy_check_mark: | --- 
-BowTiePlus |  ---  | :heavy_check_mark: | :heavy_check_mark: | --- 
-HoneyGen |  ---  | --- | :heavy_check_mark: | --- 
-VTPin |  ---  | --- | :heavy_check_mark: | --- 
-Modssl-hmac |  ---  | --- | :heavy_check_mark:| --- 
-SEMCO |  ---  | --- | :heavy_check_mark: | --- 
-Briareos (C3P)        |  ---  | :heavy_check_mark:| --- | --- 
-EBIDS (CNR)           |  ---  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
-ENIDS (FBK)          |  ---  | :heavy_check_mark:| :heavy_check_mark: | --- 
-HADES (UMA)          |  ---  | :heavy_check_mark: |---| --- 
-IntelFrame (DTU)      |  ---  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
-JUDAS (UMA)           |  ---  |:heavy_check_mark: | --- | --- 
-NetGen (Polito)     |  ---  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
-PP-CTI (UMU)          |  ---  | --- | :heavy_check_mark: | :heavy_check_mark:
-Reliable-CTI (UMU)    |  ---  | --- | :heavy_check_mark: | --- 
-RoCe (UNITN)         |  ---  | :heavy_check_mark: | :heavy_check_mark: | --- 
-TATIS (KUL)           |  ---  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
-TIE (ATOS)           |  :heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
-UASD (CNR)            |  ---  | --- | :heavy_check_mark: | --- 
-Privacy-preserving   IdM  | - | - |  :heavy_check_mark:  | :heavy_check_mark: 
-DPIA   template | - | - |  :heavy_check_mark: | :heavy_check_mark:
-HATCH | - | - |  - | -
-CyberSecurity   Awareness Quiz | - | - |  - | -
-LiSRA | - | - |  - | -
-Adaptive   Authentication | - | - |  - | -
-HAMSTERS | - | - |  - | -
-EEVEHAC | - | - |   :heavy_check_mark:  | -
-SYSVER | - | - |  - | -
-AuthGuide | - | - |  - | -
-LEECH | - | - |  - | -
-Guidelines for GDPR compliant user experience | - | - |  :heavy_check_mark: | :heavy_check_mark: 
-Analysis of interoperability and cross-border compliance issues | :heavy_check_mark: | - |  - | - 
-CSA  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | - 
+[PTASC](3.2#updated-version-of-enablers-and-components) | - | :heavy_check_mark: |  - | -
+[ARGUS](3.2#updated-version-of-enablers-and-components) | - | - |  :heavy_check_mark: | -
+[GDPR compliant user experience](3.2#updated-version-of-enablers-and-components) | - | - |  :heavy_check_mark: | :heavy_check_mark: 
+[Interoperability and cross-border compliance](3.2#updated-version-of-enablers-and-components) | :heavy_check_mark: | - |  - | -
+[Edge Privacy (UMA)](3.2#updated-version-of-enablers-and-components) |- | :heavy_check_mark:|  - | :heavy_check_mark:
+[Asset 6](3.2#updated-version-of-enablers-and-components) | :heavy_check_mark: | - |  - | :heavy_check_mark:
+[Password-less AuthN](3.2#updated-version-of-enablers-and-components) | - | :heavy_check_mark: |  :heavy_check_mark: | -
+[SS-PP-IdM](3.2#updated-version-of-enablers-and-components) | - | - |  :heavy_check_mark: | :heavy_check_mark:
+[CryptoVault](3.2#updated-version-of-enablers-and-components) | - | - |  :heavy_check_mark: | - 
+[GENERAL_D](3.2#updated-version-of-enablers-and-components) | - | :heavy_check_mark: |  :heavy_check_mark: | :heavy_check_mark:
+[pp-FL](3.2#updated-version-of-enablers-and-components) | - | - |  :heavy_check_mark: | :heavy_check_mark:
+[Sharemind](3.2#updated-version-of-enablers-and-components) | - | - |  :heavy_check_mark: | :heavy_check_mark:
+[PLEAK DP analysers](3.2#updated-version-of-enablers-and-components) | - | - |  :heavy_check_mark: | -
+[SOBEK](3.3#proactive-approaches-for-secure-software-development)  |  ---  | --- | :heavy_check_mark: | --- 
+[HERMES](3.3#proactive-approaches-for-secure-software-development) |  ---  | --- | :heavy_check_mark: | --- 
+[RisQFlan](3.3#proactive-approaches-for-secure-software-development) |  ---  | :heavy_check_mark: | :heavy_check_mark: | --- 
+[Pleak](3.3#proactive-approaches-for-secure-software-development) |  ---  | --- | :heavy_check_mark: | --- 
+[Verefoo](3.3#proactive-approaches-for-secure-software-development) |  ---  | --- | :heavy_check_mark: | --- 
+[CORAS](3.3#proactive-approaches-for-secure-software-development) |  ---  | :heavy_check_mark: | :heavy_check_mark: | --- 
+[PVS](3.3#proactive-approaches-for-secure-software-development) |  ---  | --- | :heavy_check_mark: | --- 
+[BowTiePlus](3.3#proactive-approaches-for-secure-software-development) |  ---  | :heavy_check_mark: | :heavy_check_mark: | --- 
+[HoneyGen](3.3#proactive-approaches-for-secure-software-development) |  ---  | --- | :heavy_check_mark: | --- 
+[VTPin](3.3#proactive-approaches-for-secure-software-development) |  ---  | --- | :heavy_check_mark: | --- 
+[Modssl-hmac](3.3#proactive-approaches-for-secure-software-development) |  ---  | --- | :heavy_check_mark:| --- 
+[SEMCO](3.3#proactive-approaches-for-secure-software-development) |  ---  | --- | :heavy_check_mark: | --- 
+[Briareos (C3P)](3.3#proactive-approaches-for-secure-software-development)        |  ---  | :heavy_check_mark:| --- | --- 
+[EBIDS (CNR)](3.3#proactive-approaches-for-secure-software-development)           |  ---  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+[ENIDS (FBK)](3.3#proactive-approaches-for-secure-software-development)          |  ---  | :heavy_check_mark:| :heavy_check_mark: | --- 
+[HADES (UMA)](3.3#proactive-approaches-for-secure-software-development)          |  ---  | :heavy_check_mark: |---| --- 
+[IntelFrame (DTU)](3.3#proactive-approaches-for-secure-software-development)      |  ---  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+[JUDAS (UMA)](3.3#proactive-approaches-for-secure-software-development)           |  ---  |:heavy_check_mark: | --- | --- 
+[NetGen (Polito)](3.3#proactive-approaches-for-secure-software-development)     |  ---  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+[PP-CTI (UMU)](3.3#proactive-approaches-for-secure-software-development)          |  ---  | --- | :heavy_check_mark: | :heavy_check_mark:
+[Reliable-CTI (UMU)](3.3#proactive-approaches-for-secure-software-development)    |  ---  | --- | :heavy_check_mark: | --- 
+[RoCe (UNITN)](3.3#proactive-approaches-for-secure-software-development)         |  ---  | :heavy_check_mark: | :heavy_check_mark: | --- 
+[TATIS (KUL)](3.3#proactive-approaches-for-secure-software-development)           |  ---  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+[TIE (ATOS)](3.3#proactive-approaches-for-secure-software-development)           |  :heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+[UASD (CNR)](3.3#proactive-approaches-for-secure-software-development)            |  ---  | --- | :heavy_check_mark: | --- 
+[Privacy-preserving IdM](3.6#assets-and-other-research)  | - | - |  :heavy_check_mark:  | :heavy_check_mark: 
+[DPIA   template](3.6#assets-and-other-research) | - | - |  :heavy_check_mark: | :heavy_check_mark:
+[HATCH](3.6#assets-and-other-research) | :heavy_check_mark: | - |  - | -
+[CyberSecurity   Awareness Quiz](3.6#assets-and-other-research) | :heavy_check_mark: | - |  - | -
+[LiSRA](3.6#assets-and-other-research) | :heavy_check_mark: | - |  - | -
+[Adaptive Authentication](3.6#assets-and-other-research) | - | - |  - | -
+[HAMSTERS](3.6#assets-and-other-research) | - | - |  :heavy_check_mark: | -
+[EEVEHAC](3.6#assets-and-other-research) | - | - |   :heavy_check_mark:  | -
+[SYSVER](3.6#assets-and-other-research) | - | - |  :heavy_check_mark: | -
+[AuthGuide](3.6#assets-and-other-research) | - | - |  :heavy_check_mark: | -
+[LEECH](3.6#assets-and-other-research) | :heavy_check_mark: | - |  - | -
+[Guidelines for GDPR compliant user experience](3.7#guidelines-for-gdpr-compliant-user-experience) | - | - |  :heavy_check_mark: | :heavy_check_mark: 
+[Analysis of interoperability and cross-border compliance issues](3.7#analysis-of-interoperability-and-cross-border-compliance-issues) | :heavy_check_mark: | - |  - | - 
+[CSA](3.8#certification-assistant-tool-csa)  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | - 
   
 </details>
 
 <details>
   
   <summary>table subgroups</summary>
-  
+
 --- | Collaborative Networks| Education & Training | Certification | Secure Platforms of Platforms | infrastructure Protection | Holistic Data Protection | AI-based Security | Systems Security & Security Lifetime Management | Secure Architectures for Next Generation Communication | Secure Quantum Technologies | Secure AI Systems | Personalized Privacy Protection
 --- | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
-Conceptual Framework & Guidelines | --- | :heavy_check_mark: | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
-Criteria for Poster Evaluation | --- | :heavy_check_mark: | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
-Criteria for Serious Game Evaluation | --- | :heavy_check_mark: | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
-PTASC  | --- | --- | ---  |  :heavy_check_mark: |  :heavy_check_mark: | --- | --- | --- | --- | --- | --- | --- 
-ARGUS | --- | --- | ---  | --- | --- |  :heavy_check_mark: | --- |  :heavy_check_mark: | --- | --- | --- | --- 
-GDPR compliant user experience  | --- | --- | ---  | --- | --- |  :heavy_check_mark: | --- | --- | --- | --- | --- |  :heavy_check_mark: 
-Interoperability and cross-border compliance  |  :heavy_check_mark: | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
-Edge Privacy (UMA) | --- | --- | ---  |  :heavy_check_mark: | --- | --- | --- | --- | --- | --- | --- | :heavy_check_mark:
-Asset 6  | --- |  :heavy_check_mark: | ---  | --- | --- | --- | --- | --- | --- | --- |  :heavy_check_mark: | --- 
-Password-less AuthN  | --- | --- | ---  |  :heavy_check_mark: |  :heavy_check_mark: | --- | --- |  :heavy_check_mark: | --- | --- | --- | --- 
-SS-PP-IdM | --- | --- | ---  | --- | --- |  :heavy_check_mark: | --- | --- | --- | --- | --- |  :heavy_check_mark:
-CryptoVault  | --- | --- | ---  | --- | --- | --- | --- | --- |  :heavy_check_mark: | --- | --- | --- 
-GENERAL_D  | --- | --- | ---  |  :heavy_check_mark: |  :heavy_check_mark: |  :heavy_check_mark: | --- |  :heavy_check_mark: | --- | --- | --- |  :heavy_check_mark: 
-pp-FL | --- | --- | ---  | --- | --- |  :heavy_check_mark: |  :heavy_check_mark: | --- | --- | --- |  :heavy_check_mark: | --- 
-Sharemind | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
-PLEAK DP analysers  | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
-SOBEK  |  ---  | --- | --- | --- | :heavy_check_mark: | --- | --- | :heavy_check_mark: | --- | --- | --- | :heavy_check_mark:
-HERMES |  ---  | --- | --- | --- | :heavy_check_mark: | --- | --- | :heavy_check_mark: | --- | --- | --- | ---
-RisQFlan |  ---  | --- | --- | --- |---| --- | --- | :heavy_check_mark: | --- | --- | --- | ---
-Pleak |  ---  | --- | --- | --- |---| --- | --- | :heavy_check_mark: | --- | --- | --- | :heavy_check_mark:
-Verefoo |  ---  | --- | --- | --- |---| --- | --- | :heavy_check_mark: | --- | --- | --- | ---
-CORAS |  ---  | --- | --- | --- |---| --- | --- | :heavy_check_mark: | --- | --- | --- | ---
-PVS |  ---  | --- | :heavy_check_mark: | --- |---| --- | --- | :heavy_check_mark: | --- | --- | --- | ---
-BowTiePlus |  ---  | --- | --- | --- |---| --- | --- | :heavy_check_mark: | --- | --- | --- | ---
-HoneyGen |  ---  | --- | --- | --- |---| --- | --- | :heavy_check_mark: | --- | --- | --- | ---
-VTPin |  ---  | --- | --- | --- |---| --- | --- | :heavy_check_mark: | --- | --- | --- | ---
-Modssl-hmac |  ---  | --- | --- | --- |---| --- | --- | :heavy_check_mark: | --- | --- | --- | ---
-SEMCO |  ---  | --- | --- | --- |---| --- | --- | :heavy_check_mark: | --- | --- | --- | ---
-Briareos (C3P)       | ---                | --- | --- | --- | :heavy_check_mark: | ---                | ---                 | ---                 | --- | --- | ---                | ---
-EBIDS (CNR)          | ---                | --- | --- | --- | :heavy_check_mark: | ---                | :heavy_check_mark:  | :heavy_check_mark:  | --- | --- | :heavy_check_mark: | ---
-ENIDS (FBK)          | ---                | --- | --- | --- | :heavy_check_mark: | ---                | :heavy_check_mark:  | ---                 | --- | --- | ---                | ---
-HADES (UMA)          | ---                | --- | --- | --- | :heavy_check_mark: | ---                | ---                 | ---                 | --- | --- | ---                | ---
-IntelFrame (DTU)     | ---                | --- | --- | --- | :heavy_check_mark: | ---                | :heavy_check_mark:  | ---                 | --- | --- | :heavy_check_mark: | ---
-JUDAS (UMA)          | ---                | --- | --- | --- | :heavy_check_mark: | ---                | ---                 | ---                 | --- | --- | ---                | ---
-NetGen (Polito)      | ---                | --- | --- | --- | :heavy_check_mark: | ---                | :heavy_check_mark:  | :heavy_check_mark:  | --- | --- | :heavy_check_mark: | ---
-PP-CTI (UMU)         | ---                | --- | --- | --- | ---                | :heavy_check_mark: | ---                 | ---                 | --- | --- | ---                | :heavy_check_mark:
-Reliable-CTI (UMU)   | ---                | --- | --- | --- | ---                | ---                | ---                 | :heavy_check_mark:  | --- | --- | ---                | ---
-RoCe (UNITN)         | ---                | --- | --- | --- | :heavy_check_mark: | ---                | ---                 | ---                 | --- | --- | ---                | ---
-TATIS (KUL)          | ---                | --- | --- | --- | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:  | ---                 | --- | --- | :heavy_check_mark: | ---
-TIE (ATOS)           | :heavy_check_mark: | --- | --- | --- | :heavy_check_mark: | :heavy_check_mark: | ---                 | ---                 | --- | --- | ---                | :heavy_check_mark:
-UASD (CNR)           | ---                | --- | --- | --- | ---                | ---                | :heavy_check_mark:  | ---                 | --- | --- | ---                | ---
-Privacy-preserving   IdM  | --- | --- | ---  | --- | --- | :heavy_check_mark:  | --- | --- | --- | --- | --- | :heavy_check_mark:  
-DPIA   template | --- | --- | ---  | --- | --- | :heavy_check_mark: | --- | --- | --- | --- | --- | :heavy_check_mark: 
-HATCH | --- | :heavy_check_mark: | ---  | --- | --- | :heavy_check_mark: | --- | :heavy_check_mark: | --- | --- | --- | --- 
-CyberSecurity   Awareness Quiz | --- | :heavy_check_mark: | ---  | --- | --- | :heavy_check_mark: | --- | --- | --- | --- | --- | --- 
-LiSRA | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
-Adaptive   Authentication | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
-HAMSTERS | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
-EEVEHAC | --- | --- | ---  | --- | --- | :heavy_check_mark:  | --- | --- | :heavy_check_mark:  | --- | --- | --- 
-SYSVER | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
-AuthGuide | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
-LEECH | --- | :heavy_check_mark: | ---  | --- | --- | --- | --- | --- | --- | --- | --- | :heavy_check_mark: 
-Guidelines for GDPR compliant user experience | --- | --- | --- | --- | --- | :heavy_check_mark: | --- | --- | --- | --- | --- | :heavy_check_mark: 
-Analysis of interoperability and cross-border compliance issues | :heavy_check_mark: | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
-CSA  |  ---  | --- | :heavy_check_mark: | --- | :heavy_check_mark: | --- | --- | :heavy_check_mark: | --- | --- | --- | ---
+[Conceptual Framework & Guidelines](3.10#conceptual-framework) | --- | :heavy_check_mark: | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+[Conceptual Framework & Guidelines](3.10#conceptual-framework) | --- | :heavy_check_mark: | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+[Criteria for Serious Game Evaluation](3.10#conceptual-framework) | --- | :heavy_check_mark: | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+[PTASC](3.2#updated-version-of-enablers-and-components)  | --- | --- | ---  |  :heavy_check_mark: |  :heavy_check_mark: | --- | --- | --- | --- | --- | --- | --- 
+[ARGUS](3.2#updated-version-of-enablers-and-components) | --- | --- | ---  | --- | --- |  :heavy_check_mark: | --- |  :heavy_check_mark: | --- | --- | --- | --- 
+[GDPR compliant user experience](3.2#updated-version-of-enablers-and-components)  | --- | --- | ---  | --- | --- |  :heavy_check_mark: | --- | --- | --- | --- | --- |  :heavy_check_mark: 
+[Interoperability and cross-border compliance](3.2#updated-version-of-enablers-and-components)  |  :heavy_check_mark: | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+[Edge Privacy (UMA)](3.2#updated-version-of-enablers-and-components) | --- | --- | ---  |  :heavy_check_mark: | --- | --- | --- | --- | --- | --- | --- | :heavy_check_mark:
+[Asset 6](3.2#updated-version-of-enablers-and-components)  | --- |  :heavy_check_mark: | ---  | --- | --- | --- | --- | --- | --- | --- |  :heavy_check_mark: | --- 
+[Password-less AuthN](3.2#updated-version-of-enablers-and-components)  | --- | --- | ---  |  :heavy_check_mark: |  :heavy_check_mark: | --- | --- |  :heavy_check_mark: | --- | --- | --- | --- 
+[SS-PP-IdM](3.2#updated-version-of-enablers-and-components) | --- | --- | ---  | --- | --- |  :heavy_check_mark: | --- | --- | --- | --- | --- |  :heavy_check_mark:
+[CryptoVault](3.2#updated-version-of-enablers-and-components)  | --- | --- | ---  | --- | --- | --- | --- | --- |  :heavy_check_mark: | --- | --- | --- 
+[GENERAL_D](3.2#updated-version-of-enablers-and-components)  | --- | --- | ---  |  :heavy_check_mark: |  :heavy_check_mark: |  :heavy_check_mark: | --- |  :heavy_check_mark: | --- | --- | --- |  :heavy_check_mark: 
+[pp-FL](3.2#updated-version-of-enablers-and-components) | --- | --- | ---  | --- | --- |  :heavy_check_mark: |  :heavy_check_mark: | --- | --- | --- |  :heavy_check_mark: | --- 
+[Sharemind](3.2#updated-version-of-enablers-and-components) | --- | --- | --- | :heavy_check_mark: | --- | :heavy_check_mark: | --- | --- | --- | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: 
+[PLEAK DP analysers](3.2#updated-version-of-enablers-and-components) | --- | --- | --- | --- | --- | :heavy_check_mark: | --- | --- | :heavy_check_mark: | :heavy_check_mark: | --- | :heavy_check_mark: 
+[Pleak](3.3#proactive-approaches-for-secure-software-development) | --- | --- | --- | --- | --- | :heavy_check_mark: | --- | --- | :heavy_check_mark: | :heavy_check_mark: | --- | :heavy_check_mark: 
+[SOBEK](3.3#proactive-approaches-for-secure-software-development)  |  ---  | --- | --- | --- | :heavy_check_mark: | --- | --- | :heavy_check_mark: | --- | --- | --- | :heavy_check_mark:
+[HERMES](3.3#proactive-approaches-for-secure-software-development) |  ---  | --- | --- | --- | :heavy_check_mark: | --- | --- | :heavy_check_mark: | --- | --- | --- | ---
+[RisQFlan](3.3#proactive-approaches-for-secure-software-development) |  ---  | --- | --- | --- |---| --- | --- | :heavy_check_mark: | --- | --- | --- | ---
+[Pleak](3.3#proactive-approaches-for-secure-software-development) |  ---  | --- | --- | --- |---| --- | --- | :heavy_check_mark: | --- | --- | --- | :heavy_check_mark:
+[Verefoo](3.3#proactive-approaches-for-secure-software-development) |  ---  | --- | --- | --- |---| --- | --- | :heavy_check_mark: | --- | --- | --- | ---
+[CORAS](3.3#proactive-approaches-for-secure-software-development) |  ---  | --- | --- | --- |---| --- | --- | :heavy_check_mark: | --- | --- | --- | ---
+[PVS](3.3#proactive-approaches-for-secure-software-development) |  ---  | --- | :heavy_check_mark: | --- |---| --- | --- | :heavy_check_mark: | --- | --- | --- | ---
+[BowTiePlus](3.3#proactive-approaches-for-secure-software-development) |  ---  | --- | --- | --- |---| --- | --- | :heavy_check_mark: | --- | --- | --- | ---
+[HoneyGen](3.3#proactive-approaches-for-secure-software-development) |  ---  | --- | --- | --- |---| --- | --- | :heavy_check_mark: | --- | --- | --- | ---
+[VTPin](3.3#proactive-approaches-for-secure-software-development) |  ---  | --- | --- | --- |---| --- | --- | :heavy_check_mark: | --- | --- | --- | ---
+[Modssl-hmac](3.3#proactive-approaches-for-secure-software-development) |  ---  | --- | --- | --- |---| --- | --- | :heavy_check_mark: | --- | --- | --- | ---
+[SEMCO](3.3#proactive-approaches-for-secure-software-development) |  ---  | --- | --- | --- |---| --- | --- | :heavy_check_mark: | --- | --- | --- | ---
+[Briareos (C3P)](3.3#proactive-approaches-for-secure-software-development)       | ---                | --- | --- | --- | :heavy_check_mark: | ---                | ---                 | ---                 | --- | --- | ---                | ---
+[EBIDS (CNR)](3.3#proactive-approaches-for-secure-software-development)          | ---                | --- | --- | --- | :heavy_check_mark: | ---                | :heavy_check_mark:  | :heavy_check_mark:  | --- | --- | :heavy_check_mark: | ---
+[ENIDS (FBK)](3.3#proactive-approaches-for-secure-software-development)          | ---                | --- | --- | --- | :heavy_check_mark: | ---                | :heavy_check_mark:  | ---                 | --- | --- | ---                | ---
+[HADES (UMA)](3.3#proactive-approaches-for-secure-software-development)          | ---                | --- | --- | --- | :heavy_check_mark: | ---                | ---                 | ---                 | --- | --- | ---                | ---
+[IntelFrame (DTU)](3.3#proactive-approaches-for-secure-software-development)     | ---                | --- | --- | --- | :heavy_check_mark: | ---                | :heavy_check_mark:  | ---                 | --- | --- | :heavy_check_mark: | ---
+[JUDAS (UMA)](3.3#proactive-approaches-for-secure-software-development)          | ---                | --- | --- | --- | :heavy_check_mark: | ---                | ---                 | ---                 | --- | --- | ---                | ---
+[NetGen (Polito)](3.3#proactive-approaches-for-secure-software-development)      | ---                | --- | --- | --- | :heavy_check_mark: | ---                | :heavy_check_mark:  | :heavy_check_mark:  | --- | --- | :heavy_check_mark: | ---
+[PP-CTI (UMU)](3.3#proactive-approaches-for-secure-software-development)         | ---                | --- | --- | --- | ---                | :heavy_check_mark: | ---                 | ---                 | --- | --- | ---                | :heavy_check_mark:
+[Reliable-CTI (UMU)](3.3#proactive-approaches-for-secure-software-development)   | ---                | --- | --- | --- | ---                | ---                | ---                 | :heavy_check_mark:  | --- | --- | ---                | ---
+[RoCe (UNITN)](3.3#proactive-approaches-for-secure-software-development)         | ---                | --- | --- | --- | :heavy_check_mark: | ---                | ---                 | ---                 | --- | --- | ---                | ---
+[TATIS (KUL)](3.3#proactive-approaches-for-secure-software-development)          | ---                | --- | --- | --- | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:  | ---                 | --- | --- | :heavy_check_mark: | ---
+[TIE (ATOS)](3.3#proactive-approaches-for-secure-software-development)           | :heavy_check_mark: | --- | --- | --- | :heavy_check_mark: | :heavy_check_mark: | ---                 | ---                 | --- | --- | ---                | :heavy_check_mark:
+[UASD (CNR)](3.3#proactive-approaches-for-secure-software-development)           | ---                | --- | --- | --- | ---                | ---                | :heavy_check_mark:  | ---                 | --- | --- | ---                | ---
+[Privacy-preserving IdM](3.6#assets-and-other-research)  | --- | --- | ---  | --- | --- | :heavy_check_mark:  | --- | --- | --- | --- | --- | :heavy_check_mark:  
+[DPIA   template](3.6#assets-and-other-research) | --- | --- | ---  | --- | --- | :heavy_check_mark: | --- | --- | --- | --- | --- | :heavy_check_mark: 
+[HATCH](3.6#assets-and-other-research) | --- | :heavy_check_mark: | ---  | --- | --- | :heavy_check_mark: | --- | :heavy_check_mark: | --- | --- | --- | --- 
+[CyberSecurity   Awareness Quiz](3.6#assets-and-other-research) | --- | :heavy_check_mark: | ---  | --- | --- | :heavy_check_mark: | --- | --- | --- | --- | --- | --- 
+[LiSRA](3.6#assets-and-other-research) | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+[Adaptive Authentication](3.6#assets-and-other-research) | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+[HAMSTERS](3.6#assets-and-other-research) | --- | :heavy_check_mark: | ---  | --- | --- | :heavy_check_mark: | --- | --- | --- | --- | --- | --- 
+[EEVEHAC](3.6#assets-and-other-research) | --- | --- | ---  | --- | --- | :heavy_check_mark: | --- | --- | :heavy_check_mark:| --- | --- | --- 
+[SYSVER](3.6#assets-and-other-research) | --- | --- | ---  | --- | --- | --- | --- | :heavy_check_mark: | --- | --- | --- | --- 
+[AuthGuide](3.6#assets-and-other-research) | --- | --- | ---  | --- | --- | --- | --- | :heavy_check_mark: | --- | --- | --- | --- 
+[LEECH](3.6#assets-and-other-research) | --- | :heavy_check_mark: | ---  | --- | --- | --- | --- | --- | --- | --- | --- | :heavy_check_mark: 
+[Guidelines for GDPR compliant user experience](3.7#guidelines-for-gdpr-compliant-user-experience) | --- | --- | --- | --- | --- | :heavy_check_mark: | --- | --- | --- | --- | --- | :heavy_check_mark: 
+[Analysis of interoperability and cross-border compliance issues](3.7#analysis-of-interoperability-and-cross-border-compliance-issues) | :heavy_check_mark: | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+[CSA](3.8#certification-assistant-tool-csa)  |  ---  | --- | :heavy_check_mark: | --- | :heavy_check_mark: | --- | --- | :heavy_check_mark: | --- | --- | --- | ---
 
 
 
@@ -135,18 +135,18 @@ CSA  |  ---  | --- | :heavy_check_mark: | --- | :heavy_check_mark: | --- | --- |
   
 --- | Governance and Capacity Building | Trustworthy Ecosystems of Systems | Trust-Building Blocks | Disruptive Emerging Develpment
 --- | --- | --- | --- | ---
-Collaborative Networks | Interoperability and cross-border compliance, TIE (ATOS), Analysis of interoperability and cross-border compliance issues | - |  - | -
-Education & Training  | Conceptual Framework & Guidelines, Criteria for Poster Evaluation, Criteria for Serious Game Evaluation, (T3.2Asset 6), HATCH, CyberSecurity Awareness Quiz, LEECH | - |  - | -
-Certification  | PVS, CSA | - |  - | -
-Secure Platforms of Platforms  | - | PTASC, Edge Privacy (UMA), Password-less AuthN, GENERAL_D |  - | -
-infrastructure Protection  | - | PTASC, Password-less AuthN, GENERAL_D, SOBEK, HERMES, Briareos (C3P), EBIDS (CNR), ENIDS (FBK), HADES (UMA), IntelFrame (DTU), JUDAS (UMA), NetGen (Polito), RoCe (UNITN), TATIS (KUL), TIE (ATOS), CSA  |  - | -
-Holistic Data Protection  | - | - |  ARGUS, GDPR compliant user experience, SS-PP-IdM, GENERAL_D, pp-FL, PP-CTI (UMU), TATIS (KUL), TIE (ATOS), Privacy-preserving IdM, DPIA template, HATCH, CyberSecurity Awareness Quiz, EEVEHAC, Guidelines for GDPR compliant user experience | -
-AI-based Security  | - | - |  pp-FL,  EBIDS (CNR), ENIDS (FBK), IntelFrame (DTU), NetGen (Polito), TATIS (KUL), UASD (CNR) | -
-Systems Security & Security Lifetime Management  | - | - |  ARGUS, Password-less AuthN, GENERAL_D, SOBEK, HERMES, RisQFlan, Pleak, Verefoo, CORAS, PVS, BowTiePlus, HoneyGen, VTPin, Modssl-hmac, SEMCO, EBIDS (CNR), NetGen (Polito), Reliable-CTI (UMU), HATCH, CSA | -
-Secure Architectures for Next Generation Communication  | - | - |  EEVEHAC | -
-Secure Quantum Technologies  | - | - |  - | -
-Secure AI Systems  | - | - |  - | (T3.2Asset 6), pp-FL, EBIDS (CNR), IntelFrame (DTU), NetGen (Polito), TATIS (KUL)
-Personalized Privacy Protection | - | - |  - | GDPR compliant user experience, Edge Privacy (UMA), SS-PP-IdM, GENERAL_D, SOBEK, Pleak, Privacy-preserving IdM, DPIA template,  LEECH, PP-CTI (UMU), TIE (ATOS), Guidelines for GDPR compliant user experience
+Collaborative Networks | [Interoperability and cross-border compliance](3.2#updated-version-of-enablers-and-components), [TIE (ATOS)](3.3#proactive-approaches-for-secure-software-development), [Analysis of interoperability and cross-border compliance issues](3.7#analysis-of-interoperability-and-cross-border-compliance-issues) | - |  - | -
+Education & Training  | [Conceptual Framework & Guidelines](3.10#conceptual-framework), [Conceptual Framework & Guidelines](3.10#conceptual-framework), [Criteria for Serious Game Evaluation](3.10#conceptual-framework), [Asset 6](3.2#updated-version-of-enablers-and-components), [HATCH](3.6#assets-and-other-research), [CyberSecurity Awareness Quiz](3.6#assets-and-other-research), [LEECH](3.6#assets-and-other-research), [HAMSTERS](3.6#assets-and-other-research) | - |  - | -
+Certification  | [PVS](3.3#proactive-approaches-for-secure-software-development), [CSA](3.8#certification-assistant-tool-csa) | - |  - | -
+Secure Platforms of Platforms  | - | [PTASC](3.2#updated-version-of-enablers-and-components), [Edge Privacy (UMA)](3.2#updated-version-of-enablers-and-components), [Password-less AuthN](3.2#updated-version-of-enablers-and-components), [GENERAL_D](3.2#updated-version-of-enablers-and-components), [Sharemind](3.2#updated-version-of-enablers-and-components) |  - | -
+infrastructure Protection  | - | [PTASC](3.2#updated-version-of-enablers-and-components), [Password-less AuthN](3.2#updated-version-of-enablers-and-components), [GENERAL_D](3.2#updated-version-of-enablers-and-components), [SOBEK](3.3#proactive-approaches-for-secure-software-development), [HERMES](3.3#proactive-approaches-for-secure-software-development), [Briareos (C3P)](3.3#proactive-approaches-for-secure-software-development), [EBIDS (CNR)](3.3#proactive-approaches-for-secure-software-development), [ENIDS (FBK)](3.3#proactive-approaches-for-secure-software-development), [HADES (UMA)](3.3#proactive-approaches-for-secure-software-development), [IntelFrame (DTU)](3.3#proactive-approaches-for-secure-software-development), [JUDAS (UMA)](3.3#proactive-approaches-for-secure-software-development), [NetGen (Polito)](3.3#proactive-approaches-for-secure-software-development), [RoCe (UNITN)](3.3#proactive-approaches-for-secure-software-development), [TATIS (KUL)](3.3#proactive-approaches-for-secure-software-development), [TIE (ATOS)](3.3#proactive-approaches-for-secure-software-development), [CSA](3.8#certification-assistant-tool-csa)  |  - | -
+Holistic Data Protection  | - | - |  [ARGUS](3.2#updated-version-of-enablers-and-components), [GDPR compliant user experience](3.2#updated-version-of-enablers-and-components), [SS-PP-IdM](3.2#updated-version-of-enablers-and-components), [GENERAL_D](3.2#updated-version-of-enablers-and-components), [pp-FL](3.2#updated-version-of-enablers-and-components), [PP-CTI (UMU)](3.3#proactive-approaches-for-secure-software-development), [TATIS (KUL)](3.3#proactive-approaches-for-secure-software-development), [TIE (ATOS)](3.3#proactive-approaches-for-secure-software-development), [Privacy-preserving IdM](3.6#assets-and-other-research), [DPIA   template](3.6#assets-and-other-research), [HATCH](3.6#assets-and-other-research), [CyberSecurity Awareness Quiz](3.6#assets-and-other-research), [EEVEHAC](3.6#assets-and-other-research), [Guidelines for GDPR compliant user experience](3.7#guidelines-for-gdpr-compliant-user-experience), [Sharemind](3.2#updated-version-of-enablers-and-components), [Pleak](3.3#proactive-approaches-for-secure-software-development), [HAMSTERS](3.6#assets-and-other-research) | -
+AI-based Security  | - | - |  [pp-FL](3.2#updated-version-of-enablers-and-components),  [EBIDS (CNR)](3.3#proactive-approaches-for-secure-software-development), [ENIDS (FBK)](3.3#proactive-approaches-for-secure-software-development), [IntelFrame (DTU)](3.3#proactive-approaches-for-secure-software-development), [NetGen (Polito)](3.3#proactive-approaches-for-secure-software-development), [TATIS (KUL)](3.3#proactive-approaches-for-secure-software-development), [UASD (CNR)](3.3#proactive-approaches-for-secure-software-development) | -
+Systems Security & Security Lifetime Management  | - | - |  [ARGUS](3.2#updated-version-of-enablers-and-components), [Password-less AuthN](3.2#updated-version-of-enablers-and-components), [GENERAL_D](3.2#updated-version-of-enablers-and-components), [SOBEK](3.3#proactive-approaches-for-secure-software-development), [HERMES](3.3#proactive-approaches-for-secure-software-development), [RisQFlan](3.3#proactive-approaches-for-secure-software-development), [Pleak](3.3#proactive-approaches-for-secure-software-development), [Verefoo](3.3#proactive-approaches-for-secure-software-development), [CORAS](3.3#proactive-approaches-for-secure-software-development), [PVS](3.3#proactive-approaches-for-secure-software-development), [BowTiePlus](3.3#proactive-approaches-for-secure-software-development), [HoneyGen](3.3#proactive-approaches-for-secure-software-development), [VTPin](3.3#proactive-approaches-for-secure-software-development), [Modssl-hmac](3.3#proactive-approaches-for-secure-software-development), [SEMCO](3.3#proactive-approaches-for-secure-software-development), [EBIDS (CNR)](3.3#proactive-approaches-for-secure-software-development), [NetGen (Polito)](3.3#proactive-approaches-for-secure-software-development), [Reliable-CTI (UMU)](3.3#proactive-approaches-for-secure-software-development), [HATCH](3.6#assets-and-other-research), [CSA](3.8#certification-assistant-tool-csa),[SYSVER](3.6#assets-and-other-research) , [AuthGuide](3.6#assets-and-other-research) | -
+Secure Architectures for Next Generation Communication  | - | - |  [EEVEHAC](3.6#assets-and-other-research), [Pleak](3.3#proactive-approaches-for-secure-software-development) | -
+Secure Quantum Technologies  | - | - |  - | [Sharemind](3.2#updated-version-of-enablers-and-components), [Pleak](3.3#proactive-approaches-for-secure-software-development), [CryptoVault](3.2#updated-version-of-enablers-and-components)
+Secure AI Systems  | - | - |  - | [Asset 6](3.2#updated-version-of-enablers-and-components), [pp-FL](3.2#updated-version-of-enablers-and-components), [EBIDS (CNR)](3.3#proactive-approaches-for-secure-software-development), [IntelFrame (DTU)](3.3#proactive-approaches-for-secure-software-development), [NetGen (Polito)](3.3#proactive-approaches-for-secure-software-development), [TATIS (KUL)](3.3#proactive-approaches-for-secure-software-development), [Sharemind](3.2#updated-version-of-enablers-and-components)
+Personalized Privacy Protection | - | - |  - | [GDPR compliant user experience](3.2#updated-version-of-enablers-and-components), [Edge Privacy (UMA)](3.2#updated-version-of-enablers-and-components), [SS-PP-IdM](3.2#updated-version-of-enablers-and-components), [GENERAL_D](3.2#updated-version-of-enablers-and-components), [SOBEK](3.3#proactive-approaches-for-secure-software-development), [Pleak](3.3#proactive-approaches-for-secure-software-development), [Privacy-preserving IdM](3.6#assets-and-other-research), [DPIA   template](3.6#assets-and-other-research),  [LEECH](3.6#assets-and-other-research), [PP-CTI (UMU)](3.3#proactive-approaches-for-secure-software-development), [TIE (ATOS)](3.3#proactive-approaches-for-secure-software-development), [Guidelines for GDPR compliant user experience](3.7#guidelines-for-gdpr-compliant-user-experience), [Sharemind](3.2#updated-version-of-enablers-and-components), [Pleak](3.3#proactive-approaches-for-secure-software-development)
 </details>
 
 ## Task 3.1 Common Framework Design
