@@ -129,10 +129,7 @@ WP3 is responsible for definition of common research, development and innovation
 
 </details>
 
-<details>
-  
-  <summary>table combined</summary>
-  
+
 --- | Governance and Capacity Building | Trustworthy Ecosystems of Systems | Trust-Building Blocks | Disruptive Emerging Develpment
 --- | --- | --- | --- | ---
 Collaborative Networks | [Interoperability and cross-border compliance](3.2#updated-version-of-enablers-and-components), [TIE (ATOS)](3.3#proactive-approaches-for-secure-software-development), [Analysis of interoperability and cross-border compliance issues](3.7#analysis-of-interoperability-and-cross-border-compliance-issues) | - |  - | -
@@ -147,7 +144,7 @@ Secure Architectures for Next Generation Communication  | - | - |  [EEVEHAC](3.6
 Secure Quantum Technologies  | - | - |  - | [Sharemind](3.2#updated-version-of-enablers-and-components), [Pleak](3.3#proactive-approaches-for-secure-software-development), [CryptoVault](3.2#updated-version-of-enablers-and-components)
 Secure AI Systems  | - | - |  - | [Asset 6](3.2#updated-version-of-enablers-and-components), [pp-FL](3.2#updated-version-of-enablers-and-components), [EBIDS (CNR)](3.3#proactive-approaches-for-secure-software-development), [IntelFrame (DTU)](3.3#proactive-approaches-for-secure-software-development), [NetGen (Polito)](3.3#proactive-approaches-for-secure-software-development), [TATIS (KUL)](3.3#proactive-approaches-for-secure-software-development), [Sharemind](3.2#updated-version-of-enablers-and-components)
 Personalized Privacy Protection | - | - |  - | [GDPR compliant user experience](3.2#updated-version-of-enablers-and-components), [Edge Privacy (UMA)](3.2#updated-version-of-enablers-and-components), [SS-PP-IdM](3.2#updated-version-of-enablers-and-components), [GENERAL_D](3.2#updated-version-of-enablers-and-components), [SOBEK](3.3#proactive-approaches-for-secure-software-development), [Pleak](3.3#proactive-approaches-for-secure-software-development), [Privacy-preserving IdM](3.6#assets-and-other-research), [DPIA   template](3.6#assets-and-other-research),  [LEECH](3.6#assets-and-other-research), [PP-CTI (UMU)](3.3#proactive-approaches-for-secure-software-development), [TIE (ATOS)](3.3#proactive-approaches-for-secure-software-development), [Guidelines for GDPR compliant user experience](3.7#guidelines-for-gdpr-compliant-user-experience), [Sharemind](3.2#updated-version-of-enablers-and-components), [Pleak](3.3#proactive-approaches-for-secure-software-development)
-</details>
+
 
 ## Task 3.1 Common Framework Design
 [Link to 3.1 folder](3.1/)
