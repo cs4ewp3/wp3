@@ -1,92 +1,83 @@
 
 
 # Abstract
-This task will explore the development of flexible security solutions that can quickly adapt security controls in response to security changes such as new attacks or changes in security requirements. To improve the modelling and  analysis  of  dynamic systems,  we will  provide  tools  and  techniques  to support  elicitation  and  representation  of assets, security requirements and threats, focusing on interconnected systems in various domains (e.g., cloud systems and Internet of Things). This task will also provide scalable architectures supporting security situation computation and risk assessment, and also selection and deployment of security controls that could satisfy security requirements and  policies,  also  enabling  awareness  of  the  current  system  status.  Finally,  the  acceptance  of  adaptive  systems  by stakeholders will be addressed developing techniques to provide explanations (assurances) about why certain security controls should be adapted.
+This page describes the main outputs of CS4E-WP3-T5.
+to demonstrate the outputs of this task we use the MAPE-K (Monitor-Analyze-Plan-Execute) loop architecture [19] which is the reference architecture for engineering adaptive systems [20]. It monitors (M) the protected sub-system and its operating environment and maintains an updated representation of the protected sub-system and its operating environment at runtime (Knowledge - K). The Knowledge also represents information about threats and security requirements. The protecting sub-system uses this representation to analyze (A) security threats and assess security risks, and plan (P) and execute (E) countermeasures aimed to prevent or thwart the threats discovered during analysis.
+We showcase how the assets provided by each partner of task T3.5 can be used to implement a specific activity of an adaptive security system in order to support some of the maritime transport use case scenarios elicited in task T5.5 [ref]. For reasons of simplicity, here we focus on a specific subset of the use cases that are relevant for engineering adaptive security systems.  
+
 
 
 # Overview
-In the last years we have seen an increasing amount of large-scale, severe breaches, such as the Equifax
-breach in 2017  or the Marriot breach in 2018. Such events pose huge costs to organizations and
-governments. For example, the average cost of cybercrime by consequence of the attack in 2018 was
-estimated to amount to $13 million. Cyber attacks can also threaten critical infrastructure and disrupt
-individual’s lives. For example, in October 2016, the Mirai botnet caused disruptions of major sites such
-as Etsy and Twitter . Although security has been considered a critical concern during the design and
-development of modern software systems, the number and severity of cyber security incidents is expected
-to increase in the next years .
-One of the reasons behind this is that software systems are traditionally developed by enacting static security
-controls. However, unanticipated changes can occur in the environment where the system operates (e.g.,
-new assets require to be protected), in the system itself (previously unknown vulnerabilities are discovered)
-and/or in the security properties
-that a system must satisfy. These changes may render ineffective the security controls deployed, making the
-system more vulnerable to potential attacks. Note that although security controls support the satisfaction of
-security properties, they can negatively affect other requirements, such as usability and performance. Thus,
-different approaches have been proposed in previous research to build adaptive security systems , which
-can self-protect from the varying risk of harm by adjusting their security controls, in a way that minimally
-impacts other system requirements.
-Surveys about adaptive security systems demonstrate that existing research in this domain has
-been fairly recent. Existing surveys have mainly focused on how adaptive security systems are designed and
-implemented, without considering other important dimensions such as the who and why dimensions. The
-“who” dimension covers the interactions that an adaptive security system has with its stakeholders who
-design, build, use, and certify it. While, the “why” dimension covers the objectives that an adaptation of
-security controls should achieve. Also, existing surveys focus on adaptive security systems proposed for
-purely software and large-scale systems, without considering the application domains where adaptive
-security systems have been adopted.
-# Content
-## Roles
-### The Role of Stakeholders in Adaptive Security
-The majority of the surveyed papers were aimed to securing communications in
-IoT systems (33%), mobile devices (15%) virtual and private networks (12%), cloud and web services (12%)
-and autonomous vehicles (9%). A central problem in these domains are to balance the tradeoff between secure communication, performance and energy consumption.
-Other approaches have been applied to prevent security threats and hazards in smart buildings (9%), or are
-application-independent. One of the papers that was surveyed considered securing blockchain-based logs.
-An interesting finding is that user authentication did not emerged as an application domain. This is surprising
-considering emerging research on continuous authentication and current “zero-trust” approach. . As cyber-physical systems are becoming more ubiquitous more holistic adaptive security solutions able to analyze the extended attack surface
-of cyber-physical systems should be provided. These solution should be capable to enact and
-coordinate security controls in both the cyber and physical spaces where the system operates.
-### The Role of Stakeholders in Adaptive Security
-We identified three types of stakeholders: users, software engineers and security engineers/human operators.
-Users can trigger changes in the security controls. Thus, their (personal) data may need to be monitored
-during the adaptation loop to select security controls. Also, enactment of security controls can affect the
-user’s interaction with the system. However, existing work on adaptive security has not focused on how to
-inform users about what personal data are required to be collected for adaptive security purposes. Existing
-research has provided information and explanations about enacted security controls in the form of warning
-messages or arguments, generated by exploiting traceability links between security policies,
-requirements and domain assumptions. Software engineers are responsible for designing and implementing
-the adaptive security behavior of the system. To support software engineers, previous work has considered
-providing them with scenarios  and formal languages  to specify adaptive security requirements.
-Finally, security engineers and operators can provide insights about effectiveness of security controls during
-decision making. However, no artifact has been proposed to encourage their involvement in the analysis
-and planning activities of the adaptive security loop.
-### The Role of Requirements in Adaptive Security
-* Detection. Previous research on adaptive security has tackled the problem of security threats and attack
-detection rather sporadically
-* Prevention. The majority of existing approaches proposed to support adaptive security are aimed to prevent
-security threats and attacks. 
-* Mitigation. Surprisingly, very little work has focused on adaptive security strategies that could
-adaptively support harm containment after an attack occurs.
-* Management of Trade-offs between Security and other System requirements. Management of the
-tradeoff between security and other requirements of the systems has been considered in various application
-domains.
-* Mathematical functions have been often used to represent and measure trust of messages’ senders in
-wireless sensor networks and cloud services , in order to identify an appropriate
-authentication and encryption mechanism to be adopted
-* Rule-based approaches have been proposed to guide decision making.
-* Stochastic games have been used to balance the tradeoff between conflicting requirements in IoT systems.
+The main contributions that our assets bring to the architecture of an adaptive security system can be summarized as follows:
 
-## Recommendations
-### A holistic approach to adaptive security
-It is necessary to design and develop adaptive security solutions that can be applied to heterogeneous cyberphysical systems composed of cyber, physical and human components.
-### Integration between adaptive security objectives
-Adaptive security systems should be designed with the capability to enact and adapt their adaptive security
-objectives (detect, prevent and mitigate). 
-### Explicit consideration of the stakeholders
-Existing adaptive security systems should be designed assuming that their stakeholders can be involved in
-the execution of some of the activities of the MAPE loop.
-### Perpetual security assurances
-Existing adaptive security approaches have used formal techniques to support decision making.
-### Reducing security uncertainties
-Existing adaptive security approaches operate under the assumption that the possible set of security controls
-is pre-determined and do not evaluate effectiveness of security controls at runtime.
+*	Data-flow-centric threat assessment: an approach to automate threat elicitation and identify evolving threats when the architecture of the system changes. 
+*	Adaptive Authentication: a decision-making technique to automatically select an authentication method that mitigates the security risks and maximizes the satisfaction of security and other requirements, such as performance and usability.
+*	Situation-driven risk assessment and security enforcement: an approach to identify situations and pre-compute security risks based on the utilized assets, threats, vulnerabilities and impacts. Depending on the security risks this approach can enforce situation-specific security controls that effectively mitigate the risks.
+*	Adaptive risk assessment:  a novel technique to verify effectiveness of security controls when changing scenarios affect interdependencies between system components.
+*	Adaptive incident reporting: a novel approach to incident reporting that can adaptively change the reporting process and the report template depending on the type of incident and the location of the components affected by the security incidents.
+Finally, we identify General Data Protection Regulation (GDPR) compliance issues that can arise in adaptive security systems.
+
+
+## Content
+
+### Scenario 1: Data-flow-centric threat assessment
+
+#### Summary
+
+The focus of the first scenario is on the modelling and analysis of threats elicited for the maritime Transport example.
+
+Step 1a: Model the DFD: a DFD model of the maritime case was created, based upon the characterization of the Maritime Transport example, and augmented with public information about the systems and concepts referred to (e.g., Search and Rescue Transceiver (SART), Automated Identification System (AIS)). 
+As most of the attacks presented in the descriptions of the Maritime Transport example (cf. Section 3.1) are aimed directly at individual vessels, the DFD is modeled from the perspective of an individual vessel, and the other systems are modeled as external entities. The outcome is presented in Figure 13.
+Step 1b: Model enrichment: definition of asset values and instantiation of countermeasures in the model. This creates an overlay of (non-visible) elements that are considered during threat elicitation. In terms of countermeasures, none are selected in a first instance, and thus, a wide array of potential threat scenarios will automatically be considered.
+Step 1c: selection of threat catalog: SPARTA allows for customized threat catalogs, and these can be loaded dynamically via the UI. For the Maritime Transport example, we loaded the generic threat catalog that encodes the STRIDE threat categories (Spoofing, Tampering, Repudiation, Information disclosure, Denial of Service and Elevation of Privilege). These threat categories focus on design-level issues/weaknesses and emphasize less on specific attack types (e.g., malware, ransomware).
+Step 2: Threat elicitation: This is an automated generation step that yields several threats instantiated in the specific system. For example, at the basis of the above DFD, the following threats are generated by SPARTA:
+![image](https://user-images.githubusercontent.com/21111801/171427781-d46e636e-7687-455c-b5fb-f9c4f3f7565b.png)
+
+In total, the automated threat elicitation step yields 1136 distinct threat scenarios at the basis of the above DFD. This is a consequence of a combinatorial explosion, a phenomenon called threat explosion![image](https://user-images.githubusercontent.com/21111801/171427857-4b8684ed-a967-42d6-8d42-1a1a1c8310c5.png)
+
+Step 4: Mitigate threats: in the fourth step, mitigations, countermeasures, and controls can be instantiated to reduce the overall risk. As depicted in Figure 16, in the current model, no such mitigations have been selected yet (risk reduction progress is still zero).![image](https://user-images.githubusercontent.com/21111801/171427905-06d9e77f-f62e-4197-acd3-b731177cfcca.png)
+
+
+
+
+#### Resources
+
+*	Online proof-of-concept demonstrators and repositories:
+     *   https://distrinet.cs.kuleuven.be/software/sparta/ [Binary release of SPARTA asset]
+     
+* Videos:
+     * https://youtu.be/cdAiaNutfW4
+* Scientific dissemination: 
+     * D. Van Landuyt, L. Pasquale, L. Sion, and W. Joosen, "Threat models at run time: the case for reflective and adaptive threat management (NIER track)," in SEAMS'21: Proceedings of the 16th International Symposium on Software Engineering for Adaptive and Self-Managing Systems, 2021.
+
+	
+
+
+# Cybersecurity Research and Areas Priority
+
+--- | Collaborative Networks| Education & Training | Certification | Secure Platforms of Platforms | Infrastructure Protection | Holistic Data Protection | AI-based Security | Systems Security & Security Lifetime Management | Secure Architectures for Next Generation Communication | Secure Quantum Technologies | Secure AI Systems | Personalized Privacy Protection
+--- | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+Briareos (C3P)       | ---                | --- | --- | --- | :heavy_check_mark: | ---                | ---                 | ---                 | --- | --- | ---                | ---
+EBIDS (CNR)          | ---                | --- | --- | --- | :heavy_check_mark: | ---                | :heavy_check_mark:  | :heavy_check_mark:  | --- | --- | :heavy_check_mark: | ---
+ENIDS (FBK)          | ---                | --- | --- | --- | :heavy_check_mark: | ---                | :heavy_check_mark:  | ---                 | --- | --- | ---                | ---
+HADES (UMA)          | ---                | --- | --- | --- | :heavy_check_mark: | ---                | ---                 | ---                 | --- | --- | ---                | ---
+IntelFrame (DTU)     | ---                | --- | --- | --- | :heavy_check_mark: | ---                | :heavy_check_mark:  | ---                 | --- | --- | :heavy_check_mark: | ---
+JUDAS (UMA)          | ---                | --- | --- | --- | :heavy_check_mark: | ---                | ---                 | ---                 | --- | --- | ---                | ---
+NetGen (Polito)      | ---                | --- | --- | --- | :heavy_check_mark: | ---                | :heavy_check_mark:  | :heavy_check_mark:  | --- | --- | :heavy_check_mark: | ---
+PP-CTI (UMU)         | ---                | --- | --- | --- | ---                | :heavy_check_mark: | ---                 | ---                 | --- | --- | ---                | :heavy_check_mark:
+Reliable-CTI (UMU)   | ---                | --- | --- | --- | ---                | ---                | ---                 | :heavy_check_mark:  | --- | --- | ---                | ---
+RoCe (UNITN)         | ---                | --- | --- | --- | :heavy_check_mark: | ---                | ---                 | ---                 | --- | --- | ---                | ---
+TATIS (KUL)          | ---                | --- | --- | --- | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:  | ---                 | --- | --- | :heavy_check_mark: | ---
+TIE (ATOS)           | :heavy_check_mark: | --- | --- | --- | :heavy_check_mark: | :heavy_check_mark: | ---                 | ---                 | --- | --- | ---                | :heavy_check_mark:
+UASD (CNR)           | ---                | --- | --- | --- | ---                | ---                | :heavy_check_mark:  | ---                 | --- | --- | ---                | ---
 
 # References
-[1 - A. Skarmeta, “D3.1 Common Framework Handbook 1,” CyberSec4Europe, 2019.](https://cybersec4europe.eu/wp-content/uploads/2020/06/D3.1-Handbook-v2.0-submitted-1.pdf)
+[1 - A. Skarmeta, “D3.1 Common Framework Handbook 1”, CyberSec4Europe, 2019.](https://cybersec4europe.eu/wp-content/uploads/2020/06/D3.1-Handbook-v2.0-submitted-1.pdf)
+
+[2 - D. Preuveneers et al., “D3.3: Research Challenges and Requirements to Manage Digital Evidence”, CyberSec4Europe, 2020.](https://cybersec4europe.eu/wp-content/uploads/2020/02/D3.3-Research-challenges-and-requirements-to-manage-digital-evidence-Submitted.pdf)
+
+[3 - M. Guarascio et al., “D3.14: Cooperation With Threat Intelligence Services For Deploying Adaptive Honeypots”, CyberSec4Europe, 2021.](https://cybersec4europe.eu/wp-content/uploads/2021/10/D3.14-Cooperation-with-Threat-Intelligence-Services-for-deploying-adaptive-honeypots_2.05_submitted.pdf)
+
+[4 - Original T3.4 repository](https://github.com/cs4ewp3t4/cs4ewp3t4)
+</br>
+
