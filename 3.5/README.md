@@ -28,7 +28,7 @@ Finally, we identify General Data Protection Regulation (GDPR) compliance issues
 
 #### Summary
 
-This scenario supports the modelling and analysis of threats elicited for the maritime Transport example. We use the SPARTA asset developed at KUL to support the modelling of a Data-Flow-Diagram of the Maritime Transport example, the assets and select specific threats categories. Subsequently, the SPARTA asset supports the automated elicitation of threats on the basis of the DFD and the identification of security controls to mitigate the identified threats.
+This scenario addresses the need for modelling and analysis of security threats dynamically, which are part of the Knowledge of an adaptive security system.  To address this need we use the SPARTA asset developed at KUL. First, SPARTA  is used to model the maritime transport example using a Data-Flow-Diagram (DFD), to identify the assets to be protected and select specific threats categories. Subsequently, the SPARTA asset is used to elicit threats automatically on the basis of the DFD and to identify  security controls to mitigate the identified threats.
 
 
 #### Resources
