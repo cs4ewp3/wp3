@@ -95,19 +95,12 @@ This scenario addresses the need to provide more automated and adaptive incident
 
 --- | Collaborative Networks| Education & Training | Certification | Secure Platforms of Platforms | Infrastructure Protection | Holistic Data Protection | AI-based Security | Systems Security & Security Lifetime Management | Secure Architectures for Next Generation Communication | Secure Quantum Technologies | Secure AI Systems | Personalized Privacy Protection
 --- | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+SPARTA (KUL)       | ---                | --- | --- | --- | --- | ---                | ---                 | :heavy_check_mark:                | --- | --- | ---                | :heavy_check_mark: 
 Adaptive Authentication (UCD)       | ---                | --- | --- | --- | --- | ---                | ---                 | :heavy_check_mark:                | --- | --- | ---                | :heavy_check_mark: 
-EBIDS (CNR)          | ---                | --- | --- | --- | :heavy_check_mark: | ---                | :heavy_check_mark:  | :heavy_check_mark:  | --- | --- | :heavy_check_mark: | ---
-ENIDS (FBK)          | ---                | --- | --- | --- | :heavy_check_mark: | ---                | :heavy_check_mark:  | ---                 | --- | --- | ---                | ---
-HADES (UMA)          | ---                | --- | --- | --- | :heavy_check_mark: | ---                | ---                 | ---                 | --- | --- | ---                | ---
-IntelFrame (DTU)     | ---                | --- | --- | --- | :heavy_check_mark: | ---                | :heavy_check_mark:  | ---                 | --- | --- | :heavy_check_mark: | ---
-JUDAS (UMA)          | ---                | --- | --- | --- | :heavy_check_mark: | ---                | ---                 | ---                 | --- | --- | ---                | ---
-NetGen (Polito)      | ---                | --- | --- | --- | :heavy_check_mark: | ---                | :heavy_check_mark:  | :heavy_check_mark:  | --- | --- | :heavy_check_mark: | ---
-PP-CTI (UMU)         | ---                | --- | --- | --- | ---                | :heavy_check_mark: | ---                 | ---                 | --- | --- | ---                | :heavy_check_mark:
-Reliable-CTI (UMU)   | ---                | --- | --- | --- | ---                | ---                | ---                 | :heavy_check_mark:  | --- | --- | ---                | ---
-RoCe (UNITN)         | ---                | --- | --- | --- | :heavy_check_mark: | ---                | ---                 | ---                 | --- | --- | ---                | ---
-TATIS (KUL)          | ---                | --- | --- | --- | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:  | ---                 | --- | --- | :heavy_check_mark: | ---
-TIE (ATOS)           | :heavy_check_mark: | --- | --- | --- | :heavy_check_mark: | :heavy_check_mark: | ---                 | ---                 | --- | --- | ---                | :heavy_check_mark:
-UASD (CNR)           | ---                | --- | --- | --- | ---                | ---                | :heavy_check_mark:  | ---                 | --- | --- | ---                | ---
+Situation-driven risk assessment and security enforcement framework (UPRC + IRIT)           | ---                | --- | --- | --- | :heavy_check_mark: | ---                | ---  | ---  | --- | --- | --- | :heavy_check_mark:
+SYSVER (CNR)          | ---                | --- | --- | --- | --- | ---                | ---  | ---                 | --- | --- | ---                | :heavy_check_mark:
+AIRE (ATOS)       | ---                | --- | --- | --- | --- | ---                | ---                 | :heavy_check_mark:                | --- | --- | ---                | :heavy_check_mark: 
+
 
 # References
 [1 - J. O. Kephart and D. M. Chess, "The vision of autonomic computing," Computer, vol. 36, no. 1, pp. 41-50, 2003.]
