@@ -4,7 +4,7 @@
 This page describes the main outputs of CS4E-WP3-T5.
 
 We illustrate how the assets developed in task 3.5 can be used to implement some of the activities of an adaptive security system. We assume that an adaptive security system is based on the MAPE-K (Monitor-Analyze-Plan-Execute) loop architecture [1] which is used to engineer adaptive systems [2]. Monitoring (M) is performed to collect data about the system to be protected and its operating environment and maintain an updated representation at runtime (Knowledge - K). The Knowledge also represents information about threats and security requirements. The Knowledge is used to analyze (A) security threats and assess security risks, and plan (P) and execute (E) security controls aimed to prevent or thwart the threats discovered during analysis.
-We showcase how the assets provided by each partner of task T3.5 can be used to implement a specific activity of an adaptive security system in order to support some of the maritime transport use case scenarios elicited in task T5.5. 
+We showcase how the assets provided by each partner of task T3.5 can be used to implement a specific activity of an adaptive security system necessary to support some of the maritime transport use case scenarios elicited in task T5.5. 
 
 
 # Overview
