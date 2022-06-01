@@ -4,7 +4,7 @@
 This page describes the main outputs of CS4E-WP3-T5.
 
 We illustrate how the assets developed in task 3.5 can be used to implement some of the activities of an adaptive security system. We assume that an adaptive security system is based on the MAPE-K (Monitor-Analyze-Plan-Execute) loop architecture [1] which is used to engineer adaptive systems [2]. Monitoring (M) is performed to collect data about the system to be protected and its operating environment and maintain an updated representation at runtime (Knowledge - K). The Knowledge also represents information about threats and security requirements. The Knowledge is used to analyze (A) security threats and assess security risks, and plan (P) and execute (E) security controls aimed to prevent or thwart the threats discovered during analysis.
-We showcase how the assets provided by each partner of task T3.5 can be used to implement a specific activity of an adaptive security system necessary to support some of the maritime transport use case scenarios elicited in task T5.5. 
+We showcase how the assets provided by each partner of task T3.5 can be used to implement a specific activity of an adaptive security system necessary to support some of the maritime transport use case scenarios elicited in task T5.5 [3]. 
 
 
 # Overview
@@ -114,7 +114,7 @@ UASD (CNR)           | ---                | --- | --- | --- | ---               
 
 [2 - Y. Brun et al., "Engineering self-adaptive systems through feedback loops," in Software engineering for self-adaptive systems: Springer, 2009, pp. 48-70 .]
 
-[3 - M. Guarascio et al., “D5.5: Cooperation With Threat Intelligence Services For Deploying Adaptive Honeypots”, CyberSec4Europe, 2021.](https://cybersec4europe.eu/wp-content/uploads/2021/10/D3.14-Cooperation-with-Threat-Intelligence-Services-for-deploying-adaptive-honeypots_2.05_submitted.pdf)
+[3 - Sforzin et al., “D5.4: Requirements Analysis of Demonstration Cases Phase 2”, CyberSec4Europe, 2021.](https://cybersec4europe.eu/wp-content/uploads/2021/05/D5.4-Requirements-Analysis-of-Demonstration-Cases-Phase-2-v1.0-submitted.pdf)
 
 </br>
 
