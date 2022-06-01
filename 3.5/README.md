@@ -47,7 +47,8 @@ This scenario addresses the need for modelling and analysis of security threats 
 
 #### Summary
 
-This scenario addresses the challenges raised by insufficient authentication in the maritime scenario. To address this issue the adaptive authentication system monitors contextual factors and behavioral features of its users to identify changing security risks. The system can decide to enforce an authentication method to mitigate the security risks and maximize user convenience. 
+This scenario addresses the challenges raised by insufficient authentication in the maritime scenario. To address this issue, we leverage the Adaptive Authentication asset developed at UCD. This asset monitors contextual factors and behavioral features of its users to identify changing security risks. It 
+can then decide to enforce an authentication method to mitigate the security risks, maximize user convenience and system performance. 
 
 
 #### Resources
@@ -60,7 +61,7 @@ This scenario addresses the challenges raised by insufficient authentication in 
 
 #### Summary
 
-This scenario supports the need for a more holistic security methodology combining risk analysis and the deployment of security policies. These activities are triggered dynamically by situation changes. Situations allow capturing complex and dynamic constraints (e.g., time, location, workflows, etc.). This concept will provide a guide for maritime security assessment and security policy enforcement. The resulting framework will be able to suggest adaptive security controls for various critical functions of the cargo transport service required by each security level of each situation. The situations identified at the risk assessment stage will be formally specified using complex event techniques while situation-driven security control will be translated into situation-driven security policies. The underlying security management infrastructure will then be able to dynamically deploy and enforce security policies making security adaptable to each predefined situation and security level.
+This scenario addresses the need for a more holistic security methodology combining risk analysis and the deployment and enforcement of security policies. This scenario is supported by combining 2 assets: MITIGATE and DYNSMAUG developed respectively at UPRC and UPS-IRIT. Risk analysis is triggered dynamically by situation changes. Situations allow capturing complex and dynamic constraints (e.g., time, location, workflows, etc.).  The resulting framework is able to suggest adaptive security controls for various critical functions of the cargo transport service required by each security level of each situation. The situations identified at the risk assessment stage are formally specified using complex event techniques while situation-driven security control are translated into situation-driven security policies. The underlying security management infrastructure is then be able to dynamically deploy and enforce security policies making security adaptable to each predefined situation and security level.
 
 #### Resources
 
@@ -72,15 +73,14 @@ This scenario supports the need for a more holistic security methodology combini
 
 #### Summary
 
-This scenario supports adaptive security risk analysis that can follow the system as it changes.
-The asset supporting this scenario is .
-Our approach is to combine all the available information (both at physical and cyber levels) to build a complete state diagram representing what each user/agent can do in the system, leveraging all his/its capabilities, in a dynamic scenario. The resulting state diagram can be then analysed to understand what the user/agent is able to access and how. The combination of all the state diagrams leads to the overall evaluation of the effective implementation of high-level security policies. Of course, given the context of the adaptive security, this is an evolving process, where any kind of change in some configuration of some elements (for instance, the addition of a service interaction, or a new connection between sub-networks) requires the re-evaluation of the possibly modified state diagrams, to find out if the new scenario has opened new access paths to possibly critical resources, introducing risk elements in the overall system. Another source of changes in the system is also the possible discovery of new potential vulnerabilities affecting one or more system components. In this case, the overall risk analysis is clearly affected by what channels a compromised element could open to a malicious user.
+This scenario addresses the need for adaptive security risk analysis that can follow the system as it changes.
+To address this need we customized the SYSVER asset developed at CNR. SYSVER combines different information (at physical and cyber levels) to build a complete state diagram representing what each user/agent can do in the system, leveraging all his/its capabilities, in a dynamic scenario. The resulting state diagram can be then analysed to understand what the user/agent is able to access and how. The combination of all the state diagrams leads to the overall evaluation of the effective implementation of high-level security policies. Given the context of the adaptive security, this is an evolving process, where any kind of change in some configuration of some elements (for instance, the addition of a service interaction, or a new connection between sub-networks) requires the re-evaluation of the possibly modified state diagrams, to find out if the new scenario has opened new access paths to possibly critical resources, introducing risk elements in the overall system. Another source of changes in the system is also the possible discovery of new potential vulnerabilities affecting one or more system components. In this case, the overall risk analysis is clearly affected by what channels a compromised element could open to a malicious user.
 
 ### Scenario 5: Adaptive Incident Reporting
 
 #### Summary
 
-This scenario supports the need to provide more automated and adaptive incident reporting capabilities. The asset supporting this scenario is AIRE (Atos Incident Reporting Engine) which can enforce a predefined and configurable incident reporting workflow and support the generation of the required mandatory reports adapted to different templates. 3 different incidents of the maritime transportation example were considered, which require to be reported to different competent authorities: 1) The AmosConnect attack; 2) attacks attempting to deviate a ship from its original course and 3) data breach incidents determined by vulnerabilities in the authentication process.
+This scenario addresses the need to provide more automated and adaptive incident reporting capabilities. The asset supporting this scenario is AIRE (Atos Incident Reporting Engine) developed at ATOS. This asset can enforce a predefined and configurable incident reporting workflow and support the generation of the required mandatory reports adapted to different templates. 3 different incidents of the maritime transportation example were considered, which require to be reported to different competent authorities: 1) The AmosConnect attack; 2) attacks attempting to deviate a ship from its original course and 3) data breach incidents determined by vulnerabilities in the authentication process.
 
 
 #### Resources
