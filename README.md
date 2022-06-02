@@ -123,7 +123,12 @@ WP3 is responsible for definition of common research, development and innovation
 [LEECH](3.6#assets-and-other-research) | --- | :heavy_check_mark: | ---  | --- | --- | --- | --- | --- | --- | --- | --- | :heavy_check_mark: 
 [Guidelines for GDPR compliant user experience](3.7#guidelines-for-gdpr-compliant-user-experience) | --- | --- | --- | --- | --- | :heavy_check_mark: | --- | --- | --- | --- | --- | :heavy_check_mark: 
 [Analysis of interoperability and cross-border compliance issues](3.7#analysis-of-interoperability-and-cross-border-compliance-issues) | :heavy_check_mark: | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
-[CSA](3.8#certification-assistant-tool-csa)  |  ---  | --- | :heavy_check_mark: | --- | :heavy_check_mark: | --- | --- | :heavy_check_mark: | --- | --- | --- | ---
+[SPARTA (KUL)](3.5#scenario-1-data-flow-centric-threat-assessment)  |  ---  | --- | --- | --- | ---| --- | --- | :heavy_check_mark: | --- | --- | --- | :heavy_check_mark:
+  [Adaptive Authentication (UCD)](3.5#scenario-2-adaptive-authentication)  |  ---  | --- | --- | --- | --- | --- | --- | :heavy_check_mark: | --- | --- | --- | :heavy_check_mark:
+  [Situation-driven risk assessment and security enforcement framework (UPRC + IRIT)](3.5#scenario-3-situation-driven-risk-assessment-and-security-enforcement)  |  ---  | :heavy_check_mark: | --- | --- | --- | --- | --- | --- | --- | --- | --- | :heavy_check_mark:
+  [SYSVER (CNR)](3.5#scenario-5-adaptive-incident-reporting)  |  ---  | --- | :heavy_check_mark: | --- | :heavy_check_mark: | --- | --- | :heavy_check_mark: | --- | --- | --- | :heavy_check_mark:
+  [AIRE (ATOS)](3.8#certification-assistant-tool-csa)  |  ---  | --- | --- | --- | --- | --- | --- | :heavy_check_mark: | --- | --- | --- | :heavy_check_mark:
+  [CSA](3.8#certification-assistant-tool-csa)  |  ---  | --- | :heavy_check_mark: | --- | :heavy_check_mark: | --- | --- | :heavy_check_mark: | --- | --- | --- | ---
 
 
 
