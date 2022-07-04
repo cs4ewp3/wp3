@@ -91,8 +91,8 @@ In the following table the assets and other research are listed and mapped to th
 
 |     Asset                             |     Non-asset   research           |     Asset   layer          |     Research Theme        | Reference |
 |---------------------------------------|------------------------------------|----------------------------|---------------------------|---|
-|     Privacy-preserving   IdM          |                                    |     User                   |     Privacy               |[Moreno et al.](https://ieeexplore.ieee.org/document/9495805)|
-|     DPIA   template                   |                                    |     Guidance   and User    |     Privacy               ||
+|     Privacy-preserving   IdM          |                                    |     User                   |     Privacy               |[Moreno et al.](https://ieeexplore.ieee.org/document/9495805) [(video)](https://www.youtube.com/watch?v=DYcG0dRRKaY)|
+|     DPIA   template                   |                                    |     Guidance   and User    |     Privacy               |[(video)](https://www.youtube.com/watch?v=UaQVWJEGiRI)|
 |                                       |     Privacy settings prediction    |     Guidance   and User    |     Privacy               ||
 |     HATCH                             |                                    |     Analysis               |     Human                 |[Beckers and Pape](https://ieeexplore.ieee.org/document/7765507)|
 |     CyberSecurity   Awareness Quiz    |                                    |     Guidance   and User    |     Human                 |[Pape et al.](https://link.springer.com/chapter/10.1007%2F978-3-030-62433-0_4)|
@@ -100,9 +100,9 @@ In the following table the assets and other research are listed and mapped to th
 |                                       |     Privacy notifications          |     User   and Guidance    |     Requirements          ||
 |     Adaptive   Authentication         |                                    |     User                   |     Requirements          ||
 |     HAMSTERS                          |                                    |     Analysis               |     Human                 |[Broders et al.](https://link.springer.com/chapter/10.1007/978-3-030-64266-2_4)|
-|     EEVEHAC                           |                                    |     User                   |     Human                 |[Hekkala et al.](https://www.scitepress.org/Papers/2021/105178/105178.pdf)|
+|     EEVEHAC                           |                                    |     User                   |     Human                 |[Hekkala et al.](https://www.scitepress.org/Papers/2021/105178/105178.pdf) [(video)](https://www.youtube.com/watch?v=BretpIC34nk)|
 |     SYSVER                            |                                    |     Analysis               |     Human                 ||
-|     AuthGuide                         |                                    |     Guidance   and User    |     Human                 |[Preuveneers et al.](https://www.springerprofessional.de/en/authguide-analyzing-security-privacy-and-usability-trade-offs-in/19616856)|
+|     AuthGuide                         |                                    |     Guidance   and User    |     Human                 |[Preuveneers et al.](https://www.springerprofessional.de/en/authguide-analyzing-security-privacy-and-usability-trade-offs-in/19616856) [(video)](https://people.cs.kuleuven.be/~davy.preuveneers/authguide.mp4)|
 |                                       |     Privacy concerns               |     Analysis               |     Human and Privacy     ||
 |     LEECH                             |                                    |     Guidance   and User    |     Human and Privacy     |[Pape et al.](https://www.usenix.org/conference/soups2021/presentation/pape)|
 ## Publications
@@ -146,8 +146,6 @@ LEECH | :heavy_check_mark: | - |  - | -
 
 --- | Collaborative Networks| Education & Training | Certification | Secure Platforms of Platforms | infrastructure Protection | Holistic Data Protection | AI-based Security | Systems Security & Security Lifetime Management | Secure Architectures for Next Generation Communication | Secure Quantum Technologies | Secure AI Systems | Personalized Privacy Protection
 --- | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- 
-Example Asset 1 | :heavy_check_mark:  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
-Example Asset 2 | --- | --- | --- | --- | --- | :heavy_check_mark:  | --- | --- | --- | --- | --- | :heavy_check_mark:  
 Privacy-preserving   IdM  | --- | --- | ---  | --- | --- | :heavy_check_mark:  | --- | --- | --- | --- | --- | :heavy_check_mark:  
 DPIA   template | --- | --- | ---  | --- | --- | :heavy_check_mark: | --- | --- | --- | --- | --- | :heavy_check_mark: 
 HATCH | --- | :heavy_check_mark: | ---  | --- | --- | :heavy_check_mark: | --- | :heavy_check_mark: | --- | --- | --- | --- 
