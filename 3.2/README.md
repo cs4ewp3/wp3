@@ -68,7 +68,7 @@ Sousa, Patricia. "Privacy Preserving Middleware Platform for IoT" (2021). Univer
 * Video (Sharemind MPC): https://drive.google.com/file/d/1WDxKVk6dZIhwL4wBYVt9sFRY8nvbxNWq/view?usp=sharing
 * Sharemind MPC overview and documentation: https://docs.sharemind.cyber.ee/
 * Main publications:
-  * Ostrak, A., Randmets, J., Sokk, V., Laur, S., Kamm, L. "Implementing Privacy-Preserving Genotype Analysis with Consideration for Population Stratification". CRYPTOGRAPHY, 5 (3), ARTN 21
+  * Ostrak, A., Randmets, J., Sokk, V., Laur, S., Kamm, L. "Implementing Privacy-Preserving Genotype Analysis with Consideration for Population Stratification". CRYPTOGRAPHY, 5 (3), ARTN 21, (2021).
   * Bogdanov, D. "Sharemind: programmable secure computations with practical applications". PhD Thesis. 2013. University of Tartu Press. https://dspace.ut.ee/handle/10062/29041
 
 
