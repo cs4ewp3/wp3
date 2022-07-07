@@ -60,12 +60,24 @@ Sousa, Patricia. "Privacy Preserving Middleware Platform for IoT" (2021). Univer
 * Video: https://drive.google.com/file/d/1jP6fU4oMATR2crVWEvAYmNWN7tkAMMNl/view?usp=sharing                                                    
 * Main publication:
 
-
 **Sharemind**
-* Summary: Sharemind is a secure computing platform that consists of Sharemind MPC (based on secret sharing) and Sharemind HI (based on trusted execution environments). Here we will describe Sharemind HI, which is a development platform for the confidential analysis of data from multiple parties on a centralized server with full control overexposing the data and results to others.
-* Video: https://drive.google.com/file/d/1PI7-vZ7yImfe83vR2t3LXuEJq1TEaCxU/view?usp=sharing	                                                    
-* Main publication:
+* Summary: Sharemind is a secure computing platform that consists of Sharemind MPC (based on secret sharing) and Sharemind HI (based on trusted execution environments).
+  * Sharemind MPC uses secret sharing and secure multi-party computation to protect confidential data at rest, in transit and in use. Data is secret-shared by the data provider at the source. All calculations on secret-shared data are done using secure multi-party computation, thus protecting data during the whole analysis lifecycle. Even the Sharemind MPC hosts providing the service will not have access to unencrypted data. Sharemind MPC is built as a client-server service. The solution is based on tasks that run on Sharemind virtual machines that compute on secret-shared data using hundreds of implemented protocols for different operations and data types.
+  * Sharemind HI is a development platform for the confidential analysis of data from multiple parties on a centralized server with full control over exposing the data and results to others. The data is encrypted at the source, by the data owner, and only then sent to the Sharemind HI service. The host of the service will not have access to the unencrypted data nor the encryption keys. Sharemind HI does not remove the data protections even while processing it, the data will remain protected by cryptographic means during the whole analysis. Sharemind HI relies on a trusted execution environment (TEE) technology to provide security guarantees. A TEE isolates the security sensitive parts of an application from the rest of the system with the help of trusted hardware. The TEE technology used in Sharemind HI to implement the privacy-preserving data processing is Intel® Software Guard Extensions (SGX) which is available in modern Intel® processors.
+* Video (Sharemind HI): https://drive.google.com/file/d/1PI7-vZ7yImfe83vR2t3LXuEJq1TEaCxU/view?usp=sharing	                                                    
+* Video (Sharemind MPC): https://drive.google.com/file/d/1WDxKVk6dZIhwL4wBYVt9sFRY8nvbxNWq/view?usp=sharing
+* Sharemind MPC overview and documentation: https://docs.sharemind.cyber.ee/
+* Main publications:
+  * Ostrak, A., Randmets, J., Sokk, V., Laur, S., Kamm, L. "Implementing Privacy-Preserving Genotype Analysis with Consideration for Population Stratification". CRYPTOGRAPHY, 5 (3), ARTN 21, (2021).
+  * Bogdanov, D. "Sharemind: programmable secure computations with practical applications". PhD Thesis. 2013. University of Tartu Press. https://dspace.ut.ee/handle/10062/29041
 
+
+**PLEAK DP analysers**
+* Summary: The web-based tool PLEAK (pleak.io) has been described in Task 3.3 (https://github.com/cs4ewp3/wp3/tree/main/3.3). PLEAK allows to model and analyse business processes specified in privacy-enhanced Business Process Model and Notation (PE-BPMN). It supports several different kinds of privacy leakage analysis of PE-BPMN models. This asset analyses the need and determines the parameters for differential privacy in PLEAK. The definition of differential privacy is based on comparing two settings: when the output is computed from the input with the private data of Alice, and without private data of Alice. It assumes a probabilistic output. If the probability of getting the same output in both cases is “nearly” the same (quantified by a privacy parameter ε), then Alice can feel safe since the output does not depend “much” on her private data. This property must hold not just for Alice, but for any individual whose data is in the dataset. Since the output of a BPMN process is typically deterministic, differential privacy can be achieved by adding a certain amount of random noise to the released output, making it probabilistic. Ideally, the user would like to see an interactive plot representing the relation between the privacy level and the noise level. This visual interface has been developed as a complementary component to PLEAK.
+* Video: https://drive.google.com/file/d/1E_h4Tqj-ZUx8RdbnMsoIP3ZZEg2mgKpK/view?usp=sharing
+* Main publications:
+  *  Pankova, Alisa; St. John, Mark F.; Denker, Grit; Laud, Peeter; Martiny, Karsten; Pavlovic, Dusko (2021). Decision Support for Sharing Data Using Differential Privacy. 18th IEEE Symposium on Visualization for Cyber Security, VizSec 2021, online, 27.10.2021. IEEE, 1-10. https://doi.org/10.1109/VizSec53666.2021.00008
+  * Elkoumy, Gamal; Pankova, Alisa; Dumas, Marlon (2021). Mine Me but Don’t Single Me Out: Differentially Private Event Logs for Process Mining. 3rd International Conference on Process Mining (ICPM). IEEE Computer Society, 80−87. https://doi.org/10.1109/ICPM53251.2021.9576852
 
 **Blockchain Platform**
 * Summary: This asset provides a blockchain-as-a-service platform but with improvements over state-of-the-art solutions (e.g., Hyperledger Fabric) that address a number of important issues the technology suitable for the fintech world10. Namely: Privacy, Scalabilty and Lack of Governance.
