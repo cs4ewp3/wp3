@@ -126,6 +126,8 @@ In the following table the assets and other research are listed and mapped to th
 
 [Pape, S.; Klauer, A. and Rebler, M.: Leech: Let's Expose Evidently bad data Collecting Habits - Towards a Serious Game on Understanding Privacy Policies (Poster). In 17th Symposium on Usable Privacy and Security (SOUPS 2021), 2021.](https://www.usenix.org/conference/soups2021/presentation/pape) [preprint](https://pape.science/paper/PKR21soupsposter/)
 
+[Nikula, S., Martinie, C., Palanque, P., Hekkala, J., Latvala, OM., Halunen, K. (2022). Models-Based Analysis of Both User and Attacker Tasks: Application to EEVEHAC. In: Bernhaupt, R., Ardito, C., Sauer, S. (eds) Human-Centered Software Engineering. HCSE 2022. Lecture Notes in Computer Science, vol 13482. Springer, Cham.](https://doi.org/10.1007/978-3-031-14785-2_5)
+
 # Cybersecurity Research and Areas Priority
 
 --- | Governance and Capacity Building | Trustworthy Ecosystems of Systems | Trust-Building Blocks | Disruptive Emerging Development
