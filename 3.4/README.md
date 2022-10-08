@@ -26,10 +26,12 @@ The following scenarios about enriching CTI and adaptive honeypots can leverage 
      * http://155.54.95.184:8082/anonymizer/AnonymizerAPI.html [PP-CTI anonymizer service, integrated with TATIS]
 * Videos:
      * https://people.cs.kuleuven.be/~davy.preuveneers/tatis.mp4
+     * https://people.cs.kuleuven.be/~davy.preuveneers/tatis_finpoc.mp4
 * Scientific dissemination: 
      * Preuveneers, D., et al. &quot;TATIS: trustworthy APIs for threat intelligence sharing with UMA and CP-ABE.&quot; Foundations and Practice of Security. 12th International Symposium, FPS 2019, Toulouse, France, November 5–7, 2019, Revised Selected Papers. Vol. 12056. Springer International Publishing; Switzerland, 2020.
      * Preuveneers, D., et al. &quot;Distributed Security Framework for Reliable Threat Intelligence Sharing.&quot; Security and Communication Networks 2020 (2020).
      * Preuveneers, D., and Joosen, W. &quot;Sharing Machine Learning Models as Indicators of Compromise for Cyber Threat Intelligence.&quot; Journal of Cybersecurity and Privacy 1.1 (2021): 140-163.
+     * Preuveneers, D., and Joosen, W. &quot;Privacy-Preserving Polyglot Sharing and Analysis of Confidential Cyber Threat Intelligence.&quot; International Conference on Availability, Reliability and Security, ARES 2022, Vienna, Austria, August 23-26, 2022.
 
 ### Scenario 2: Enriching the information on detected threats via TDS cooperation and gathered by means of honeypot instances:
 
