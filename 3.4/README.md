@@ -68,6 +68,7 @@ Two assets collaborate to achieve this aim: (i) Briareos, a HIDS capable of laun
 * Videos:
      * https://www.dcc.fc.up.pt/~jresende/videos/briareos.mp4
 * Scientific dissemination: 
+     * Silva, S., Sousa, P.R., Resende, J.S., Antunes, L. (2022). Threat Detection and Mitigation with Honeypots: A Modular Approach for IoT. In: Katsikas, S., Furnell, S. (eds) Trust, Privacy and Security in Digital Business. TrustBus 2022. Lecture Notes in Computer Science, vol 13582. Springer, Cham. https://doi.org/10.1007/978-3-031-17926-6_5 
      * Martins, Inês, et al. "Host-based IDS: A review and open issues of an anomaly detection system in IoT." Future Generation Computer Systems (2022). 
      * Pinto Bastos Martins, Maria Inês. 2020. Anomaly Detection in Cybersecurity. Mater Thesis, https://sigarra.up.pt/fcup/pt/pub_geral.show_file?pi_doc_id=275358. 
      * Dinis da Silva e Barbosa, Mário. 2020. JBriareos: A Secure and Scalable Distributed Intrusion Detection System. Master Thesis, https://sigarra.up.pt/fcup/pt/pub_geral.show_file?pi_doc_id=274710. 
