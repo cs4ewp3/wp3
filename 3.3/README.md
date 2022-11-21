@@ -77,8 +77,11 @@ Dionysiou, Antreas, Vassilis Vassiliades, and Elias Athanasopoulos. "HoneyGen: G
 
 **Modssl-hmac**
 * Tool: https://bitbucket.org/srecgrp/modssl-hmac-public/
-* Main publications: 
---Diomedous, Constantinos, and Elias Athanasopoulos. "Practical password hardening based on TLS." International Conference on Detection of Intrusions and Malware, and Vulnerability Assessment. Springer, Cham, 2019.
+* Main publications: Diomedous, Constantinos, and Elias Athanasopoulos. "Practical password hardening based on TLS." International Conference on Detection of Intrusions and Malware, and Vulnerability Assessment. Springer, Cham, 2019.
+
+**Lethe**
+* Tool: https://bitbucket.org/srecgrp/lethe-public/
+* Main publications: Dionysiou, Antreas, and Athanasopoulos, Elias. "Lethe: Practical Data Breach Detection with Zero Persistent Secret State." European Symposium on Security and Privacy, IEEE. 2022.
 
 **SEMCO**
 * Tool: https://doi.org/10.1109/ICECCS.2019.00033
@@ -120,6 +123,7 @@ BowTiePlus |  ---  | :heavy_check_mark: | :heavy_check_mark: | ---
 HoneyGen |  ---  | --- | :heavy_check_mark: | --- 
 VTPin |  ---  | --- | :heavy_check_mark: | --- 
 Modssl-hmac |  ---  | --- | :heavy_check_mark:| --- 
+Lethe |  ---  | --- | :heavy_check_mark:| --- 
 SEMCO |  ---  | --- | :heavy_check_mark: | --- 
 
 --- | Collaborative Networks| Education & Training | Certification | Secure Platforms of Platforms | Infrastructure Protection | Holistic Data Protection | AI-based Security | Systems Security & Security Lifetime Management | Secure Architectures for Next Generation Communication | Secure Quantum Technologies | Secure AI Systems | Personalized Privacy Protection
@@ -135,4 +139,5 @@ BowTiePlus |  ---  | --- | --- | --- |---| --- | --- | :heavy_check_mark: | --- 
 HoneyGen |  ---  | --- | --- | --- |---| --- | --- | :heavy_check_mark: | --- | --- | --- | ---
 VTPin |  ---  | --- | --- | --- |---| --- | --- | :heavy_check_mark: | --- | --- | --- | ---
 Modssl-hmac |  ---  | --- | --- | --- |---| --- | --- | :heavy_check_mark: | --- | --- | --- | ---
+Lethe |  ---  | --- | --- | --- |---| --- | --- | :heavy_check_mark: | --- | --- | --- | ---
 SEMCO |  ---  | --- | --- | --- |---| --- | --- | :heavy_check_mark: | --- | --- | --- | ---
