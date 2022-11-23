@@ -52,7 +52,10 @@ A typical flow within the proposed scenario includes the following steps: (1) An
      * Nieto, A. 2020. "Becoming JUDAS: Correlating Users and Devices during a Digital Investigation." IEEE Transactions on Information Forensics & Security, Volume 15, Pages 3325-3334.
      * Folino, F., G. Folino, M. Guarascio, F.S. Pisani, and L. Pontieri. 2021. "On learning effective ensembles of deep neural networks for intrusion detection." Information Fusion, Volume 72, Pages 48-69.
      * Guarascio, M., N. Cassavia, F.S. Pisani, and G. Manco. 2022. "Boosting Cyber Threat Intelligence via Collaborative Intrusion Detection." Future Generation Computer Systems, Volume 135, Pages 30-43. 
-
+     * Liguori, A., Manco, G., Pisani, F.S.,  Ritacco, E.:  Adversarial Regularized Reconstruction for Anomaly Detection and Generation. 2021 IEEE International Conference on Data Mining (ICDM), 2021, pp. 1204-1209, doi: 10.1109/ICDM51629.2021.00145.
+     * Guarascio, M-, Zuppelli, M., Cassavia, N., Caviglione, L., and Manco, G.: Revealing MageCart-like Threats in Favicons via Artificial Intelligence. In Proceedings of the 17th International Conference on Availability, Reliability and Security (ARES '22). Association for Computing Machinery, New York, NY, USA, Article 45, 1–7. https://doi.org/10.1145/3538969.3544437
+     * Cassavia, N., Caviglione, L., Guarascio, M., Liguori, A., Zuppelli, M.: Ensembling Sparse Autoencoders for Network Covert Channel Detection in IoT Ecosystems. In: Foundations of Intelligent Systems. ISMIS 2022. Lecture Notes in Computer Science (LNCS), vol 13515. Springer, Cham. https://doi.org/10.1007/978-3-031-16564-1_20
+     * Guarascio, M., Zuppelli, M., Cassavia, N., Manco, M., Caviglione, L.: Detection of Network Covert Channels in IoT Ecosystems Using Machine Learning. ITASEC 2022: 102-113
 
 ### Scenario 3: Adaptive deployment
 
