@@ -30,6 +30,7 @@ Summary:
 * Tool: https://sigarra.up.pt/fcup/pt/pub_geral.pub_view?pi_pub_base_id=378511
 * Main publication: 
 Estrela, João Vasco Bispo. "Android Security by Introspection." (2019). Universidade do Porto
+* Videos: [tool demo](https://www.youtube.com/watch?v=7q_V6vgm6Vk)
 
 **Hermes**
 * Tool: https://github.com/rolandomar/hermes
@@ -40,36 +41,43 @@ João Soares, R. F. (2021). ZERMIA - A Fault Injector framework for testing Byza
 * Tool: https://github.com/RisQFLan/RisQFLan/wiki
 * Main publications: 
 Maurice H. ter Beek, Axel Legay, Alberto Lluch Lafuente, and Andrea Vandin. 2021. Quantitative Security Risk Modeling and Analysis with RisQFLan. Comput. Secur. 109, C (Oct 2021). DOI:https://doi.org/10.1016/j.cose.2021.102381.
+* Videos: [tool demo](https://www.youtube.com/watch?v=rgb-1NZbNWk)
 
 **Pleak**
 * Tool: https://github.com/pleak-tools
 * Main publications: 
 Dumas, Marlon, et al. "Multi-level privacy analysis of business processes: the Pleak toolset." International Journal on Software Tools for Technology Transfer (2021): 1-21.
+* Videos: [tool demo](https://www.youtube.com/watch?v=ail4I-3IbYw)
 
 **Verefoo**
 * Tool: https://github.com/netgroup-polito/verefoo
 * Main publications: 
 D. Bringhenti, G. Marchetto, R. Sisto, F. Valenza, J. Yusupov, ”A novel approach for security function graph configuration and deployment”, 7th IEEE Conference on Network Softwarization (NetSoft), 2021.
+* Videos: [tool demo](https://www.youtube.com/watch?v=ua8NLt_D3HI)
 
 **CORAS**
 * Tool: https://stverdal.github.io/#/
 * Main publications: 
 Erdogan, Gencer, et al. "A Systematic Mapping Study on Approaches for Al-Supported Security Risk Assessment."2021 IEEE 45th Annual Computers, Software, and Applications Conference (COMPSAC). IEEE, 2021.
+* Videos: [tool demo](https://www.youtube.com/watch?v=_83AKH9-eVU)
 
 **PVS**
 * Tool: https://www.isa- afp.org/entries/Automated_Stateful_Protocol_Verification.html
 * Main publications: 
 Hess, Andreas V., et al. "Performing Security Proofs of Stateful Protocols." 34th IEEE Computer Security Foundations Symposium (CSF). IEEE, 2021.
+* Videos: [tool demo](https://www.youtube.com/watch?v=MCV6WJZOWPg)
 
 **BowTiePlus**
 * Tool: https://github.com/INSA-SINTEF/BowtiePlusPlus/
 * Main publications: 
 Meland, Per Håkon, et al. "A Systematic Mapping Study on Cyber Security Indicator Data." Electronics 10.9 (2021): 1092.
+* Videos: [tool demo](https://www.youtube.com/watch?v=-JKvT5jA30U)
 
 **HoneyGen**
 * Tool: https://bitbucket.org/srecgrp/honeygen-generating-honeywords-using-representation-learning/
 * Main publications: 
 Dionysiou, Antreas, Vassilis Vassiliades, and Elias Athanasopoulos. "HoneyGen: Generating Honeywords Using Representation Learning." Proceedings of the 2021 ACM Asia Conference on Computer and Communications Security. 2021.
+* Videos: [tool demo](https://www.youtube.com/watch?v=jFuJVnU0CDo)
 
 **VTPin**
 * Tool: https://github.com/uberspot/VTPin
@@ -78,6 +86,7 @@ Dionysiou, Antreas, Vassilis Vassiliades, and Elias Athanasopoulos. "HoneyGen: G
 **Modssl-hmac**
 * Tool: https://bitbucket.org/srecgrp/modssl-hmac-public/
 * Main publications: Diomedous, Constantinos, and Elias Athanasopoulos. "Practical password hardening based on TLS." International Conference on Detection of Intrusions and Malware, and Vulnerability Assessment. Springer, Cham, 2019.
+* Videos: [tool demo](https://www.youtube.com/watch?v=0skAlgC2hm8)
 
 **Lethe**
 * Tool: https://bitbucket.org/srecgrp/lethe-public/
@@ -87,6 +96,7 @@ Dionysiou, Antreas, Vassilis Vassiliades, and Elias Athanasopoulos. "HoneyGen: G
 * Tool: https://doi.org/10.1109/ICECCS.2019.00033
 * Main publications: 
 Rouland, Quentin, Brahim Hamid, and Jason Jaskolka. "Specification, detection, and treatment of STRIDE threats for software components: Modeling, formal methods, and tool support." Journal of Systems Architecture 117 (2021): 102073.
+* Videos: [tool demo](https://www.youtube.com/watch?v=Y9I4l3kBpBM)
 
 Further details about the tools and their demonstration can be found in [Deliverable D3.15: Proactive Approaches For Software Development](https://cybersec4europe.eu/wp-content/uploads/2022/01/D3.15-Proactive-approaches-for-secure-software-development-v1.0_submitted.pdf). Accompanying videos for each tool can be found on a dedicated [YouTube channel](https://www.youtube.com/channel/UCSAJ78frZjdUTooAC4t6Wuw).
 
