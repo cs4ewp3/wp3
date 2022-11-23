@@ -88,10 +88,6 @@ Dionysiou, Antreas, Vassilis Vassiliades, and Elias Athanasopoulos. "HoneyGen: G
 * Main publications: Diomedous, Constantinos, and Elias Athanasopoulos. "Practical password hardening based on TLS." International Conference on Detection of Intrusions and Malware, and Vulnerability Assessment. Springer, Cham, 2019.
 * Videos: [tool demo](https://www.youtube.com/watch?v=0skAlgC2hm8)
 
-**Lethe**
-* Tool: https://bitbucket.org/srecgrp/lethe-public/
-* Main publications: Dionysiou, Antreas, and Athanasopoulos, Elias. "Lethe: Practical Data Breach Detection with Zero Persistent Secret State." European Symposium on Security and Privacy, IEEE. 2022.
-
 **SEMCO**
 * Tool: https://doi.org/10.1109/ICECCS.2019.00033
 * Main publications: 
@@ -99,6 +95,12 @@ Rouland, Quentin, Brahim Hamid, and Jason Jaskolka. "Specification, detection, a
 * Videos: [tool demo](https://www.youtube.com/watch?v=Y9I4l3kBpBM)
 
 Further details about the tools and their demonstration can be found in [Deliverable D3.15: Proactive Approaches For Software Development](https://cybersec4europe.eu/wp-content/uploads/2022/01/D3.15-Proactive-approaches-for-secure-software-development-v1.0_submitted.pdf). Accompanying videos for each tool can be found on a dedicated [YouTube channel](https://www.youtube.com/channel/UCSAJ78frZjdUTooAC4t6Wuw).
+
+Subsequent work has lead to additional tools:
+
+**Lethe**
+* Tool: https://bitbucket.org/srecgrp/lethe-public/
+* Main publications: Dionysiou, Antreas, and Athanasopoulos, Elias. "Lethe: Practical Data Breach Detection with Zero Persistent Secret State." European Symposium on Security and Privacy, IEEE. 2022.
 
 # Research Roadmap for Secure Software Lifecycle
 
