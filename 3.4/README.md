@@ -19,7 +19,7 @@ The following scenarios about enriching CTI and adaptive honeypots can leverage 
 
 #### Resources
 
-*	Online proof-of-concept demonstrators and repositories:
+* Online proof-of-concept demonstrators and repositories:
      * https://nuage.cs.kuleuven.be/	[KUL's MISP instance]
      * https://nuage.cs.kuleuven.be/tatis/	[integration with KUL's MISP instance]
      * https://ciel.cs.kuleuven.be/tatis/ 	[integration with CNR's MISP instance]
@@ -44,10 +44,10 @@ A typical flow within the proposed scenario includes the following steps: (1) An
 #### Resources
 
 * Online proof-of-concept demonstrators and repositories
-     * https://misp1.icar.cnr.it/		[CNR MISP instance] 
+     * https://misp1.icar.cnr.it/		[CNR MISP instance]
 * Videos:
-     * https://github.com/massimo-guarascio/cs4e_ebids_asset 
-     * https://tinyurl.com/tie-atos	
+     * https://github.com/massimo-guarascio/cs4e_ebids_asset
+     * https://tinyurl.com/tie-atos
 * Scientific dissemination: 
      * Nieto, A. 2020. "Becoming JUDAS: Correlating Users and Devices during a Digital Investigation." IEEE Transactions on Information Forensics & Security, Volume 15, Pages 3325-3334.
      * Folino, F., G. Folino, M. Guarascio, F.S. Pisani, and L. Pontieri. 2021. "On learning effective ensembles of deep neural networks for intrusion detection." Information Fusion, Volume 72, Pages 48-69.
