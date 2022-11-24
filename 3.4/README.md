@@ -69,6 +69,7 @@ Two assets collaborate to achieve this aim: (i) Briareos, a HIDS capable of laun
 
 * Online proof-of-concept demonstrators and repositories:
      * https://github.com/InesMartins31/iot-cves
+     * The APT Dataset (Di Tizio, et al. 2022): https://doi.org/10.5281/zenodo.6514816
 * Videos:
      * https://www.dcc.fc.up.pt/~jresende/videos/briareos.mp4
 * Scientific dissemination: 
@@ -76,6 +77,8 @@ Two assets collaborate to achieve this aim: (i) Briareos, a HIDS capable of laun
      * Martins, Inês, et al. "Host-based IDS: A review and open issues of an anomaly detection system in IoT." Future Generation Computer Systems (2022). 
      * Pinto Bastos Martins, Maria Inês. 2020. Anomaly Detection in Cybersecurity. Mater Thesis, https://sigarra.up.pt/fcup/pt/pub_geral.show_file?pi_doc_id=275358. 
      * Dinis da Silva e Barbosa, Mário. 2020. JBriareos: A Secure and Scalable Distributed Intrusion Detection System. Master Thesis, https://sigarra.up.pt/fcup/pt/pub_geral.show_file?pi_doc_id=274710. 
+     * Di Tizio, G., Armellini, M., Massacci F., "Software Updates Strategies: a Quantitative Evaluation against Advanced Persistent Threats", IEEE Transactions on Software Engineering, 2022
+
 
 # Cybersecurity Research and Areas Priority
 
