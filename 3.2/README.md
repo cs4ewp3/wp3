@@ -40,7 +40,7 @@ Sousa, Patricia. "Privacy Preserving Middleware Platform for IoT" (2021). Univer
 **GDPR compliant user experience**
 * Summary: GDPR compliant user experience is combined from two sections. The first is the Guidelines for General Data Protection Regulation (GDPR) which present the regulation's requirements through the GDPR principles. The second part of the enabler is the Data Protection Impact Assessment (DPIA) template. As the name suggests, this part of the enabler can be used to help guide the user through the process of doing a DPIA and also serve as documentation for the performed analysis.
 * Video: https://drive.google.com/file/d/10SIv_nk2JC9Js5QQHTj0FKnBetERrwRo/view?usp=sharing                                                   
-* Main publication: ÖLBL, Marko, KEŽMAH, Boštjan, KOMPARA, Marko. Data protection heterogeneity in the European Union. Applied sciences. Nov.-2 2021, vol. 11, iss. 22, str. 1-9. ISSN 2076-3417. DOI: https://dx.doi.org/10.3390/app112210912.
+* Main publication: Hölbl, Marko, Kežmah, Boštjan, Kompara, Marko. Data protection heterogeneity in the European Union. Applied sciences. Nov.-2 2021, vol. 11, iss. 22, str. 1-9. ISSN 2076-3417. DOI: https://dx.doi.org/10.3390/app112210912.
 
 
 **FlexProd and ArchiStar**
