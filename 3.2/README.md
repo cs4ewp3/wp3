@@ -144,7 +144,7 @@ Breaking and Fixing Anonymous Credentials for the Cloud. CANS 2019: 249-269
 **pp-FL**
 * Summary: Federated Learning (FL) has attracted significant interest given its prominent advantages and applicability in many scenarios. However, it has been demonstrated that sharing updated gradients/weights during the training process can lead to privacy concerns. In the context of the Internet of Things (IoT), this can be exacerbated due to Intrusion Detection Systems (IDS), which are intended to detect security attacks by analyzing the devices’ network traffic. This proposal provides a comprehensive evaluation of Differential Privacy (DP) techniques, which are applied during the training of an FL-enabled IDS for Industrial IoT (IIoT). Unlike previous approaches, we deal with non-iid data over the recent ToN_IoT dataset and compare the accuracy obtained considering different privacy requirements and aggregation functions, namely FedAvg and the recently proposed Fed+. According to our evaluation, the use of Fed+ in our setting provides similar results even when noise is included in the federated training process.
 * Video: //TODO: INSERT-LINK//
-* Main publication:
+* Main publication: [Enrique Mármol Campos, Pablo Fernández Saura, Aurora González-Vidal, José L. Hernández-Ramos, Jorge Bernal Bernabe, Gianmarco Baldini, Antonio Skarmeta, Evaluating Federated Learning for intrusion detection in Internet of Things: Review and challenges, Computer Networks, 2021, 108661. JCR, Q1, IF:5.49. DOI](https://doi.org/10.1016/j.comnet.2021.108661)
 # Cybersecurity Research and Areas Priority
 
 --- | Governance and Capacity Building | Trustworthy Ecosystems of Systems | Trust-Building Blocks | Disruptive Emerging Develpment
@@ -185,4 +185,5 @@ PLEAK DP analysers  | --- | --- | --- | --- | --- | :heavy_check_mark: | --- | -
 [1 - A. Skarmeta, “D3.1 Common Framework Handbook 1,” CyberSec4Europe, 2019.](https://cybersec4europe.eu/wp-content/uploads/2020/06/D3.1-Handbook-v2.0-submitted-1.pdf)
 
 [2 - J. Resende, "D3.13 Updated version of enablers and components"  CyberSec4Europe, 2021.](https://cybersec4europe.eu/wp-content/uploads/2022/02/D3.13-Updated-version-of-enablers-and-components-v3.0-submitted.pdf)
+
 
