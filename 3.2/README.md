@@ -46,19 +46,24 @@ Sousa, Patricia. "Privacy Preserving Middleware Platform for IoT" (2021). Univer
 **FlexProd and ArchiStar**
 * Summary: FlexProd is an integrity- and privacy-preserving platform for distributed computations on potentially sensitive data, using ArchiStar libraries as subcomponents. Like Sharemind (cf. Section 4.14), FlexProd is based on secure multi-party computation, which allows multiple computation nodes to jointly perform computations on their respective inputs, without the other nodes learning any information about the other nodes' input. Users can now share their data using the ArchiStar secret sharing libraries, and store one share for each compute node, which can then perform, e.g., statistical analytics on data from potentially numerous users.
 * Video: https://drive.google.com/file/d/105Aij5Szlo6CEZqX_9_PsbD_xES8bsG4/view?usp=sharing                                                   
-* Main publication:
-
+* Main publications:
+  * Thomas Lorünser, Florian Wohner, Stephan Krenn: A Privacy-Preserving Auction Platform with Public Verifiability for Smart Manufacturing. ICISSP 2022: 637-647
+  * Thomas Lorünser, Florian Wohner, Stephan Krenn: A Verifiable Multiparty Computation Solver for the Linear Assignment Problem: And Applications to Air Traffic Management. CCSW@CCS 2022: 41-51
 
 **Issuer-Hiding Anonymous Credentials**
-* Summary: Issuer-hiding anonymous credential systems provide a mechanism for privacy-friendly identity management. They enhance over the state of the art by not only offering means for selective disclosure and data minimization (cf. also asset SS-PP-IdM (Section 4.3) and cloud-based credentials (Section 4.15)), but also allow for hiding the issuer of a certain credential.
+* Summary: Issuer-hiding anonymous credential systems provide a mechanism for privacy-friendly identity management. They enhance over the state of the art by for the first time not only offering means for selective disclosure and data minimization, but also allow for hiding the issuer of a certain credential within a set of issuers defined by the verifier. As an example, a student may show that she is subscribed at _some_ university, without revealing the precise university or country, thereby significantly increasing the privacy set.
 * Video: https://drive.google.com/file/d/105Aij5Szlo6CEZqX_9_PsbD_xES8bsG4/view?usp=sharing                                                    
 * Main publication:
+  * Jan Bobolz, Fabian Eidens, Stephan Krenn, Sebastian Ramacher, Kai Samelin: Issuer-Hiding Attribute-Based Credentials. CANS 2021: 158-178
 
 
 **Cloud-Based Credentials**
 * Summary: Cloud-based credential systems provide a mechanism for privacy-friendly identity management. They enhance the state of the art by not only offering means for selective disclosure and data minimization (cf. also asset SS-PP-IdM) but by additionally focusing on resource-constrained devices. This is achieved by outsourcing all computationally heavy operations to the cloud without putting a user’s privacy at risk.
 * Video: https://drive.google.com/file/d/1jP6fU4oMATR2crVWEvAYmNWN7tkAMMNl/view?usp=sharing                                                    
 * Main publication:
+  * Stephan Krenn, Thomas Lorünser, Anja Salzer, Christoph Striecks: Towards Attribute-Based Credentials in the Cloud. CANS 2017: 179-202
+  * Ulrich Haböck, Stephan Krenn:
+Breaking and Fixing Anonymous Credentials for the Cloud. CANS 2019: 249-269
 
 **Sharemind**
 * Summary: Sharemind is a secure computing platform that consists of Sharemind MPC (based on secret sharing) and Sharemind HI (based on trusted execution environments).
