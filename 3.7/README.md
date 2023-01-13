@@ -64,7 +64,8 @@ Although there is an eIDAS side and a GDPR side to the interoperability and cros
 *	https://cybersec4europe.eu/heterogeneity-of-data-protection-legislation-in-the-eu/  
 
 **Scientific publications:**  
-*	M. Hölbl, B. Kežmah, and M. Kompara, "Data Protection Heterogeneity in the European Union," Applied Sciences 2021, Vol. 11, Page 10912, vol. 11, no. 22, p. 10912, Nov. 2021, doi: 10.3390/APP112210912
+*	M. Hölbl, B. Kežmah, and M. Kompara, "Data Protection Heterogeneity in the European Union," Applied Sciences 2021, Vol. 11, Page 10912, vol. 11, no. 22, p. 10912, Nov. 2021. DOI: 10.3390/APP112210912
+* Hölbl M, Kežmah B, Kompara M. eIDAS Interoperability and Cross-Border Compliance Issues. Mathematics. 2023; 11(2):430. DOI: 10.3390/math11020430.
 
 #	Cybersecurity Research Focus Areas
 The 4 Pilots and ECSO designed priority Cybersecurity Research Focus Areas. The challanges addressed and work done in assets developed in this task fall into the folowing categories and specific areas.
