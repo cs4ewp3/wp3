@@ -36,6 +36,7 @@ Sousa, Patricia. "Privacy Preserving Middleware Platform for IoT" (2021). Univer
 **Interoperability and cross-border compliance**
 * Summary: The Interoperability and cross-border compliance enabler address issues related to different eIDAS (electronic Identification, Authentication and trust Services) implementations and legislation differences in EU member states, ultimately hampering the idea of a Single European Market. To a lesser degree, the report also looks at the differences between Member states from the perspective of the GDPR.
 * Video: https://drive.google.com/file/d/1CwyrUx7YDG9Gn95HdlfB1thBSGzRXrth/view?usp=sharing
+* Main publication: Hölbl M, Kežmah B, Kompara M. eIDAS Interoperability and Cross-Border Compliance Issues. Mathematics. 2023; 11(2):430. DOI: https://doi.org/10.3390/math11020430.
 
 **GDPR compliant user experience**
 * Summary: GDPR compliant user experience is combined from two sections. The first is the Guidelines for General Data Protection Regulation (GDPR) which present the regulation's requirements through the GDPR principles. The second part of the enabler is the Data Protection Impact Assessment (DPIA) template. As the name suggests, this part of the enabler can be used to help guide the user through the process of doing a DPIA and also serve as documentation for the performed analysis.
